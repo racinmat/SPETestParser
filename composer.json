@@ -1,0 +1,13 @@
+{
+    "name": "azathoth/spe-tests-parser",
+    "description": "tests parser for SPE",
+    "require": {
+        "codeception/codeception": "^2.1"
+    },
+    "authors": [
+        {
+            "name": "Azathoth",
+            "email": "memnarch@seznam.cz"
+        }
+    ]
+}
