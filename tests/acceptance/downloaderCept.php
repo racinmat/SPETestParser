@@ -74,16 +74,17 @@ for ($i = 1; $i <= 30; $i++) {
 	if (array_key_exists($questionText, $allTests)) {
 		$question = $allTests[$questionText];
 	} else {
-		/** @var Answer[] $question */
-		$question = [];
+		/** @var Answer[] $answers */
+		$answers = [];
 		$answer1number = $I->grabTextFrom("~<TD VALIGN=\"MIDDLE\"><INPUT TYPE=\"radio\" VALUE=\"(\d+)\" NAME=\"a$i\" \/><\/TD><TD>(.*?)<BR /></TD>~i");
 		$answersCount = $I->getNumberOfElements("input[name=a$i]");
 		for ($j = 0; $j < $answersCount; $j++) {
 			$number = $answer1number + $j;
 			$answerText = $I->grabTextFrom("~<TD VALIGN=\"MIDDLE\"><INPUT TYPE=\"radio\" VALUE=\"$number\" NAME=\"a$i\" \/><\/TD><TD>(.*?)<BR /></TD>~i");
-			$question[] = new Answer($answerText, null, $number, false);
+			$answers[] = new Answer($answerText, null, $number, false);
 		}
 		$allTests[$questionText] = new Question($questionText);
+		$allTests[$questionText]->answers = $answers;
 	}
 }
 
@@ -101,7 +102,7 @@ foreach ($currentTest as $questionText) {
 	foreach ($question->answers as $answer) {
 		if (!$answer->tried) {
 			//první nevyzkoušená otázka
-			$id = $answer['id'];
+			$id = $answer->id;
 //			$I->selectOption("input[name=a$i]", $id);
 			$I->click("input[value=\"$id\"]");
 			$question->selected = $answer;
@@ -120,7 +121,7 @@ foreach ($currentTest as $questionText) {
 	/** @var Question $question */
 	$question = $allTests[$questionText];
 	$i++;   //číslo otázky
-	$image = $I->grabTextFrom("~<img src=\"(.*?)\" ALT=\"status\"> (.*?) </td><td><b>$i.~");
+	$image = $I->grabTextFrom("~<img alt=\"status\" src=\"(.*?)\"(.*?)</td><td><b>$i\.~i");
 	if ($image == 'img/icon_good.jpg') {
 		$question->selected->correct = true;
 		$question->correctAnswer = $question->selected;
