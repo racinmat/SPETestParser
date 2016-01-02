@@ -29,6 +29,9 @@ class Question {
 		$this->selected = null;
 	}
 
+	/**
+	 * @return bool
+	 */
 	public function hasCorrectAnswer()
 	{
 		return $this->correctAnswer != null;

@@ -2,7 +2,7 @@
 /** @var \Codeception\TestCase\Cept $this */	//typehint na proměnnou $this
 /** @var \Codeception\Scenario $scenario */	//typehint na proměnnou $this
 
-require_once '../classes.php';
+require_once __DIR__ . '/../classes.php';
 
 /** @var Question[] $allTests */
 $allTests = json_decode(file_get_contents('tests.json'), true);
@@ -12,7 +12,11 @@ foreach ($allTests as $questionText => $question) {
 		$answers[] = new Answer($answer['text'], $answer['correct'], $answer['id'], $answer['tried']);
 	}
 	$questionObject = new Question($question['text'], $answers);
-	$questionObject->selected = $question['selected'];
+	$questionObject->selected = null;
+	if ($question['correctAnswer'] == null) {
+	} else {
+		$questionObject->correctAnswer = new Answer($question['correctAnswer']['text'], $question['correctAnswer']['correct'], $question['correctAnswer']['id'], $question['correctAnswer']['tried']);
+	}
 	$questionObject->correctAnswer = $question['correctAnswer'];
 	$allTests[$questionText] = $questionObject;
 }
@@ -46,12 +50,11 @@ for ($i = 1; $i <= 30; $i++) {
 }
 
 //naklikání nevyzkoušených odpovědí
-$i = 0;
 foreach ($currentTest as $questionText) {
 	/** @var Question $question */
 	$question = $allTests[$questionText];
-	$i++;   //číslo otázky
 	if ($question->hasCorrectAnswer()) {
+		$I->wantTo('select correct answer of ' . json_encode($question));
 		$id = $question->correctAnswer->id;
 		$I->click("input[value=\"$id\"]");
 		continue;
