@@ -114,6 +114,7 @@ foreach ($currentTest as $questionText) {
 //submit formuláře
 $I->click('input[type=button]');
 
+//přečtení správnosti
 $i = 0;
 foreach ($currentTest as $questionText) {
 	/** @var Question $question */
@@ -121,13 +122,15 @@ foreach ($currentTest as $questionText) {
 	$i++;   //číslo otázky
 	$image = $I->grabTextFrom("~<img src=\"(.*?)\" ALT=\"status\"> (.*?) </td><td><b>$i.~");
 	if ($image == 'img/icon_good.jpg') {
-		$question['selected']['correct'] = true;
-	} else {
-
+		$question->selected->correct = true;
+		$question->correctAnswer = $question->selected;
 	}
 }
 
+foreach ($allTests as $questionText => $question) {
+	$question->selected = null;
+}
+
+
 file_put_contents('tests.json', json_encode($allTests, JSON_PRETTY_PRINT));
 file_put_contents('testing.json', json_encode($array, JSON_PRETTY_PRINT));
-
-$I->pauseExecution();
