@@ -8,6 +8,8 @@ class downloaderCest
 	/** @var Question[] $allTests */
 	protected $allTests;
 
+	protected $currentTest;
+
     public function _before(AcceptanceTester $I)
     {
     }
@@ -19,6 +21,7 @@ class downloaderCest
 	public function _failed(AcceptanceTester $I)
 	{
 		file_put_contents('failedTests.json', json_encode($this->allTests, JSON_PRETTY_PRINT));
+		file_put_contents('failedTestsCurrent.json', json_encode($this->currentTest, JSON_PRETTY_PRINT));
 	}
 
     // tests
@@ -33,13 +36,13 @@ class downloaderCest
 			$questionObject = new Question($question['text'], $answers);
 			$questionObject->selected = null;
 			if ($question['correctAnswer'] == null) {
+				$questionObject->correctAnswer = null;
 			} else {
 				$questionObject->correctAnswer = new Answer($question['correctAnswer']['text'], $question['correctAnswer']['correct'], $question['correctAnswer']['id'], $question['correctAnswer']['tried']);
 			}
-			$questionObject->correctAnswer = $question['correctAnswer'];
 			$allTests[$questionText] = $questionObject;
 		}
-		$currentTest = []; //question => correct answer
+		$this->currentTest = []; //question => correct answer
 
 		$I->wantTo('fill test and download results');
 		$I->amOnPage('/login.php?id=127');
@@ -50,9 +53,8 @@ class downloaderCest
 		$array = [];
 		for ($i = 1; $i <= 30; $i++) {
 			$questionText = $I->grabTextFrom("~$i.<\/b> otázka \(.*?\) - +<b>(.*?)<\/b>~");
-			$currentTest[] = $questionText;
+			$this->currentTest[] = $questionText;
 			if (array_key_exists($questionText, $this->allTests)) {
-				$question = $this->allTests[$questionText];
 			} else {
 				/** @var Answer[] $answers */
 				$answers = [];
@@ -68,7 +70,7 @@ class downloaderCest
 		}
 
 		//naklikání nevyzkoušených odpovědí
-		foreach ($currentTest as $questionText) {
+		foreach ($this->currentTest as $questionText) {
 			/** @var Question $question */
 			$question = $this->allTests[$questionText];
 			if ($question->hasCorrectAnswer()) {
@@ -94,7 +96,7 @@ class downloaderCest
 
 		//přečtení správnosti
 		$i = 0;
-		foreach ($currentTest as $questionText) {
+		foreach ($this->currentTest as $questionText) {
 			/** @var Question $question */
 			$question = $this->allTests[$questionText];
 			$i++;   //číslo otázky
