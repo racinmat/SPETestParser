@@ -12,6 +12,18 @@
 //}
 
 
-$test = []; //question => correct answer
-$test = json_decode(file_get_contents(__DIR__ . '/../tests.json'), true);
-var_dump($test);
+//$test = []; //question => correct answer
+//$test = json_decode(file_get_contents(__DIR__ . '/../tests.json'), true);
+//var_dump($test);
+
+$array1 = array("id1" => "value1");
+
+$array2 = array("id2" => "value2", "id3" => "value3", "id4" => "value4");
+
+$array3 = array_merge($array1, $array2/*, $arrayN, $arrayN*/);
+$array4 = $array1 + $array2;
+
+echo '<pre>';
+var_dump($array3);
+var_dump($array4);
+echo '</pre>';

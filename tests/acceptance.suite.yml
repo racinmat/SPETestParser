@@ -14,6 +14,6 @@ modules:
 #            browser: chrome
             browser: firefox
             window_size: 1200x800
-            wait: 5
+            wait: 4
         - \Helper\Acceptance
         - Asserts
