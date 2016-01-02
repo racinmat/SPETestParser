@@ -2,62 +2,20 @@
 /** @var \Codeception\TestCase\Cept $this */	//typehint na proměnnou $this
 /** @var \Codeception\Scenario $scenario */	//typehint na proměnnou $this
 
-class Question {
-	/** @var Answer[] */
-	public $answers;
-	/** @var Answer */
-	public $correctAnswer;
-	/** @var Answer */
-	public $selected;
-	/** @var string */
-	public $text;
-
-	/**
-	 * Question constructor.
-	 */
-	public function __construct($text)
-	{
-		$this->correctAnswer = null;
-		$this->answers = [];
-		$this->text = $text;
-		$this->selected = null;
-	}
-
-	public function hasCorrectAnswer()
-	{
-		return $this->correctAnswer != null;
-	}
-}
-
-class Answer {
-	/** @var string */
-	public $text;
-	/** @var bool */
-	public $correct;
-	/** @var int */
-	public $id;
-	/** @var bool */
-	public $tried;
-
-	/**
-	 * Answer constructor.
-	 * @param string $text
-	 * @param bool $correct
-	 * @param int $id
-	 * @param bool $tried
-	 */
-	public function __construct($text, $correct, $id, $tried)
-	{
-		$this->text = $text;
-		$this->correct = $correct;
-		$this->id = $id;
-		$this->tried = $tried;
-	}
-
-}
+require_once '../classes.php';
 
 /** @var Question[] $allTests */
 $allTests = json_decode(file_get_contents('tests.json'), true);
+foreach ($allTests as $questionText => $question) {
+	$answers = [];
+	foreach ($question['answers'] as $answer) {
+		$answers[] = new Answer($answer['text'], $answer['correct'], $answer['id'], $answer['tried']);
+	}
+	$questionObject = new Question($question['text'], $answers);
+	$questionObject->selected = $question['selected'];
+	$questionObject->correctAnswer = $question['correctAnswer'];
+	$allTests[$questionText] = $questionObject;
+}
 $currentTest = []; //question => correct answer
 
 $I = new AcceptanceTester($scenario);
@@ -83,8 +41,7 @@ for ($i = 1; $i <= 30; $i++) {
 			$answerText = $I->grabTextFrom("~<TD VALIGN=\"MIDDLE\"><INPUT TYPE=\"radio\" VALUE=\"$number\" NAME=\"a$i\" \/><\/TD><TD>(.*?)<BR /></TD>~i");
 			$answers[] = new Answer($answerText, null, $number, false);
 		}
-		$allTests[$questionText] = new Question($questionText);
-		$allTests[$questionText]->answers = $answers;
+		$allTests[$questionText] = new Question($questionText, $answers);
 	}
 }
 
@@ -103,7 +60,6 @@ foreach ($currentTest as $questionText) {
 		if (!$answer->tried) {
 			//první nevyzkoušená otázka
 			$id = $answer->id;
-//			$I->selectOption("input[name=a$i]", $id);
 			$I->click("input[value=\"$id\"]");
 			$question->selected = $answer;
 			$answer->tried = true;
