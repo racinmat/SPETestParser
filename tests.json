@@ -4264,7 +4264,7 @@
                 "text": "tak, aby byla mo\u017enost rychl\u00e9ho odpojen\u00ed",
                 "correct": null,
                 "id": 17963,
-                "tried": false
+                "tried": true
             },
             {
                 "text": "co nejbl\u00ed\u017ee m\u00edstu sva\u0159ov\u00e1n\u00ed nebo na kovov\u00fd sva\u0159e\u010dsk\u00fd st\u016fl",
@@ -5025,9 +5025,9 @@
             },
             {
                 "text": "zplnomocn\u011bn\u00fd pracovn\u00edk",
-                "correct": null,
+                "correct": true,
                 "id": 17984,
-                "tried": false
+                "tried": true
             },
             {
                 "text": "bezpe\u010dnostn\u00ed technik",
@@ -5036,7 +5036,12 @@
                 "tried": false
             }
         ],
-        "correctAnswer": null,
+        "correctAnswer": {
+            "text": "zplnomocn\u011bn\u00fd pracovn\u00edk",
+            "correct": true,
+            "id": 17984,
+            "tried": true
+        },
         "selected": null,
         "text": " Kdo odpov\u00edd\u00e1 za vystaven\u00ed p\u00edsemn\u00e9ho p\u0159\u00edkazu pro sva\u0159ov\u00e1n\u00ed v m\u00edstech se zv\u00fd\u0161en\u00fdm nebezpe\u010d\u00edm vzniku po\u017e\u00e1ru nebo v\u00fdbuchu?      "
     },
@@ -5050,9 +5055,9 @@
             },
             {
                 "text": "100 - 120 ms<sup>-1<\/sup>",
-                "correct": null,
+                "correct": true,
                 "id": 18367,
-                "tried": false
+                "tried": true
             },
             {
                 "text": "70 - 100 ms<sup>-1<\/sup>",
@@ -5067,7 +5072,12 @@
                 "tried": false
             }
         ],
-        "correctAnswer": null,
+        "correctAnswer": {
+            "text": "100 - 120 ms<sup>-1<\/sup>",
+            "correct": true,
+            "id": 18367,
+            "tried": true
+        },
         "selected": null,
         "text": " Jako st\u0159edn\u00ed plamen ozna\u010dujeme plamen s v\u00fdstupn\u00ed rychlost\u00ed:      "
     },
@@ -5254,7 +5264,7 @@
                 "text": "celkovou dobou cyklu 10 min a DZ= 80%",
                 "correct": null,
                 "id": 18136,
-                "tried": false
+                "tried": true
             },
             {
                 "text": "celkovou dobou cyklu 5 min a DZ= 60%",
@@ -5297,5 +5307,36 @@
         "correctAnswer": null,
         "selected": null,
         "text": " P\u0159i sva\u0159ov\u00e1n\u00ed v uzav\u0159en\u00fdch n\u00e1dob\u00e1ch, kotlech v n\u00e1dr\u017e\u00edch apod. spou\u0161t\u00ed a zastavuje sva\u0159ovac\u00ed zdroj:      "
+    },
+    "18022": {
+        "answers": [
+            {
+                "text": "umo\u017e\u0148uj\u00edc\u00ed pohodlnou \u010dinnost sva\u0159e\u010de",
+                "correct": null,
+                "id": 18022,
+                "tried": true
+            },
+            {
+                "text": "uzav\u0159en\u00e9 s centr\u00e1ln\u00edm v\u011btr\u00e1n\u00edm",
+                "correct": null,
+                "id": 18023,
+                "tried": false
+            },
+            {
+                "text": "um\u00edst\u011bn\u00e9 v kabin\u011b, vybaven\u00e9 prost\u0159edky chr\u00e1n\u00edc\u00edmi sva\u0159e\u010de i okol\u00ed p\u0159ed nebezpe\u010d\u00edmi vznikaj\u00edc\u00edmi p\u0159i sva\u0159ov\u00e1n\u00ed",
+                "correct": null,
+                "id": 18024,
+                "tried": false
+            },
+            {
+                "text": "prostorn\u00e9 s p\u0159im\u011b\u0159en\u00fdm osv\u011btlen\u00edm a p\u0159irozen\u00fdm v\u011btr\u00e1n\u00edm",
+                "correct": null,
+                "id": 18025,
+                "tried": false
+            }
+        ],
+        "correctAnswer": null,
+        "selected": null,
+        "text": " Jak\u00e9 m\u00e1 b\u00fdt pracovi\u0161t\u011b pro ru\u010dn\u00ed sva\u0159ov\u00e1n\u00ed elektrick\u00fdm obloukem?      "
     }
 }
