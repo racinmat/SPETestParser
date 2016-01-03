@@ -28,7 +28,7 @@ class downloaderCest
     public function tryToTest(AcceptanceTester $I)
     {
 		$this->allTests = json_decode(file_get_contents('tests.json'), true);
-		foreach ($this->allTests as $questionText => $question) {
+		foreach ($this->allTests as $answer1number => $question) {
 			$answers = [];
 			foreach ($question['answers'] as $answer) {
 				$answers[] = new Answer($answer['text'], $answer['correct'], $answer['id'], $answer['tried']);
@@ -40,9 +40,9 @@ class downloaderCest
 			} else {
 				$questionObject->correctAnswer = new Answer($question['correctAnswer']['text'], $question['correctAnswer']['correct'], $question['correctAnswer']['id'], $question['correctAnswer']['tried']);
 			}
-			$this->allTests[$questionText] = $questionObject;
+			$this->allTests[$answer1number] = $questionObject;
 		}
-		$this->currentTest = []; //question => correct answer
+		$this->currentTest = []; //idčka první odpovědi k otázkám v testu
 
 		$I->wantTo('fill test and download results');
 		$I->amOnPage('/login.php?id=127');
@@ -53,29 +53,29 @@ class downloaderCest
 		$array = [];
 		for ($i = 1; $i <= 30; $i++) {
 			$questionText = $I->grabTextFrom("~$i.<\/b> otázka \(.*?\) - +<b>(.*?)<\/b>~");
-			$this->currentTest[] = $questionText;
-			if (array_key_exists($questionText, $this->allTests)) {
+			$answer1number = $I->grabTextFrom("~<TD VALIGN=\"MIDDLE\"><INPUT TYPE=\"radio\" VALUE=\"(\d+)\" NAME=\"a$i\" \/><\/TD><TD>(.*?)<BR /></TD>~i");
+			$this->currentTest[] = $answer1number;
+			if (array_key_exists($answer1number, $this->allTests)) {
 
 			} else {
 				/** @var Answer[] $answers */
 				$answers = [];
-				$answer1number = $I->grabTextFrom("~<TD VALIGN=\"MIDDLE\"><INPUT TYPE=\"radio\" VALUE=\"(\d+)\" NAME=\"a$i\" \/><\/TD><TD>(.*?)<BR /></TD>~i");
 				$answersCount = $I->getNumberOfElements("input[name=a$i]");
 				for ($j = 0; $j < $answersCount; $j++) {
 					$number = $answer1number + $j;
 					$answerText = $I->grabTextFrom("~<TD VALIGN=\"MIDDLE\"><INPUT TYPE=\"radio\" VALUE=\"$number\" NAME=\"a$i\" \/><\/TD><TD>(.*?)<BR /></TD>~i");
 					$answers[] = new Answer($answerText, null, $number, false);
 				}
-				$this->allTests[$questionText] = new Question($questionText, $answers);
+				$this->allTests[$answer1number] = new Question($questionText, $answers);
 			}
 		}
 
 		//naklikání nevyzkoušených odpovědí
-		foreach ($this->currentTest as $questionText) {
+		foreach ($this->currentTest as $answer1number) {
 			/** @var Question $question */
-			$question = $this->allTests[$questionText];
+			$question = $this->allTests[$answer1number];
+			$I->wantTo('select correct answer of ' . json_encode($question));
 			if ($question->hasCorrectAnswer()) {
-				$I->wantTo('select correct answer of ' . json_encode($question));
 				$id = $question->correctAnswer->id;
 				$I->click("input[value=\"$id\"]");
 				continue;
@@ -97,14 +97,16 @@ class downloaderCest
 
 		//přečtení správnosti
 		$i = 0;
-		foreach ($this->currentTest as $questionText) {
+		foreach ($this->currentTest as $answer1number) {
 			/** @var Question $question */
-			$question = $this->allTests[$questionText];
+			$question = $this->allTests[$answer1number];
 			$i++;   //číslo otázky
-			$image = $I->grabTextFrom("~<img alt=\"status\" src=\"(.*?)\"(.*?)</td><td><b>$i\.~i");
-			if ($image == 'img/icon_good.jpg') {
-				$question->selected->correct = true;
-				$question->correctAnswer = $question->selected;
+			if (!$question->hasCorrectAnswer()) {
+				$image = $I->grabTextFrom("~<img alt=\"status\" src=\"(.*?)\"(.*?)</td><td><b>$i\.~i");
+				if ($image == 'img/icon_good.jpg') {
+					$question->selected->correct = true;
+					$question->correctAnswer = $question->selected;
+				}
 			}
 		}
 
