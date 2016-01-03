@@ -21,12 +21,17 @@
             },
             {
                 "text": "Absolvovaly a slo\u017eily zkou\u0161ky podle \u010cSN 05 0705",
-                "correct": null,
+                "correct": true,
                 "id": 18057,
-                "tried": false
+                "tried": true
             }
         ],
-        "correctAnswer": null,
+        "correctAnswer": {
+            "text": "Absolvovaly a slo\u017eily zkou\u0161ky podle \u010cSN 05 0705",
+            "correct": true,
+            "id": 18057,
+            "tried": true
+        },
         "selected": null,
         "text": " Opr\u00e1vn\u011bn\u00ed ke sva\u0159ov\u00e1n\u00ed el. obloukem podle \u010cSN 05 0630 maj\u00ed osoby kter\u00e9:      "
     },
@@ -1055,12 +1060,17 @@
             },
             {
                 "text": "Jouleovo",
-                "correct": null,
+                "correct": true,
                 "id": 18548,
-                "tried": false
+                "tried": true
             }
         ],
-        "correctAnswer": null,
+        "correctAnswer": {
+            "text": "Jouleovo",
+            "correct": true,
+            "id": 18548,
+            "tried": true
+        },
         "selected": null,
         "text": " Odporov\u00e9 sva\u0159ov\u00e1n\u00ed vyu\u017e\u00edv\u00e1 ke sva\u0159ov\u00e1n\u00ed teplo :      "
     },
@@ -2006,9 +2016,9 @@
             },
             {
                 "text": "stabilizuje ho\u0159\u00edc\u00ed elektrick\u00fd oblouk p\u0159i sva\u0159ov\u00e1n\u00ed",
-                "correct": null,
+                "correct": true,
                 "id": 18124,
-                "tried": false
+                "tried": true
             },
             {
                 "text": "zajist\u00ed po kr\u00e1tk\u00e9 dob\u011b omezen\u00ed zkratov\u00e9ho proudu sv\u00e1\u0159ec\u00edho zdroje p\u0159i p\u0159ilepen\u00ed elektrody",
@@ -2017,7 +2027,12 @@
                 "tried": false
             }
         ],
-        "correctAnswer": null,
+        "correctAnswer": {
+            "text": "stabilizuje ho\u0159\u00edc\u00ed elektrick\u00fd oblouk p\u0159i sva\u0159ov\u00e1n\u00ed",
+            "correct": true,
+            "id": 18124,
+            "tried": true
+        },
         "selected": null,
         "text": " Funkce \"Arc Force\":      "
     },
@@ -3669,12 +3684,17 @@
             },
             {
                 "text": "450\u00b0C",
-                "correct": null,
+                "correct": true,
                 "id": 18444,
-                "tried": false
+                "tried": true
             }
         ],
-        "correctAnswer": null,
+        "correctAnswer": {
+            "text": "450\u00b0C",
+            "correct": true,
+            "id": 18444,
+            "tried": true
+        },
         "selected": null,
         "text": " Teplota t\u00e1n\u00ed m\u011bkk\u00e9 p\u00e1jky je ni\u017e\u0161\u00ed ne\u017e      "
     },
@@ -4707,9 +4727,9 @@
             },
             {
                 "text": "p\u0159ed zasunut\u00edm s\u00ed\u0165ov\u00e9 vidlice do z\u00e1suvky",
-                "correct": null,
+                "correct": true,
                 "id": 17960,
-                "tried": false
+                "tried": true
             },
             {
                 "text": "jednou t\u00fddn\u011b",
@@ -4718,7 +4738,12 @@
                 "tried": false
             }
         ],
-        "correctAnswer": null,
+        "correctAnswer": {
+            "text": "p\u0159ed zasunut\u00edm s\u00ed\u0165ov\u00e9 vidlice do z\u00e1suvky",
+            "correct": true,
+            "id": 17960,
+            "tried": true
+        },
         "selected": null,
         "text": " Kdy sva\u0159e\u010d kontroluje sva\u0159ovac\u00ed vodi\u010de?      "
     },
@@ -4878,7 +4903,7 @@
                 "text": "d\u00fdchac\u00ed p\u0159\u00edstroj",
                 "correct": null,
                 "id": 17955,
-                "tried": false
+                "tried": true
             },
             {
                 "text": "ochrann\u00fd p\u00e1s opat\u0159en\u00fd lanem, jeho\u017e druh\u00fd konec je pevn\u011b ukotven mimo v\u00fd\u0161e uveden\u00fd prostor",
@@ -4944,9 +4969,9 @@
             },
             {
                 "text": "pou\u017eijeme pro nap\u00e1jen\u00ed oblouku st\u0159\u00eddav\u00fd zdroj",
-                "correct": null,
+                "correct": true,
                 "id": 18176,
-                "tried": false
+                "tried": true
             },
             {
                 "text": "pou\u017eijeme pro nap\u00e1jen\u00ed oblouku stejnosm\u011brn\u00fd zdroj",
@@ -4955,7 +4980,12 @@
                 "tried": false
             }
         ],
-        "correctAnswer": null,
+        "correctAnswer": {
+            "text": "pou\u017eijeme pro nap\u00e1jen\u00ed oblouku st\u0159\u00eddav\u00fd zdroj",
+            "correct": true,
+            "id": 18176,
+            "tried": true
+        },
         "selected": null,
         "text": " Metoda WIG je pou\u017eiteln\u00e1 pro sva\u0159ov\u00e1n\u00ed hlin\u00edku pokud :      "
     },
