@@ -5364,9 +5364,9 @@
             },
             {
                 "text": "um\u00edst\u011bn\u00e9 v kabin\u011b, vybaven\u00e9 prost\u0159edky chr\u00e1n\u00edc\u00edmi sva\u0159e\u010de i okol\u00ed p\u0159ed nebezpe\u010d\u00edmi vznikaj\u00edc\u00edmi p\u0159i sva\u0159ov\u00e1n\u00ed",
-                "correct": null,
+                "correct": true,
                 "id": 18024,
-                "tried": false
+                "tried": true
             },
             {
                 "text": "prostorn\u00e9 s p\u0159im\u011b\u0159en\u00fdm osv\u011btlen\u00edm a p\u0159irozen\u00fdm v\u011btr\u00e1n\u00edm",
@@ -5375,7 +5375,12 @@
                 "tried": false
             }
         ],
-        "correctAnswer": null,
+        "correctAnswer": {
+            "text": "um\u00edst\u011bn\u00e9 v kabin\u011b, vybaven\u00e9 prost\u0159edky chr\u00e1n\u00edc\u00edmi sva\u0159e\u010de i okol\u00ed p\u0159ed nebezpe\u010d\u00edmi vznikaj\u00edc\u00edmi p\u0159i sva\u0159ov\u00e1n\u00ed",
+            "correct": true,
+            "id": 18024,
+            "tried": true
+        },
         "selected": null,
         "text": " Jak\u00e9 m\u00e1 b\u00fdt pracovi\u0161t\u011b pro ru\u010dn\u00ed sva\u0159ov\u00e1n\u00ed elektrick\u00fdm obloukem?      "
     },
