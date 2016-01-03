@@ -45,9 +45,9 @@
             },
             {
                 "text": "nep\u0159enosn\u00fd a plat\u00ed v organizaci uveden\u00e9 na p\u0159edn\u00ed stran\u011b tohoto pr\u016fkazu",
-                "correct": null,
+                "correct": true,
                 "id": 18035,
-                "tried": false
+                "tried": true
             },
             {
                 "text": "je p\u0159enosn\u00fd ve stroj\u00edrensk\u00e9 v\u00fdrob\u011b",
@@ -62,7 +62,12 @@
                 "tried": false
             }
         ],
-        "correctAnswer": null,
+        "correctAnswer": {
+            "text": "nep\u0159enosn\u00fd a plat\u00ed v organizaci uveden\u00e9 na p\u0159edn\u00ed stran\u011b tohoto pr\u016fkazu",
+            "correct": true,
+            "id": 18035,
+            "tried": true
+        },
         "selected": null,
         "text": " Pr\u016fkaz za\u0161kolen\u00e9ho pracovn\u00edka podle \u010cSN 05 0705 je:      "
     },
@@ -4516,7 +4521,7 @@
                 "text": "nejm\u00e9n\u011b dvakr\u00e1t za rok",
                 "correct": null,
                 "id": 18039,
-                "tried": false
+                "tried": true
             },
             {
                 "text": "nejm\u00e9n\u011b jednou za 5 let",
@@ -4980,7 +4985,7 @@
                 "text": "\u010cSN 06 0510 a \u010cSN 06 0530",
                 "correct": null,
                 "id": 18068,
-                "tried": false
+                "tried": true
             },
             {
                 "text": "\u010cSN 05 0601 a \u010cSN 05 0630",
@@ -5379,9 +5384,9 @@
             },
             {
                 "text": "transform\u00e1tor",
-                "correct": null,
+                "correct": true,
                 "id": 17975,
-                "tried": false
+                "tried": true
             },
             {
                 "text": "invertor",
@@ -5396,7 +5401,12 @@
                 "tried": false
             }
         ],
-        "correctAnswer": null,
+        "correctAnswer": {
+            "text": "transform\u00e1tor",
+            "correct": true,
+            "id": 17975,
+            "tried": true
+        },
         "selected": null,
         "text": " P\u0159i sva\u0159ov\u00e1n\u00ed v uzav\u0159en\u00fdch n\u00e1dob\u00e1ch, kotlech, v n\u00e1dr\u017e\u00edch apod. se nesm\u00ed pou\u017e\u00edvat jako sva\u0159ovac\u00ed zdroj:      "
     }
