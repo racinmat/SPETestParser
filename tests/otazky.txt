@@ -1,0 +1,304 @@
+ Oprávnění ke svařování el. obloukem podle ČSN 05 0630 mají osoby které:      
+	Absolvovaly a složily zkoušky podle ČSN 05 0705.
+ Průkaz zaškoleného pracovníka podle ČSN 05 0705 je:      
+	nepřenosný a platí v organizaci uvedené na přední straně tohoto průkazu.
+ Pevnost v tahu R<sub>m</sub> je definována jako:      
+	Max.zatížení F<sub>m</sub> vztažené na počáteční průřez S<sub>0</sub>.
+ Kontrakce Z je definována vztahem (S je průřez zkušební tyčky po přetržení, S<sub>0</sub> je průřez zkušební tyčky před zkouškou):      
+	Z = {(S<sub>0</sub>-S).100}/S<sub>0</sub>.
+ Funkce "Hot Start":      
+	usnadňuje zapálení oblouku při ručním svařování tím, zvýší zapalovací proud o cca 30 % a po úspěšném zapálení se proud sníží na nastavenou hodnotu.
+ Normalizované pracovní napětí svařovacího zdroje U<sub>p</sub> pro proudy do 600 A pro ruční svařování je dáno vztahem:      
+	U<sub>p</sub>=20 + 0,04.I<sub>S</sub>.
+ Svařovací proud pro elektrody s bazickým obalem můžeme stanovit přibližně podle vztahu (d je průměr jádra elektrody v mm):      
+	I(A) = (35 až 50).d.
+ Svařovací proud pro elektrody s kyselým a rutilovým obalem můžeme stanovit přibližně podle vztahu (d je průměr jádra elektrody):      
+	I(A) = (40 až 55).d.
+ Metoda WIG (TIG) je metoda svařování:      
+	netavící se wolframovou elektrodou v inertním plynu.
+ V případě ručního obloukového svařování je svarový kov tvořen:      
+	roztaveným základním a přídavným materiálem.
+ V případě odporového svařování je svarový kov tvořen:      
+	 roztaveným základním materiálem.
+ Pro svařování laserovým svazkem se používá laser:      
+	He-N<sub>2</sub>-CO<sub>2</sub>.
+ U plasmového hořáku s tzv. nepřeneseným obloukem je zapojen hlavní zdroj      
+	mezi W lektrodu (-pól) a kovovou trysku(+ pól).
+ Standardní statickou charakteristiku oblouku pro svařovací metodu WIG lze popsat vztahem:      
+	U = 10+0,04 I<sub>s</sub>.
+ Standardní statickou charakteristiku oblouku pro ruční svařování obalovanou elektrodou lze popsat vztahem:      
+	U = 20+0,04 I<sub>s</sub>.
+ Při řezání železa plazmou:      
+	je řezaný materiál ohříván plasmou a následně vyfukován z řezu proudem vzduchu.
+ Vyznačte symbol pro následující polohu svařování: Poloha vodorovná <br /><br />        <img alt="image" src="image.php?k=170e9cfe4cbedc4c55a4aaf497f109b3&amp;f=PSVSL.JPG" /><br />      
+	PC.
+ Vyznačte symbol pro následující polohu svařování: Poloha vodorovná nad hlavou<br /><br />        <img alt="image" src="image.php?k=170e9cfe4cbedc4c55a4aaf497f109b3&amp;f=PSVSL.JPG" /><br />      
+	PE.
+ Barva hrdla lahve pro přepravu technického vodíku má barvu:      
+	červenou.
+ Barva hrdla lahve pro přepravu technického oxidu uhličitého má barvu:      
+	šedou.
+ Dle klasifikace podle ČSN 421315 považujeme za dokonálé smáčení takové, kdy úhel smáčení leží v intervalu      
+	0° až 20°.
+ Tavidla v procesu pájení      
+	brání oxidaci pájky a povrchu pájených součástí.
+ Pro SMD technologii pájení se používá výhradně:      
+	pájecí pasta.
+ "Voidy" jsou:      
+	dutiny uzavřené v objemu tuhé pájky.
+ Nepájivá maska:      
+	vymezuje oblast smáčení pájkou.
+ Pájení stojatou vlnou je vhodné pro technologii montáže:      
+	THT.
+ Wire bonding používá k propojování Cu mikrodrátem:      
+	termosonické svařování.
+ Wire bonding používá k propojování:      
+	mikrodrátů.
+ Pro výrobu elektrod pro odporové svařování se používá:      
+	slitina Cu-Ni<sub>2</sub>-Si.
+ Odporové svařování využívá ke svařování teplo :      
+	Jouleovo.
+ Co je nutné dodržet při současném zapojení více stejnosměrných svařovacích zdrojů na jeden svarek?      
+	svařovací zdroje musí mít vůči svarku stejnou polaritu.
+ Po jakou dobu musí být pracoviště pod dozorem po ukončení svařečské činnosti?      
+	nejméně 8 hodin.
+ Výrazná mez kluzu R<sub>e</sub> je definována jako:      
+	Zatížení na mezi kluzu F<sub>e</sub> vztažené na počáteční průřez S<sub>0</sub>.
+ Vrubová houževnatost vzorku materiálu se udává v:      
+	J/cm<sup>2</sup>.
+ Maximální efektivní hodnota napětí střídavého svařovacího zdroje naprázdno U<sub>n</sub> pro prostředí bez zvýšeného nebezpečí úrazu elektrickým proudem je:      
+	nejvýše 80 V.
+ Normalizované pracovní napětí svařovacího zdroje U<sub>p</sub> pro proudy nad 600 A pro ruční svařování je:      
+	U<sub>p</sub>=44 V.
+ Při připojení svářecího zdroje s tzv. "nepřímou polaritou" je svářeci elektroda připojena na:      
+	na kladný pól stejnosměrného zdroje, přičemž záporný zdroj je připojen na svařenec.
+ Metoda MAG je metoda svařování:      
+	tavící se kovovou elektrodou v aktivním plynu.
+ Metoda MIG používá jako ochranu před okolní atmosférou:      
+	Argon, Helium případně jejich směsi.
+ Teplem ovlivněná oblast :      
+	 je oblast svaroveho spoje, která nebyla roztavena a ve které dojde ke změnám mikrostruktury v důsledku působení zdroje tepla od svařování.
+ U plasmového hořáku s tzv. přeneseným obloukem je zapojen hlavní zdroj      
+	mezi W elektrodu (- pól) a svařovaný materiál (+ pól).
+ Proces řezání železa kyslíkem je :      
+	exotermickou reakcí za vzniku oxidů Fe.
+ Vyznačte symbol pro následující polohu svařování: Poloha vodorovná shora <br /><br />        <img alt="image" src="image.php?k=170e9cfe4cbedc4c55a4aaf497f109b3&amp;f=PSVSL.JPG" /><br />      
+	PA.
+ Jako neutrální plamen označujeme plamen s poměrem oxidujícího plynu a acetylenu      
+	1 až 1,1.
+ Teplota plamene acetylenu + O<sub>2</sub> dosahuje (ve °C)      
+	3200.
+ K vytvoření pájeného spoje dochází v důsledku:      
+	vzájemným rozpouštěním pájky a spojovaných kovů a vzájemné difuze pájky a pájených součástí v pevné fázi.
+ Pájecí pasta se na DPS nanáší:      
+	sítotiskem nebo dispenzerem.
+ Podstatou pájení v parách je:      
+	kondenzace par pájecí kapaliny na pájecí pastě a pájených součástech a jejich spájení.
+ Jako bílý mor označujeme:      
+	intermetalickou sloučeninu Au<sub>5</sub>Al<sub>2</sub>.
+ Pro výrobu elektrod pro odporové svařování se používá:      
+	Cu-Cr.
+ Tzv. měkký režim při odporovém svařování je charakterizován:      
+	nižším svařovacím proudem ,delším časem, nižší přítlačnou silou.
+ Bezpečné prostory z hlediska úrazu elektrickým proudem jsou takové, kde se používá bezpečné jmenovité napětí stejnosměrného proudu:      
+	do 100 V.
+ Které hasící přístroje se nesmí používat při hašení svařovacích zdrojů?      
+	vodní a pěnové.
+ Jaké je prodloužení delta L tyče délky L<sub>0</sub> = 100 mm, jestliže je axiálně zatěžována v oblasti pružné deformace napětím 420 MPa. Modul pružnosti materiálu tyče je E = 2,1.10<sup>5</sup> MPa.      
+	2.10<sup>-4</sup>m.
+ Vickersova zkouška tvrdosti je definována jako:      
+	Síla působící na indentor vztažená na plochu povrchu vtisku ve tvaru jehlanu.
+ Transformátor svařovacího invertoru pracuje na frekvenci:      
+	40 kHz - 100 kHz.
+ Funkce "Arc Force":      
+	stabilizuje hořící elektrický oblouk při svařování.
+ Při připojení svářecího zdroje s tzv. "přímou polaritou" je svářeci elektroda připojena na:      
+	na záporný pól stejnosměrného zdroje, přičemž kladný zdroj je připojen na svařenec.
+ Metoda WIG používá jako ochranu před okolní atmosférou:      
+	Argon, Helium případně jejich směsi.
+ V případě svařování elektronovým paprskem je svarový kov tvořen:      
+	 roztaveným základním materiálem.
+ Označte metodu svařování, při jejíž aplikaci je generováno RTG záření.      
+	svařování elektronovým svazkem.
+ Vyznačte symbol pro následující polohu svařování: Poloha svislá dolů<br /><br />        <img alt="image" src="image.php?k=170e9cfe4cbedc4c55a4aaf497f109b3&amp;f=PSVSL.JPG" /><br />      
+	PG.
+ Teplota plamene vodíku + O<sub>2</sub> dosahuje (ve °C)      
+	2000.
+ Jako měkký plamen označujeme plamen s výstupní rychlostí:      
+	70 - 100 ms<sup>-1</sup>.
+ Dle klasifikace podle ČSN 421315 považujeme za postačující smáčení takové, kdy úhel smáčení leží v intervalu      
+	41° až 55°.
+ Dle klasifikace podle ČSN 421315 považujeme za nesmáčivý povrch takový, kdy úhel smáčení leží v intervalu      
+	91°až 180°.
+ Wire bonding používá k propojování Au mikrodrátem:      
+	termokompresi.
+ Wire bonding používá k propojování AlSi mikrodrátem:      
+	ultrazvukové svařování.
+ Pro výrobu elektrod pro odporové svařování se používá:      
+	E Cu.
+ Norma ČSN 05 0630, která upravuje bezpečnostní opatření při svařování elektrickým obloukem a požadavky na pracoviště svářečů a bezpečnostní předpisy pro osoby přicházející do styku s obloukovým svařovacím zařízením platí pro:      
+	všechny prostory, kde se svařuje elektrickým obloukem třeba i jen přechodně.
+ Tažnost A je definována vztahem(L je délka zkušební tyčky po přetržení, L<sub>0</sub> je délka zkušební tyčky před zkouškou):      
+	A = {(L-L<sub>0</sub>).100}/L<sub>0</sub>.
+ Brinellova zkouška tvrdosti je definována jako:      
+	Síla působící na indentor vztažená na plochu vtisku ve tvaru kulového vrchlíku.
+ Maximální špičková hodnota napětí stejnosměrného svařovacího zdroje naprázdno U<sub>n</sub> pro prostředí bez zvýšeného nebezpečí úrazu elektrickým proudem je:      
+	nejvýše 113 V.
+ Podstata řezání železa kyslíkem spočívá:      
+	ve spalování železa v kyslíku a jeho vytlačení proudem kyslíku z řezu.
+ Podstatou "Reflow procesu" je:      
+	absorbce IR záření v pájecí pastě a pájených součástech a jejich spájení.
+ Tzv. tvrdý režim při odporovém svařování je charakterizován:      
+	vysokým proudem ,krátkým časem, vyšší přítlačnou silou.
+ Oprávnění ke svařování el. obloukem podle ČSN 05 0630 mají osoby které:      
+	byly uznány lékařem jako způsobilé pro tuto činnost.
+ Při práci na volném prostranství musí svařeč chránit svařovaci zdroj před:      
+	účinky vody.
+ Funkce "Anti Stick":      
+	zajistí po krátké době omezení zkratového proudu svářecího zdroje při přilepení elektrody.
+ Tlumivka zařazená v sekundárním obvodu svařovacího usměrňovače zajišťuje:      
+	vyhlazení svařovacího proudu.
+ V procesu ručního obloukového svařování dosahuje teplota oblouku na katodě hodnot v rozmezí:      
+	2100-2400°C.
+ Metoda MAG používá jako ochranu před okolní atmosférou:      
+	CO<sub>2</sub>případně jeho směs s Argonem nebo kyslíkem.
+ Která svařovací metoda využívá svařování ve vakuu?      
+	svařování elektronovým svazkem.
+ Teplota plamene propanu + O<sub>2</sub> dosahuje (ve °C)      
+	2800.
+ Bezolovnatá pájka SAC 405 má složení:      
+	Sn(95,5%),Ag(4%),Cu(0,5%).
+ Nejrozšířenější olovnatá pájka má složení:      
+	63% Sn, 37% Pb.
+ Wire bonding je :      
+	techlogie propojování vývodů na čipech a expandovaných vývodů.
+ Které svařečské práce mimo jiné se považují za práce se zvýšeným nebezpečím?      
+	práce s nebezpečím vzniku požáru nebo výbuchu.
+ Jaký je správný postup poskytování první pomoci při úrazu elektrickým proudem?      
+	vyproštění, umělé dýchání, srdeční masáž, přivolání lékaře a oznámení úrazu nadřízenému pracovníkovi.
+ U metody MIG/MAG je přídavný materiál do oblasti svaru:      
+	podáván ze zásobníku přes kladky v ose hořáku ve formě drátu.
+ Vyznačte symbol pro následující polohu svařování: Poloha vodorovná šikmo shora <br /><br />        <img alt="image" src="image.php?k=170e9cfe4cbedc4c55a4aaf497f109b3&amp;f=PSVSL.JPG" /><br />      
+	PB.
+ Nejvyšší měrný výkon plamene (kJ.cm<sup>2</sup>.s<sup>-1</sup>) má:      
+	acetylen.
+ Teplota plamene svítiplynu + O<sub>2</sub> dosahuje (ve °C)      
+	2700.
+ Dle klasifikace podle ČSN 421315 považujeme za dobré smáčení takové, kdy úhel smáčení leží v intervalu      
+	21°až 40°.
+ Teplota vzniku intermetalické sloučeniny Cu<sub>6</sub>Sn<sub>5</sub> je:      
+	415°C.
+ Jako purpurový mor označujeme:      
+	intermetalickou sloučeninu Au<sub>2</sub>Al.
+ Co je nezbytnou součástí písemného příkazu pro svařování v prostorách se zvýšeným nebezpečím?      
+	vymezená doba platnosti a stanoven dohled dalších odborných pracovníků.
+ Mezi tzv. "Key hole" technologie svařování řadíme:      
+	svařování elektronovým svazkem.
+ Mezi tzv. "Key hole" technologie svařování řadíme:      
+	plasmové svařování.
+ Který z uvedených plynů nepatří mezi tzv. plasmové plyny?      
+	CO<sub>2</sub>.
+ Barva hrdla lahve pro přepravu technického kyslíku má barvu:      
+	bílou.
+ Barva hrdla lahve pro přepravu technického acetylenu má barvu:      
+	kaštanovou.
+ Pájku tvoří kov nebo slitina      
+	s nižší teplotou tání než mají spojované materiály.
+ Teplota tání měkké pájky je nižší než      
+	450°C.
+ Nejrozšířenější olovnatá pájka PbSn má teplotu tání:      
+	183°C.
+ Pro výrobu elektrod pro odporové svařování se používá:      
+	ASCO slinutý.
+ Mezní pokles napětí U<sub>p</sub> pro metody MIG/MAG je max:      
+	7 v na 100A svařovacího proudu.
+ Obalované elektrody se musí skladovat v neporušených obalech při maximální relativní vlhkosti :      
+	50%.
+ Bezolovnatá pájka SAC 305 má složení:      
+	Sn(96,5%),Ag(3%),Cu(0,5%).
+ Oprávnění ke svařování el. obloukem podle ČSN 05 0630 mají osoby které:      
+	mají platný průkaz opravňující je vykonávat tuto činnost.
+ Musí svařeč při přemisťování obloukové svářečky odpojit přívodní kabel od napájecího napětí?      
+	ano, v každém případě musí.
+ Vyznačte symbol pro následující polohu svařování: Poloha svislá nahoru<br /><br />        <img alt="image" src="image.php?k=170e9cfe4cbedc4c55a4aaf497f109b3&amp;f=PSVSL.JPG" /><br />      
+	PF.
+ Tzv. 1. fázi hoření oxidujícího plynu a acetylenu popisuje rovnice     
+	C<sub>2</sub>H<sub>2</sub>+O<sub>2</sub>--&gt; 2CO+H<sub>2</sub>.
+ Mezi metody odporového svařování nepatří:      
+	elektrostruskové svařování.
+ Oprávnění ke svařování el. obloukem podle ČSN 05 0630 mají osoby které:      
+	dovršily věk 18 let.
+ Hookův zákon popisuje chování zkušebního vzorku :      
+	v oblasti pružné deformace.
+ Metoda MIG je metoda svařování:      
+	tavící se kovovou elektrodou v inertním plynu.
+ Jako redukční plamen označujeme plamen s poměrem oxidujícího plynu a acetylenu      
+	&lt;1.
+ Jako ostrý plamen označujeme plamen s výstupní rychlostí:      
+	&gt;120ms<sup>-1</sup>.
+ Jak se připojuje svařovací vodič ke svarku?      
+	co nejblíže místu svařování nebo na kovový svařečský stůl.
+ Jmenovitý svařovací proud svařovacího zdroje I<sub>s</sub> je :      
+	proud, který lze trvale odebírat ze svařovacího zdroje při DZ= 60%.
+ Zatěžovatel svařovacího zdroje DZ je dán (t<sub>z</sub> je doba svařování, t<sub>p</sub> je doba přestávky) vztahem:      
+	DZ=t<sub>z</sub>/(t<sub>z</sub>+t<sub>p</sub>).
+ Pro svařování laserovým svazkem se používá laser:      
+	pevnolátkový rubín:Cr.
+ Jaké povinnosti má svařeč při používání osobních ochranných prostředků?      
+	neznečišťovat je mastnotami nebo lehce zápalnými látkami.
+ Funkce "Soft Start":      
+	omezuje proudový náraz při zapnutí svářecího zdroje k síti.
+ Mezi tzv. "Key hole" technologie svařování řadíme:      
+	laserové svařování.
+ Jak často je povinen zaměstnavatel zajišťovat lékařské prohlídky pracovníků s oprávněním svařovat elektrickým obloukem, kteří jsou mladší 50 let?      
+	nejméně jednou za 5 let.
+ V procesu ručního obloukového svařování dosahuje teplota oblouku na anodě hodnot v rozmezí:      
+	2400-2600°C.
+ Jako oxidační plamen označujeme plamen s poměrem oxidujícího plynu a acetylenu      
+	= 1.2.
+ Kam musí odkládat svařeč držák elektrody?      
+	na izolovanou podložku nebo izolovaný stojan.
+ Obalované elektrody se musí skladovat v neporušených obalech při minimální teplotě :      
+	+ 10°C.
+ Pro svařování hliníku a jeho slitin metodou WIG se používá střídavý proud:      
+	z důvodu čistícího účinku oblouku při kladné polaritě napětí na elektrodě.
+ Při svařování v uzavřených nádobách, kotlech, v nádržích apod. se musí svařovací zdroj umístit:      
+	mimo výše uvedený prostor.
+ Kdy svařeč kontroluje svařovací vodiče?      
+	před zasunutím síťové vidlice do zásuvky.
+ Jaká musí být podlaha svařečského pracoviště?      
+	musí být z nehořlavého materiálu a musí odolávat mechanickým a jiným vlivům bez tvoření prachu.
+ Trvalý svařovací proud svařovacího zdroje I<sub>st</sub> je :      
+	nejvyšší proud, který lze odebírat ze svařovacího zdroje při DZ= 100%.
+ Obal elektrody pro ruční svařování plní následující funkce:      
+	brání přístupu kyslíku k tavné lázni, přispívá ke snadnému zapálení a hoření oblouku a brání propalu některých prvků (Mn, Cr, Si).
+ Tzv. 2. fázi hoření oxidujícího plynu a acetylenu popisuje rovnice      
+	2CO + H<sub>2</sub>+3O --&gt; 2CO<sub>2</sub> + H<sub>2</sub>O.
+ Při svařování v uzavřených nádobách, kotlech v nádržích apod. musí mít svařeč:      
+	ochranný pás opatřený lanem, jehož druhý konec je pevně ukotven mimo výše uvedený prostor.
+ Které normy obsahují bezpečnostní ustanovení pro svařování elektrickým obloukem:      
+	ČSN 05 0601 a ČSN 05 0630.
+ Metoda WIG je použitelná pro svařování hliníku pokud :      
+	použijeme pro napájení oblouku střídavý zdroj.
+ Kdo odpovídá za vystavení písemného příkazu pro svařování v místech se zvýšeným nebezpečím vzniku požáru nebo výbuchu?      
+	zplnomocněný pracovník.
+ Jako střední plamen označujeme plamen s výstupní rychlostí:      
+	100 - 120 ms<sup>-1</sup>.
+ Průkaz zaškoleného pracovníka podle ČSN 05 0705 platí jen:      
+	v organizaci uvedené na přední straně tohoto průkazu.
+ Hodnota pro lidský organismus bezpečného střídavého proudu je :      
+	do 10 mA.
+ Jak často musí každý pracovník s oprávněním svařovat el. obloukem, absolvovat doplňkové a opakovací školení s přezkoušením z bezpečnostních ustanovení?      
+	nejméně jednou za dva roky.
+ Teplota vzniku intermetalické sloučeniny Cu<sub>3</sub>Sn je:      
+	670°C.
+ Ohrožení škodlivinami způsobuje:      
+	svařečský aerosol, záření, hluk a mikroklimatické podmínky.
+ Normalizovaný cyklus ručního svařování je definován:      
+	celkovou dobou cyklu 5 min a DZ= 60%.
+ Při svařování v uzavřených nádobách, kotlech v nádržích apod. spouští a zastavuje svařovací zdroj:      
+	osoba zdržující se mimo výše uvedený prostor podle pokynů svařeče.
+ Jaké má být pracoviště pro ruční svařování elektrickým obloukem?      
+	umístěné v kabině, vybavené prostředky chránícími svařeče i okolí před nebezpečími vznikajícími při svařování.
+ Při svařování v uzavřených nádobách, kotlech, v nádržích apod. se nesmí používat jako svařovací zdroj:      
+	transformátor.

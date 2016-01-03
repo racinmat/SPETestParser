@@ -36,3 +36,15 @@ foreach ($allTests as $answer1number => $question) {
 
 echo "Celkem otázek: $total.\n";
 echo "Z toho má správné odpovědi: $correct.\n";
+
+$learningSet = [];
+foreach ($allTests as $answer1number => $question) {
+	$learningSet[$answer1number] = [$question->text, $question->correctAnswer->text];
+}
+
+$learningSetText = "";
+foreach ($learningSet as $questionAndAnswer) {
+	list($question, $answer) = $questionAndAnswer;
+	$learningSetText .= "$question\n\t$answer.\n";
+}
+file_put_contents('otazky.txt', $learningSetText);
