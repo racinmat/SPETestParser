@@ -3471,9 +3471,9 @@
             },
             {
                 "text": "vymezen\u00e1 doba platnosti a stanoven dohled dal\u0161\u00edch odborn\u00fdch pracovn\u00edk\u016f",
-                "correct": null,
+                "correct": true,
                 "id": 17988,
-                "tried": false
+                "tried": true
             },
             {
                 "text": "technologick\u00fd postup sva\u0159e\u010dsk\u00fdch prac\u00ed",
@@ -3482,7 +3482,12 @@
                 "tried": false
             }
         ],
-        "correctAnswer": null,
+        "correctAnswer": {
+            "text": "vymezen\u00e1 doba platnosti a stanoven dohled dal\u0161\u00edch odborn\u00fdch pracovn\u00edk\u016f",
+            "correct": true,
+            "id": 17988,
+            "tried": true
+        },
         "selected": null,
         "text": " Co je nezbytnou sou\u010d\u00e1st\u00ed p\u00edsemn\u00e9ho p\u0159\u00edkazu pro sva\u0159ov\u00e1n\u00ed v prostor\u00e1ch se zv\u00fd\u0161en\u00fdm nebezpe\u010d\u00edm?      "
     },
@@ -5292,12 +5297,17 @@
             },
             {
                 "text": "sva\u0159e\u010dsk\u00fd aerosol, z\u00e1\u0159en\u00ed, hluk a mikroklimatick\u00e9 podm\u00ednky",
-                "correct": null,
+                "correct": true,
                 "id": 18001,
-                "tried": false
+                "tried": true
             }
         ],
-        "correctAnswer": null,
+        "correctAnswer": {
+            "text": "sva\u0159e\u010dsk\u00fd aerosol, z\u00e1\u0159en\u00ed, hluk a mikroklimatick\u00e9 podm\u00ednky",
+            "correct": true,
+            "id": 18001,
+            "tried": true
+        },
         "selected": null,
         "text": " Ohro\u017een\u00ed \u0161kodlivinami zp\u016fsobuje:      "
     },
@@ -5353,9 +5363,9 @@
             },
             {
                 "text": "osoba zdr\u017euj\u00edc\u00ed se mimo v\u00fd\u0161e uveden\u00fd prostor podle pokyn\u016f sva\u0159e\u010de",
-                "correct": null,
+                "correct": true,
                 "id": 17972,
-                "tried": false
+                "tried": true
             },
             {
                 "text": "spolupracovn\u00edk sva\u0159e\u010de uvnit\u0159 v\u00fd\u0161e uveden\u00e9ho prostoru",
@@ -5364,7 +5374,12 @@
                 "tried": false
             }
         ],
-        "correctAnswer": null,
+        "correctAnswer": {
+            "text": "osoba zdr\u017euj\u00edc\u00ed se mimo v\u00fd\u0161e uveden\u00fd prostor podle pokyn\u016f sva\u0159e\u010de",
+            "correct": true,
+            "id": 17972,
+            "tried": true
+        },
         "selected": null,
         "text": " P\u0159i sva\u0159ov\u00e1n\u00ed v uzav\u0159en\u00fdch n\u00e1dob\u00e1ch, kotlech v n\u00e1dr\u017e\u00edch apod. spou\u0161t\u00ed a zastavuje sva\u0159ovac\u00ed zdroj:      "
     },
