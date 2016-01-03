@@ -6,24 +6,10 @@
  * Time: 11:35
  */
 
-require_once 'classes.php';
+require_once 'utils.php';
 
 /** @var Question[] $allTests */
-$allTests = json_decode(file_get_contents(__DIR__ . '/../tests.json'), true);
-foreach ($allTests as $answer1number => $question) {
-	$answers = [];
-	foreach ($question['answers'] as $answer) {
-		$answers[] = new Answer($answer['text'], $answer['correct'], $answer['id'], $answer['tried']);
-	}
-	$questionObject = new Question($question['text'], $answers);
-	$questionObject->selected = null;
-	if ($question['correctAnswer'] == null) {
-		$questionObject->correctAnswer = null;
-	} else {
-		$questionObject->correctAnswer = new Answer($question['correctAnswer']['text'], $question['correctAnswer']['correct'], $question['correctAnswer']['id'], $question['correctAnswer']['tried']);
-	}
-	$allTests[$answer1number] = $questionObject;
-}
+$allTests = loadFromJson(__DIR__ . '/../tests.json');
 
 $total = 0;
 $correct = 0;

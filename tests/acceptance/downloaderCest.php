@@ -1,6 +1,6 @@
 <?php
 
-require_once __DIR__ . '/../classes.php';
+require_once __DIR__ . '/../utils.php';
 
 class downloaderCest
 {
@@ -27,21 +27,7 @@ class downloaderCest
     // tests
     public function tryToTest(AcceptanceTester $I)
     {
-		$this->allTests = json_decode(file_get_contents('tests.json'), true);
-		foreach ($this->allTests as $answer1number => $question) {
-			$answers = [];
-			foreach ($question['answers'] as $answer) {
-				$answers[] = new Answer($answer['text'], $answer['correct'], $answer['id'], $answer['tried']);
-			}
-			$questionObject = new Question($question['text'], $answers);
-			$questionObject->selected = null;
-			if ($question['correctAnswer'] == null) {
-				$questionObject->correctAnswer = null;
-			} else {
-				$questionObject->correctAnswer = new Answer($question['correctAnswer']['text'], $question['correctAnswer']['correct'], $question['correctAnswer']['id'], $question['correctAnswer']['tried']);
-			}
-			$this->allTests[$answer1number] = $questionObject;
-		}
+		$this->allTests = loadFromJson(__DIR__ . '/../tests.json');
 		$this->currentTest = []; //idčka první odpovědi k otázkám v testu
 
 		$I->wantTo('fill test and download results');
