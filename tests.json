@@ -3493,12 +3493,17 @@
             },
             {
                 "text": "sva\u0159ov\u00e1n\u00ed elektronov\u00fdm svazkem",
-                "correct": null,
+                "correct": true,
                 "id": 18213,
-                "tried": false
+                "tried": true
             }
         ],
-        "correctAnswer": null,
+        "correctAnswer": {
+            "text": "sva\u0159ov\u00e1n\u00ed elektronov\u00fdm svazkem",
+            "correct": true,
+            "id": 18213,
+            "tried": true
+        },
         "selected": null,
         "text": " Mezi tzv. \"Key hole\" technologie sva\u0159ov\u00e1n\u00ed \u0159ad\u00edme:      "
     },
@@ -4612,9 +4617,9 @@
             },
             {
                 "text": "na izolovanou podlo\u017eku nebo izolovan\u00fd stojan",
-                "correct": null,
+                "correct": true,
                 "id": 17995,
-                "tried": false
+                "tried": true
             },
             {
                 "text": "na pracovn\u00ed st\u016fl tak, aby nedo\u0161lo ke spojen\u00ed sva\u0159ovac\u00edho obvodu nakr\u00e1tko",
@@ -4629,7 +4634,12 @@
                 "tried": false
             }
         ],
-        "correctAnswer": null,
+        "correctAnswer": {
+            "text": "na izolovanou podlo\u017eku nebo izolovan\u00fd stojan",
+            "correct": true,
+            "id": 17995,
+            "tried": true
+        },
         "selected": null,
         "text": " Kam mus\u00ed odkl\u00e1dat sva\u0159e\u010d dr\u017e\u00e1k elektrody?      "
     },
@@ -5212,7 +5222,7 @@
                 "text": "232\u00b0C",
                 "correct": null,
                 "id": 18407,
-                "tried": false
+                "tried": true
             },
             {
                 "text": "670\u00b0C",
@@ -5304,7 +5314,7 @@
                 "text": "sva\u0159e\u010d pouze d\u00e1lkov\u00fdm ovl\u00e1d\u00e1n\u00edm",
                 "correct": null,
                 "id": 17971,
-                "tried": false
+                "tried": true
             },
             {
                 "text": "osoba zdr\u017euj\u00edc\u00ed se mimo v\u00fd\u0161e uveden\u00fd prostor podle pokyn\u016f sva\u0159e\u010de",
