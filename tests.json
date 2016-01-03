@@ -17,7 +17,7 @@
                 "text": "dovr\u0161ily v\u011bk 17 let",
                 "correct": null,
                 "id": 18056,
-                "tried": false
+                "tried": true
             },
             {
                 "text": "Absolvovaly a slo\u017eily zkou\u0161ky podle \u010cSN 05 0705",
@@ -1543,9 +1543,9 @@
             },
             {
                 "text": "1 a\u017e 1,1",
-                "correct": null,
+                "correct": true,
                 "id": 18387,
-                "tried": false
+                "tried": true
             },
             {
                 "text": " &lt;1",
@@ -1554,7 +1554,12 @@
                 "tried": false
             }
         ],
-        "correctAnswer": null,
+        "correctAnswer": {
+            "text": "1 a\u017e 1,1",
+            "correct": true,
+            "id": 18387,
+            "tried": true
+        },
         "selected": null,
         "text": " Jako neutr\u00e1ln\u00ed plamen ozna\u010dujeme plamen s pom\u011brem oxiduj\u00edc\u00edho plynu a acetylenu      "
     },
@@ -2466,7 +2471,7 @@
                 "text": "pouze pro sva\u0159e\u010dsk\u00e9 d\u00edlny",
                 "correct": null,
                 "id": 18064,
-                "tried": false
+                "tried": true
             },
             {
                 "text": "v\u0161echny prostory, kde se sva\u0159uje elektrick\u00fdm obloukem t\u0159eba i jen p\u0159echodn\u011b",
@@ -3412,7 +3417,7 @@
                 "text": "technologick\u00fd dohled a kontrola jakosti proveden\u00fdch sva\u0159e\u010dsk\u00fdch prac\u00ed",
                 "correct": null,
                 "id": 17987,
-                "tried": false
+                "tried": true
             },
             {
                 "text": "vymezen\u00e1 doba platnosti a stanoven dohled dal\u0161\u00edch odborn\u00fdch pracovn\u00edk\u016f",
@@ -4043,9 +4048,9 @@
             },
             {
                 "text": "dovr\u0161ily v\u011bk 18 let",
-                "correct": null,
+                "correct": true,
                 "id": 18044,
-                "tried": false
+                "tried": true
             },
             {
                 "text": "Absolvovaly a slo\u017eily zkou\u0161ky podle \u010cSN 05 0778",
@@ -4054,7 +4059,12 @@
                 "tried": false
             }
         ],
-        "correctAnswer": null,
+        "correctAnswer": {
+            "text": "dovr\u0161ily v\u011bk 18 let",
+            "correct": true,
+            "id": 18044,
+            "tried": true
+        },
         "selected": null,
         "text": " Opr\u00e1vn\u011bn\u00ed ke sva\u0159ov\u00e1n\u00ed el. obloukem podle \u010cSN 05 0630 maj\u00ed osoby kter\u00e9:      "
     },
@@ -4351,9 +4361,9 @@
             },
             {
                 "text": "nezne\u010di\u0161\u0165ovat je mastnotami nebo lehce z\u00e1paln\u00fdmi l\u00e1tkami",
-                "correct": null,
+                "correct": true,
                 "id": 17947,
-                "tried": false
+                "tried": true
             },
             {
                 "text": "po\u0161kozen\u00e9 pe\u010dliv\u011b opravovat",
@@ -4368,7 +4378,12 @@
                 "tried": false
             }
         ],
-        "correctAnswer": null,
+        "correctAnswer": {
+            "text": "nezne\u010di\u0161\u0165ovat je mastnotami nebo lehce z\u00e1paln\u00fdmi l\u00e1tkami",
+            "correct": true,
+            "id": 17947,
+            "tried": true
+        },
         "selected": null,
         "text": " Jak\u00e9 povinnosti m\u00e1 sva\u0159e\u010d p\u0159i pou\u017e\u00edv\u00e1n\u00ed osobn\u00edch ochrann\u00fdch prost\u0159edk\u016f?      "
     },
@@ -4596,16 +4611,21 @@
                 "text": "+ 5\u00b0C",
                 "correct": null,
                 "id": 18204,
-                "tried": false
+                "tried": true
             },
             {
                 "text": "+ 10\u00b0C",
-                "correct": null,
+                "correct": true,
                 "id": 18205,
-                "tried": false
+                "tried": true
             }
         ],
-        "correctAnswer": null,
+        "correctAnswer": {
+            "text": "+ 10\u00b0C",
+            "correct": true,
+            "id": 18205,
+            "tried": true
+        },
         "selected": null,
         "text": " Obalovan\u00e9 elektrody se mus\u00ed skladovat v neporu\u0161en\u00fdch obalech p\u0159i minim\u00e1ln\u00ed teplot\u011b :      "
     },
@@ -4627,7 +4647,7 @@
                 "text": "z d\u016fvodu rychlej\u0161\u00edho odtaven\u00ed elektrody",
                 "correct": null,
                 "id": 18184,
-                "tried": false
+                "tried": true
             },
             {
                 "text": "z d\u016fvodu \u010dist\u00edc\u00edho \u00fa\u010dinku oblouku p\u0159i kladn\u00e9 polarit\u011b nap\u011bt\u00ed na elektrod\u011b",
@@ -4658,7 +4678,7 @@
                 "text": "libovoln\u011b uvnit\u0159 n\u00e1doby",
                 "correct": null,
                 "id": 17968,
-                "tried": false
+                "tried": true
             },
             {
                 "text": "mimo v\u00fd\u0161e uveden\u00fd prostor",
@@ -4920,7 +4940,7 @@
                 "text": "pou\u017eijeme Argon jako ochrann\u00fd plyn a pro nap\u00e1jen\u00ed oblouku stejnosm\u011brn\u00fd zdroj",
                 "correct": null,
                 "id": 18175,
-                "tried": false
+                "tried": true
             },
             {
                 "text": "pou\u017eijeme pro nap\u00e1jen\u00ed oblouku st\u0159\u00eddav\u00fd zdroj",
@@ -5000,5 +5020,108 @@
         "correctAnswer": null,
         "selected": null,
         "text": " Jako st\u0159edn\u00ed plamen ozna\u010dujeme plamen s v\u00fdstupn\u00ed rychlost\u00ed:      "
+    },
+    "18030": {
+        "answers": [
+            {
+                "text": "v organizaci uveden\u00e9 na p\u0159edn\u00ed stran\u011b tohoto pr\u016fkazu",
+                "correct": true,
+                "id": 18030,
+                "tried": true
+            },
+            {
+                "text": "v organizaci, kter\u00e1 pr\u016fkaz vystavila",
+                "correct": null,
+                "id": 18031,
+                "tried": false
+            },
+            {
+                "text": "ve stroj\u00edrensk\u00e9 v\u00fdrob\u011b",
+                "correct": null,
+                "id": 18032,
+                "tried": false
+            },
+            {
+                "text": "v organizac\u00edch zab\u00fdvaj\u00edc\u00edch se sva\u0159e\u010dskou \u010dinnost\u00ed",
+                "correct": null,
+                "id": 18033,
+                "tried": false
+            }
+        ],
+        "correctAnswer": {
+            "text": "v organizaci uveden\u00e9 na p\u0159edn\u00ed stran\u011b tohoto pr\u016fkazu",
+            "correct": true,
+            "id": 18030,
+            "tried": true
+        },
+        "selected": null,
+        "text": " Pr\u016fkaz za\u0161kolen\u00e9ho pracovn\u00edka podle \u010cSN 05 0705 plat\u00ed jen:      "
+    },
+    "18014": {
+        "answers": [
+            {
+                "text": "do 10 mA",
+                "correct": true,
+                "id": 18014,
+                "tried": true
+            },
+            {
+                "text": "do 15 mA",
+                "correct": null,
+                "id": 18015,
+                "tried": false
+            },
+            {
+                "text": "do 500 mA",
+                "correct": null,
+                "id": 18016,
+                "tried": false
+            },
+            {
+                "text": "do 25 mA",
+                "correct": null,
+                "id": 18017,
+                "tried": false
+            }
+        ],
+        "correctAnswer": {
+            "text": "do 10 mA",
+            "correct": true,
+            "id": 18014,
+            "tried": true
+        },
+        "selected": null,
+        "text": " Hodnota pro lidsk\u00fd organismus bezpe\u010dn\u00e9ho st\u0159\u00eddav\u00e9ho proudu je :      "
+    },
+    "18050": {
+        "answers": [
+            {
+                "text": "nejm\u00e9n\u011b jednou za t\u0159i roky",
+                "correct": null,
+                "id": 18050,
+                "tried": true
+            },
+            {
+                "text": "nejm\u00e9n\u011b jednou za dva roky",
+                "correct": null,
+                "id": 18051,
+                "tried": false
+            },
+            {
+                "text": "nejm\u00e9n\u011b dvakr\u00e1t za rok",
+                "correct": null,
+                "id": 18052,
+                "tried": false
+            },
+            {
+                "text": "nejm\u00e9n\u011b jednou za rok",
+                "correct": null,
+                "id": 18053,
+                "tried": false
+            }
+        ],
+        "correctAnswer": null,
+        "selected": null,
+        "text": " Jak \u010dasto mus\u00ed ka\u017ed\u00fd pracovn\u00edk s opr\u00e1vn\u011bn\u00edm sva\u0159ovat el. obloukem, absolvovat dopl\u0148kov\u00e9 a opakovac\u00ed \u0161kolen\u00ed s p\u0159ezkou\u0161en\u00edm z bezpe\u010dnostn\u00edch ustanoven\u00ed?      "
     }
 }
