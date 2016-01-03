@@ -4691,12 +4691,17 @@
             },
             {
                 "text": "z d\u016fvodu \u010dist\u00edc\u00edho \u00fa\u010dinku oblouku p\u0159i kladn\u00e9 polarit\u011b nap\u011bt\u00ed na elektrod\u011b",
-                "correct": null,
+                "correct": true,
                 "id": 18185,
-                "tried": false
+                "tried": true
             }
         ],
-        "correctAnswer": null,
+        "correctAnswer": {
+            "text": "z d\u016fvodu \u010dist\u00edc\u00edho \u00fa\u010dinku oblouku p\u0159i kladn\u00e9 polarit\u011b nap\u011bt\u00ed na elektrod\u011b",
+            "correct": true,
+            "id": 18185,
+            "tried": true
+        },
         "selected": null,
         "text": " Pro sva\u0159ov\u00e1n\u00ed hlin\u00edku a jeho slitin metodou WIG se pou\u017e\u00edv\u00e1 st\u0159\u00eddav\u00fd proud:      "
     },
@@ -4927,9 +4932,9 @@
             },
             {
                 "text": "ochrann\u00fd p\u00e1s opat\u0159en\u00fd lanem, jeho\u017e druh\u00fd konec je pevn\u011b ukotven mimo v\u00fd\u0161e uveden\u00fd prostor",
-                "correct": null,
+                "correct": true,
                 "id": 17956,
-                "tried": false
+                "tried": true
             },
             {
                 "text": "komunika\u010dn\u00ed za\u0159\u00edzen\u00ed pro styk s osobou mimo v\u00fd\u0161e uveden\u00fd prostor",
@@ -4938,7 +4943,12 @@
                 "tried": false
             }
         ],
-        "correctAnswer": null,
+        "correctAnswer": {
+            "text": "ochrann\u00fd p\u00e1s opat\u0159en\u00fd lanem, jeho\u017e druh\u00fd konec je pevn\u011b ukotven mimo v\u00fd\u0161e uveden\u00fd prostor",
+            "correct": true,
+            "id": 17956,
+            "tried": true
+        },
         "selected": null,
         "text": " P\u0159i sva\u0159ov\u00e1n\u00ed v uzav\u0159en\u00fdch n\u00e1dob\u00e1ch, kotlech v n\u00e1dr\u017e\u00edch apod. mus\u00ed m\u00edt sva\u0159e\u010d:      "
     },
@@ -5233,7 +5243,7 @@
                 "text": "rozst\u0159ik kovu a \u017ehav\u00e1 struska",
                 "correct": null,
                 "id": 18000,
-                "tried": false
+                "tried": true
             },
             {
                 "text": "sva\u0159e\u010dsk\u00fd aerosol, z\u00e1\u0159en\u00ed, hluk a mikroklimatick\u00e9 podm\u00ednky",
