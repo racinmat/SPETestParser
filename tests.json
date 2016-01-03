@@ -3147,9 +3147,9 @@
             },
             {
                 "text": "pr\u00e1ce s nebezpe\u010d\u00edm vzniku po\u017e\u00e1ru nebo v\u00fdbuchu",
-                "correct": null,
+                "correct": true,
                 "id": 17992,
-                "tried": false
+                "tried": true
             },
             {
                 "text": "pr\u00e1ce ve v\u00fdrobn\u00edch hal\u00e1ch s nedostate\u010dn\u00fdm odtahem \u0161kodlivin",
@@ -3158,7 +3158,12 @@
                 "tried": false
             }
         ],
-        "correctAnswer": null,
+        "correctAnswer": {
+            "text": "pr\u00e1ce s nebezpe\u010d\u00edm vzniku po\u017e\u00e1ru nebo v\u00fdbuchu",
+            "correct": true,
+            "id": 17992,
+            "tried": true
+        },
         "selected": null,
         "text": " Kter\u00e9 sva\u0159e\u010dsk\u00e9 pr\u00e1ce mimo jin\u00e9 se pova\u017euj\u00ed za pr\u00e1ce se zv\u00fd\u0161en\u00fdm nebezpe\u010d\u00edm?      "
     },
@@ -4283,9 +4288,9 @@
             },
             {
                 "text": "co nejbl\u00ed\u017ee m\u00edstu sva\u0159ov\u00e1n\u00ed nebo na kovov\u00fd sva\u0159e\u010dsk\u00fd st\u016fl",
-                "correct": null,
+                "correct": true,
                 "id": 17964,
-                "tried": false
+                "tried": true
             },
             {
                 "text": "co nejsiln\u011bj\u0161\u00edm vodi\u010dem",
@@ -4294,7 +4299,12 @@
                 "tried": false
             }
         ],
-        "correctAnswer": null,
+        "correctAnswer": {
+            "text": "co nejbl\u00ed\u017ee m\u00edstu sva\u0159ov\u00e1n\u00ed nebo na kovov\u00fd sva\u0159e\u010dsk\u00fd st\u016fl",
+            "correct": true,
+            "id": 17964,
+            "tried": true
+        },
         "selected": null,
         "text": " Jak se p\u0159ipojuje sva\u0159ovac\u00ed vodi\u010d ke svarku?      "
     },
@@ -4747,12 +4757,17 @@
             },
             {
                 "text": "mimo v\u00fd\u0161e uveden\u00fd prostor",
-                "correct": null,
+                "correct": true,
                 "id": 17969,
-                "tried": false
+                "tried": true
             }
         ],
-        "correctAnswer": null,
+        "correctAnswer": {
+            "text": "mimo v\u00fd\u0161e uveden\u00fd prostor",
+            "correct": true,
+            "id": 17969,
+            "tried": true
+        },
         "selected": null,
         "text": " P\u0159i sva\u0159ov\u00e1n\u00ed v uzav\u0159en\u00fdch n\u00e1dob\u00e1ch, kotlech, v n\u00e1dr\u017e\u00edch apod. se mus\u00ed sva\u0159ovac\u00ed zdroj um\u00edstit:      "
     },
