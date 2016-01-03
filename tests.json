@@ -5226,12 +5226,17 @@
             },
             {
                 "text": "670\u00b0C",
-                "correct": null,
+                "correct": true,
                 "id": 18408,
-                "tried": false
+                "tried": true
             }
         ],
-        "correctAnswer": null,
+        "correctAnswer": {
+            "text": "670\u00b0C",
+            "correct": true,
+            "id": 18408,
+            "tried": true
+        },
         "selected": null,
         "text": " Teplota vzniku intermetalick\u00e9 slou\u010deniny Cu<sub>3<\/sub>Sn je:      "
     },
@@ -5363,5 +5368,36 @@
         "correctAnswer": null,
         "selected": null,
         "text": " Jak\u00e9 m\u00e1 b\u00fdt pracovi\u0161t\u011b pro ru\u010dn\u00ed sva\u0159ov\u00e1n\u00ed elektrick\u00fdm obloukem?      "
+    },
+    "17974": {
+        "answers": [
+            {
+                "text": "transform\u00e1tor s \u0159\u00edzen\u00fdm usm\u011br\u0148ova\u010dem",
+                "correct": null,
+                "id": 17974,
+                "tried": true
+            },
+            {
+                "text": "transform\u00e1tor",
+                "correct": null,
+                "id": 17975,
+                "tried": false
+            },
+            {
+                "text": "invertor",
+                "correct": null,
+                "id": 17976,
+                "tried": false
+            },
+            {
+                "text": "ss rota\u010dn\u00ed zdroj",
+                "correct": null,
+                "id": 17977,
+                "tried": false
+            }
+        ],
+        "correctAnswer": null,
+        "selected": null,
+        "text": " P\u0159i sva\u0159ov\u00e1n\u00ed v uzav\u0159en\u00fdch n\u00e1dob\u00e1ch, kotlech, v n\u00e1dr\u017e\u00edch apod. se nesm\u00ed pou\u017e\u00edvat jako sva\u0159ovac\u00ed zdroj:      "
     }
 }
