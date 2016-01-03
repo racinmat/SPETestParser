@@ -4545,9 +4545,9 @@
             },
             {
                 "text": "nejm\u00e9n\u011b jednou za 5 let",
-                "correct": null,
+                "correct": true,
                 "id": 18040,
-                "tried": false
+                "tried": true
             },
             {
                 "text": "nejm\u00e9n\u011b jednou za rok",
@@ -4556,7 +4556,12 @@
                 "tried": false
             }
         ],
-        "correctAnswer": null,
+        "correctAnswer": {
+            "text": "nejm\u00e9n\u011b jednou za 5 let",
+            "correct": true,
+            "id": 18040,
+            "tried": true
+        },
         "selected": null,
         "text": " Jak \u010dasto je povinen zam\u011bstnavatel zaji\u0161\u0165ovat l\u00e9ka\u0159sk\u00e9 prohl\u00eddky pracovn\u00edk\u016f s opr\u00e1vn\u011bn\u00edm sva\u0159ovat elektrick\u00fdm obloukem, kte\u0159\u00ed jsou mlad\u0161\u00ed 50 let?      "
     },
