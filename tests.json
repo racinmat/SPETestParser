@@ -2495,12 +2495,17 @@
             },
             {
                 "text": "v\u0161echny prostory, kde se sva\u0159uje elektrick\u00fdm obloukem t\u0159eba i jen p\u0159echodn\u011b",
-                "correct": null,
+                "correct": true,
                 "id": 18065,
-                "tried": false
+                "tried": true
             }
         ],
-        "correctAnswer": null,
+        "correctAnswer": {
+            "text": "v\u0161echny prostory, kde se sva\u0159uje elektrick\u00fdm obloukem t\u0159eba i jen p\u0159echodn\u011b",
+            "correct": true,
+            "id": 18065,
+            "tried": true
+        },
         "selected": null,
         "text": " Norma \u010cSN 05 0630, kter\u00e1 upravuje bezpe\u010dnostn\u00ed opat\u0159en\u00ed p\u0159i sva\u0159ov\u00e1n\u00ed elektrick\u00fdm obloukem a po\u017eadavky na pracovi\u0161t\u011b sv\u00e1\u0159e\u010d\u016f a bezpe\u010dnostn\u00ed p\u0159edpisy pro osoby p\u0159ich\u00e1zej\u00edc\u00ed do styku s obloukov\u00fdm sva\u0159ovac\u00edm za\u0159\u00edzen\u00edm plat\u00ed pro:      "
     },
@@ -2778,12 +2783,17 @@
             },
             {
                 "text": "\u00fa\u010dinky vody",
-                "correct": null,
+                "correct": true,
                 "id": 18005,
-                "tried": false
+                "tried": true
             }
         ],
-        "correctAnswer": null,
+        "correctAnswer": {
+            "text": "\u00fa\u010dinky vody",
+            "correct": true,
+            "id": 18005,
+            "tried": true
+        },
         "selected": null,
         "text": " P\u0159i pr\u00e1ci na voln\u00e9m prostranstv\u00ed mus\u00ed sva\u0159e\u010d chr\u00e1nit sva\u0159ovaci zdroj p\u0159ed:      "
     },
@@ -3200,12 +3210,17 @@
             },
             {
                 "text": "pod\u00e1v\u00e1n ze z\u00e1sobn\u00edku p\u0159es kladky v ose ho\u0159\u00e1ku ve form\u011b dr\u00e1tu",
-                "correct": null,
+                "correct": true,
                 "id": 18169,
-                "tried": false
+                "tried": true
             }
         ],
-        "correctAnswer": null,
+        "correctAnswer": {
+            "text": "pod\u00e1v\u00e1n ze z\u00e1sobn\u00edku p\u0159es kladky v ose ho\u0159\u00e1ku ve form\u011b dr\u00e1tu",
+            "correct": true,
+            "id": 18169,
+            "tried": true
+        },
         "selected": null,
         "text": " U metody MIG\/MAG je p\u0159\u00eddavn\u00fd materi\u00e1l do oblasti svaru:      "
     },
@@ -5006,7 +5021,7 @@
                 "text": "po\u017e\u00e1rn\u00ed technik",
                 "correct": null,
                 "id": 17983,
-                "tried": false
+                "tried": true
             },
             {
                 "text": "zplnomocn\u011bn\u00fd pracovn\u00edk",
@@ -5202,7 +5217,7 @@
                 "text": "sva\u0159ov\u00e1n\u00ed stejnosm\u011brn\u00fdm proudem",
                 "correct": null,
                 "id": 17999,
-                "tried": false
+                "tried": true
             },
             {
                 "text": "rozst\u0159ik kovu a \u017ehav\u00e1 struska",
@@ -5233,7 +5248,7 @@
                 "text": " celkovou dobou cyklu 5 min a DZ= 100%",
                 "correct": null,
                 "id": 18135,
-                "tried": false
+                "tried": true
             },
             {
                 "text": "celkovou dobou cyklu 10 min a DZ= 80%",
@@ -5251,5 +5266,36 @@
         "correctAnswer": null,
         "selected": null,
         "text": " Normalizovan\u00fd cyklus ru\u010dn\u00edho sva\u0159ov\u00e1n\u00ed je definov\u00e1n:      "
+    },
+    "17970": {
+        "answers": [
+            {
+                "text": "sva\u0159e\u010d",
+                "correct": null,
+                "id": 17970,
+                "tried": true
+            },
+            {
+                "text": "sva\u0159e\u010d pouze d\u00e1lkov\u00fdm ovl\u00e1d\u00e1n\u00edm",
+                "correct": null,
+                "id": 17971,
+                "tried": false
+            },
+            {
+                "text": "osoba zdr\u017euj\u00edc\u00ed se mimo v\u00fd\u0161e uveden\u00fd prostor podle pokyn\u016f sva\u0159e\u010de",
+                "correct": null,
+                "id": 17972,
+                "tried": false
+            },
+            {
+                "text": "spolupracovn\u00edk sva\u0159e\u010de uvnit\u0159 v\u00fd\u0161e uveden\u00e9ho prostoru",
+                "correct": null,
+                "id": 17973,
+                "tried": false
+            }
+        ],
+        "correctAnswer": null,
+        "selected": null,
+        "text": " P\u0159i sva\u0159ov\u00e1n\u00ed v uzav\u0159en\u00fdch n\u00e1dob\u00e1ch, kotlech v n\u00e1dr\u017e\u00edch apod. spou\u0161t\u00ed a zastavuje sva\u0159ovac\u00ed zdroj:      "
     }
 }
