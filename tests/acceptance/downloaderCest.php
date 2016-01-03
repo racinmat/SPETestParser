@@ -50,7 +50,6 @@ class downloaderCest
 		$I->seeInCurrentUrl('test');
 		$I->see('testu stiskem');
 
-		$array = [];
 		for ($i = 1; $i <= 30; $i++) {
 			$questionText = $I->grabTextFrom("~$i.<\/b> otázka \(.*?\) - +<b>(.*?)<\/b>~");
 			$answer1number = $I->grabTextFrom("~<TD VALIGN=\"MIDDLE\"><INPUT TYPE=\"radio\" VALUE=\"(\d+)\" NAME=\"a$i\" \/><\/TD><TD>(.*?)<BR /></TD>~i");
@@ -114,9 +113,7 @@ class downloaderCest
 			$question->selected = null;
 		}
 
-
 		file_put_contents('tests.json', json_encode($this->allTests, JSON_PRETTY_PRINT));
-		file_put_contents('testing.json', json_encode($array, JSON_PRETTY_PRINT));
 
     }
 }
