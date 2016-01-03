@@ -1,7 +1,5 @@
 <?php
 
-require_once __DIR__ . '/../classes.php';
-
 class downloaderCest
 {
 
@@ -40,7 +38,7 @@ class downloaderCest
 			} else {
 				$questionObject->correctAnswer = new Answer($question['correctAnswer']['text'], $question['correctAnswer']['correct'], $question['correctAnswer']['id'], $question['correctAnswer']['tried']);
 			}
-			$allTests[$questionText] = $questionObject;
+			$this->allTests[$questionText] = $questionObject;
 		}
 		$this->currentTest = []; //question => correct answer
 
@@ -55,6 +53,7 @@ class downloaderCest
 			$questionText = $I->grabTextFrom("~$i.<\/b> otázka \(.*?\) - +<b>(.*?)<\/b>~");
 			$this->currentTest[] = $questionText;
 			if (array_key_exists($questionText, $this->allTests)) {
+
 			} else {
 				/** @var Answer[] $answers */
 				$answers = [];
@@ -65,7 +64,7 @@ class downloaderCest
 					$answerText = $I->grabTextFrom("~<TD VALIGN=\"MIDDLE\"><INPUT TYPE=\"radio\" VALUE=\"$number\" NAME=\"a$i\" \/><\/TD><TD>(.*?)<BR /></TD>~i");
 					$answers[] = new Answer($answerText, null, $number, false);
 				}
-				$allTests[$questionText] = new Question($questionText, $answers);
+				$this->allTests[$questionText] = new Question($questionText, $answers);
 			}
 		}
 
