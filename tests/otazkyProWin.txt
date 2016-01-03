@@ -1,0 +1,304 @@
+ Oprávnìní ke svaøování el. obloukem podle ÈSN 05 0630 mají osoby které:      
+	Absolvovaly a sloily zkoušky podle ÈSN 05 0705.
+ Prùkaz zaškoleného pracovníka podle ÈSN 05 0705 je:      
+	nepøenosnı a platí v organizaci uvedené na pøední stranì tohoto prùkazu.
+ Pevnost v tahu R<sub>m</sub> je definována jako:      
+	Max.zatíení F<sub>m</sub> vztaené na poèáteèní prùøez S<sub>0</sub>.
+ Kontrakce Z je definována vztahem (S je prùøez zkušební tyèky po pøetrení, S<sub>0</sub> je prùøez zkušební tyèky pøed zkouškou):      
+	Z = {(S<sub>0</sub>-S).100}/S<sub>0</sub>.
+ Funkce "Hot Start":      
+	usnadòuje zapálení oblouku pøi ruèním svaøování tím, zvıší zapalovací proud o cca 30 % a po úspìšném zapálení se proud sníí na nastavenou hodnotu.
+ Normalizované pracovní napìtí svaøovacího zdroje U<sub>p</sub> pro proudy do 600 A pro ruèní svaøování je dáno vztahem:      
+	U<sub>p</sub>=20 + 0,04.I<sub>S</sub>.
+ Svaøovací proud pro elektrody s bazickım obalem mùeme stanovit pøiblinì podle vztahu (d je prùmìr jádra elektrody v mm):      
+	I(A) = (35 a 50).d.
+ Svaøovací proud pro elektrody s kyselım a rutilovım obalem mùeme stanovit pøiblinì podle vztahu (d je prùmìr jádra elektrody):      
+	I(A) = (40 a 55).d.
+ Metoda WIG (TIG) je metoda svaøování:      
+	netavící se wolframovou elektrodou v inertním plynu.
+ V pøípadì ruèního obloukového svaøování je svarovı kov tvoøen:      
+	roztavenım základním a pøídavnım materiálem.
+ V pøípadì odporového svaøování je svarovı kov tvoøen:      
+	 roztavenım základním materiálem.
+ Pro svaøování laserovım svazkem se pouívá laser:      
+	He-N<sub>2</sub>-CO<sub>2</sub>.
+ U plasmového hoøáku s tzv. nepøenesenım obloukem je zapojen hlavní zdroj      
+	mezi W lektrodu (-pól) a kovovou trysku(+ pól).
+ Standardní statickou charakteristiku oblouku pro svaøovací metodu WIG lze popsat vztahem:      
+	U = 10+0,04 I<sub>s</sub>.
+ Standardní statickou charakteristiku oblouku pro ruèní svaøování obalovanou elektrodou lze popsat vztahem:      
+	U = 20+0,04 I<sub>s</sub>.
+ Pøi øezání eleza plazmou:      
+	je øezanı materiál ohøíván plasmou a následnì vyfukován z øezu proudem vzduchu.
+ Vyznaète symbol pro následující polohu svaøování: Poloha vodorovná <br /><br />        <img alt="image" src="image.php?k=170e9cfe4cbedc4c55a4aaf497f109b3&amp;f=PSVSL.JPG" /><br />      
+	PC.
+ Vyznaète symbol pro následující polohu svaøování: Poloha vodorovná nad hlavou<br /><br />        <img alt="image" src="image.php?k=170e9cfe4cbedc4c55a4aaf497f109b3&amp;f=PSVSL.JPG" /><br />      
+	PE.
+ Barva hrdla lahve pro pøepravu technického vodíku má barvu:      
+	èervenou.
+ Barva hrdla lahve pro pøepravu technického oxidu uhlièitého má barvu:      
+	šedou.
+ Dle klasifikace podle ÈSN 421315 povaujeme za dokonálé smáèení takové, kdy úhel smáèení leí v intervalu      
+	0° a 20°.
+ Tavidla v procesu pájení      
+	brání oxidaci pájky a povrchu pájenıch souèástí.
+ Pro SMD technologii pájení se pouívá vıhradnì:      
+	pájecí pasta.
+ "Voidy" jsou:      
+	dutiny uzavøené v objemu tuhé pájky.
+ Nepájivá maska:      
+	vymezuje oblast smáèení pájkou.
+ Pájení stojatou vlnou je vhodné pro technologii montáe:      
+	THT.
+ Wire bonding pouívá k propojování Cu mikrodrátem:      
+	termosonické svaøování.
+ Wire bonding pouívá k propojování:      
+	mikrodrátù.
+ Pro vırobu elektrod pro odporové svaøování se pouívá:      
+	slitina Cu-Ni<sub>2</sub>-Si.
+ Odporové svaøování vyuívá ke svaøování teplo :      
+	Jouleovo.
+ Co je nutné dodret pøi souèasném zapojení více stejnosmìrnıch svaøovacích zdrojù na jeden svarek?      
+	svaøovací zdroje musí mít vùèi svarku stejnou polaritu.
+ Po jakou dobu musí bıt pracovištì pod dozorem po ukonèení svaøeèské èinnosti?      
+	nejménì 8 hodin.
+ Vırazná mez kluzu R<sub>e</sub> je definována jako:      
+	Zatíení na mezi kluzu F<sub>e</sub> vztaené na poèáteèní prùøez S<sub>0</sub>.
+ Vrubová houevnatost vzorku materiálu se udává v:      
+	J/cm<sup>2</sup>.
+ Maximální efektivní hodnota napìtí støídavého svaøovacího zdroje naprázdno U<sub>n</sub> pro prostøedí bez zvıšeného nebezpeèí úrazu elektrickım proudem je:      
+	nejvıše 80 V.
+ Normalizované pracovní napìtí svaøovacího zdroje U<sub>p</sub> pro proudy nad 600 A pro ruèní svaøování je:      
+	U<sub>p</sub>=44 V.
+ Pøi pøipojení sváøecího zdroje s tzv. "nepøímou polaritou" je sváøeci elektroda pøipojena na:      
+	na kladnı pól stejnosmìrného zdroje, pøièem zápornı zdroj je pøipojen na svaøenec.
+ Metoda MAG je metoda svaøování:      
+	tavící se kovovou elektrodou v aktivním plynu.
+ Metoda MIG pouívá jako ochranu pøed okolní atmosférou:      
+	Argon, Helium pøípadnì jejich smìsi.
+ Teplem ovlivnìná oblast :      
+	 je oblast svaroveho spoje, která nebyla roztavena a ve které dojde ke zmìnám mikrostruktury v dùsledku pùsobení zdroje tepla od svaøování.
+ U plasmového hoøáku s tzv. pøenesenım obloukem je zapojen hlavní zdroj      
+	mezi W elektrodu (- pól) a svaøovanı materiál (+ pól).
+ Proces øezání eleza kyslíkem je :      
+	exotermickou reakcí za vzniku oxidù Fe.
+ Vyznaète symbol pro následující polohu svaøování: Poloha vodorovná shora <br /><br />        <img alt="image" src="image.php?k=170e9cfe4cbedc4c55a4aaf497f109b3&amp;f=PSVSL.JPG" /><br />      
+	PA.
+ Jako neutrální plamen oznaèujeme plamen s pomìrem oxidujícího plynu a acetylenu      
+	1 a 1,1.
+ Teplota plamene acetylenu + O<sub>2</sub> dosahuje (ve °C)      
+	3200.
+ K vytvoøení pájeného spoje dochází v dùsledku:      
+	vzájemnım rozpouštìním pájky a spojovanıch kovù a vzájemné difuze pájky a pájenıch souèástí v pevné fázi.
+ Pájecí pasta se na DPS nanáší:      
+	sítotiskem nebo dispenzerem.
+ Podstatou pájení v parách je:      
+	kondenzace par pájecí kapaliny na pájecí pastì a pájenıch souèástech a jejich spájení.
+ Jako bílı mor oznaèujeme:      
+	intermetalickou slouèeninu Au<sub>5</sub>Al<sub>2</sub>.
+ Pro vırobu elektrod pro odporové svaøování se pouívá:      
+	Cu-Cr.
+ Tzv. mìkkı reim pøi odporovém svaøování je charakterizován:      
+	niším svaøovacím proudem ,delším èasem, niší pøítlaènou silou.
+ Bezpeèné prostory z hlediska úrazu elektrickım proudem jsou takové, kde se pouívá bezpeèné jmenovité napìtí stejnosmìrného proudu:      
+	do 100 V.
+ Které hasící pøístroje se nesmí pouívat pøi hašení svaøovacích zdrojù?      
+	vodní a pìnové.
+ Jaké je prodlouení delta L tyèe délky L<sub>0</sub> = 100 mm, jestlie je axiálnì zatìována v oblasti pruné deformace napìtím 420 MPa. Modul prunosti materiálu tyèe je E = 2,1.10<sup>5</sup> MPa.      
+	2.10<sup>-4</sup>m.
+ Vickersova zkouška tvrdosti je definována jako:      
+	Síla pùsobící na indentor vztaená na plochu povrchu vtisku ve tvaru jehlanu.
+ Transformátor svaøovacího invertoru pracuje na frekvenci:      
+	40 kHz - 100 kHz.
+ Funkce "Arc Force":      
+	stabilizuje hoøící elektrickı oblouk pøi svaøování.
+ Pøi pøipojení sváøecího zdroje s tzv. "pøímou polaritou" je sváøeci elektroda pøipojena na:      
+	na zápornı pól stejnosmìrného zdroje, pøièem kladnı zdroj je pøipojen na svaøenec.
+ Metoda WIG pouívá jako ochranu pøed okolní atmosférou:      
+	Argon, Helium pøípadnì jejich smìsi.
+ V pøípadì svaøování elektronovım paprskem je svarovı kov tvoøen:      
+	 roztavenım základním materiálem.
+ Oznaète metodu svaøování, pøi její aplikaci je generováno RTG záøení.      
+	svaøování elektronovım svazkem.
+ Vyznaète symbol pro následující polohu svaøování: Poloha svislá dolù<br /><br />        <img alt="image" src="image.php?k=170e9cfe4cbedc4c55a4aaf497f109b3&amp;f=PSVSL.JPG" /><br />      
+	PG.
+ Teplota plamene vodíku + O<sub>2</sub> dosahuje (ve °C)      
+	2000.
+ Jako mìkkı plamen oznaèujeme plamen s vıstupní rychlostí:      
+	70 - 100 ms<sup>-1</sup>.
+ Dle klasifikace podle ÈSN 421315 povaujeme za postaèující smáèení takové, kdy úhel smáèení leí v intervalu      
+	41° a 55°.
+ Dle klasifikace podle ÈSN 421315 povaujeme za nesmáèivı povrch takovı, kdy úhel smáèení leí v intervalu      
+	91°a 180°.
+ Wire bonding pouívá k propojování Au mikrodrátem:      
+	termokompresi.
+ Wire bonding pouívá k propojování AlSi mikrodrátem:      
+	ultrazvukové svaøování.
+ Pro vırobu elektrod pro odporové svaøování se pouívá:      
+	E Cu.
+ Norma ÈSN 05 0630, která upravuje bezpeènostní opatøení pøi svaøování elektrickım obloukem a poadavky na pracovištì sváøeèù a bezpeènostní pøedpisy pro osoby pøicházející do styku s obloukovım svaøovacím zaøízením platí pro:      
+	všechny prostory, kde se svaøuje elektrickım obloukem tøeba i jen pøechodnì.
+ Tanost A je definována vztahem(L je délka zkušební tyèky po pøetrení, L<sub>0</sub> je délka zkušební tyèky pøed zkouškou):      
+	A = {(L-L<sub>0</sub>).100}/L<sub>0</sub>.
+ Brinellova zkouška tvrdosti je definována jako:      
+	Síla pùsobící na indentor vztaená na plochu vtisku ve tvaru kulového vrchlíku.
+ Maximální špièková hodnota napìtí stejnosmìrného svaøovacího zdroje naprázdno U<sub>n</sub> pro prostøedí bez zvıšeného nebezpeèí úrazu elektrickım proudem je:      
+	nejvıše 113 V.
+ Podstata øezání eleza kyslíkem spoèívá:      
+	ve spalování eleza v kyslíku a jeho vytlaèení proudem kyslíku z øezu.
+ Podstatou "Reflow procesu" je:      
+	absorbce IR záøení v pájecí pastì a pájenıch souèástech a jejich spájení.
+ Tzv. tvrdı reim pøi odporovém svaøování je charakterizován:      
+	vysokım proudem ,krátkım èasem, vyšší pøítlaènou silou.
+ Oprávnìní ke svaøování el. obloukem podle ÈSN 05 0630 mají osoby které:      
+	byly uznány lékaøem jako zpùsobilé pro tuto èinnost.
+ Pøi práci na volném prostranství musí svaøeè chránit svaøovaci zdroj pøed:      
+	úèinky vody.
+ Funkce "Anti Stick":      
+	zajistí po krátké dobì omezení zkratového proudu sváøecího zdroje pøi pøilepení elektrody.
+ Tlumivka zaøazená v sekundárním obvodu svaøovacího usmìròovaèe zajišuje:      
+	vyhlazení svaøovacího proudu.
+ V procesu ruèního obloukového svaøování dosahuje teplota oblouku na katodì hodnot v rozmezí:      
+	2100-2400°C.
+ Metoda MAG pouívá jako ochranu pøed okolní atmosférou:      
+	CO<sub>2</sub>pøípadnì jeho smìs s Argonem nebo kyslíkem.
+ Která svaøovací metoda vyuívá svaøování ve vakuu?      
+	svaøování elektronovım svazkem.
+ Teplota plamene propanu + O<sub>2</sub> dosahuje (ve °C)      
+	2800.
+ Bezolovnatá pájka SAC 405 má sloení:      
+	Sn(95,5%),Ag(4%),Cu(0,5%).
+ Nejrozšíøenìjší olovnatá pájka má sloení:      
+	63% Sn, 37% Pb.
+ Wire bonding je :      
+	techlogie propojování vıvodù na èipech a expandovanıch vıvodù.
+ Které svaøeèské práce mimo jiné se povaují za práce se zvıšenım nebezpeèím?      
+	práce s nebezpeèím vzniku poáru nebo vıbuchu.
+ Jakı je správnı postup poskytování první pomoci pøi úrazu elektrickım proudem?      
+	vyproštìní, umìlé dıchání, srdeèní masá, pøivolání lékaøe a oznámení úrazu nadøízenému pracovníkovi.
+ U metody MIG/MAG je pøídavnı materiál do oblasti svaru:      
+	podáván ze zásobníku pøes kladky v ose hoøáku ve formì drátu.
+ Vyznaète symbol pro následující polohu svaøování: Poloha vodorovná šikmo shora <br /><br />        <img alt="image" src="image.php?k=170e9cfe4cbedc4c55a4aaf497f109b3&amp;f=PSVSL.JPG" /><br />      
+	PB.
+ Nejvyšší mìrnı vıkon plamene (kJ.cm<sup>2</sup>.s<sup>-1</sup>) má:      
+	acetylen.
+ Teplota plamene svítiplynu + O<sub>2</sub> dosahuje (ve °C)      
+	2700.
+ Dle klasifikace podle ÈSN 421315 povaujeme za dobré smáèení takové, kdy úhel smáèení leí v intervalu      
+	21°a 40°.
+ Teplota vzniku intermetalické slouèeniny Cu<sub>6</sub>Sn<sub>5</sub> je:      
+	415°C.
+ Jako purpurovı mor oznaèujeme:      
+	intermetalickou slouèeninu Au<sub>2</sub>Al.
+ Co je nezbytnou souèástí písemného pøíkazu pro svaøování v prostorách se zvıšenım nebezpeèím?      
+	vymezená doba platnosti a stanoven dohled dalších odbornıch pracovníkù.
+ Mezi tzv. "Key hole" technologie svaøování øadíme:      
+	svaøování elektronovım svazkem.
+ Mezi tzv. "Key hole" technologie svaøování øadíme:      
+	plasmové svaøování.
+ Kterı z uvedenıch plynù nepatøí mezi tzv. plasmové plyny?      
+	CO<sub>2</sub>.
+ Barva hrdla lahve pro pøepravu technického kyslíku má barvu:      
+	bílou.
+ Barva hrdla lahve pro pøepravu technického acetylenu má barvu:      
+	kaštanovou.
+ Pájku tvoøí kov nebo slitina      
+	s niší teplotou tání ne mají spojované materiály.
+ Teplota tání mìkké pájky je niší ne      
+	450°C.
+ Nejrozšíøenìjší olovnatá pájka PbSn má teplotu tání:      
+	183°C.
+ Pro vırobu elektrod pro odporové svaøování se pouívá:      
+	ASCO slinutı.
+ Mezní pokles napìtí U<sub>p</sub> pro metody MIG/MAG je max:      
+	7 v na 100A svaøovacího proudu.
+ Obalované elektrody se musí skladovat v neporušenıch obalech pøi maximální relativní vlhkosti :      
+	50%.
+ Bezolovnatá pájka SAC 305 má sloení:      
+	Sn(96,5%),Ag(3%),Cu(0,5%).
+ Oprávnìní ke svaøování el. obloukem podle ÈSN 05 0630 mají osoby které:      
+	mají platnı prùkaz opravòující je vykonávat tuto èinnost.
+ Musí svaøeè pøi pøemisování obloukové sváøeèky odpojit pøívodní kabel od napájecího napìtí?      
+	ano, v kadém pøípadì musí.
+ Vyznaète symbol pro následující polohu svaøování: Poloha svislá nahoru<br /><br />        <img alt="image" src="image.php?k=170e9cfe4cbedc4c55a4aaf497f109b3&amp;f=PSVSL.JPG" /><br />      
+	PF.
+ Tzv. 1. fázi hoøení oxidujícího plynu a acetylenu popisuje rovnice     
+	C<sub>2</sub>H<sub>2</sub>+O<sub>2</sub>--&gt; 2CO+H<sub>2</sub>.
+ Mezi metody odporového svaøování nepatøí:      
+	elektrostruskové svaøování.
+ Oprávnìní ke svaøování el. obloukem podle ÈSN 05 0630 mají osoby které:      
+	dovršily vìk 18 let.
+ Hookùv zákon popisuje chování zkušebního vzorku :      
+	v oblasti pruné deformace.
+ Metoda MIG je metoda svaøování:      
+	tavící se kovovou elektrodou v inertním plynu.
+ Jako redukèní plamen oznaèujeme plamen s pomìrem oxidujícího plynu a acetylenu      
+	&lt;1.
+ Jako ostrı plamen oznaèujeme plamen s vıstupní rychlostí:      
+	&gt;120ms<sup>-1</sup>.
+ Jak se pøipojuje svaøovací vodiè ke svarku?      
+	co nejblíe místu svaøování nebo na kovovı svaøeèskı stùl.
+ Jmenovitı svaøovací proud svaøovacího zdroje I<sub>s</sub> je :      
+	proud, kterı lze trvale odebírat ze svaøovacího zdroje pøi DZ= 60%.
+ Zatìovatel svaøovacího zdroje DZ je dán (t<sub>z</sub> je doba svaøování, t<sub>p</sub> je doba pøestávky) vztahem:      
+	DZ=t<sub>z</sub>/(t<sub>z</sub>+t<sub>p</sub>).
+ Pro svaøování laserovım svazkem se pouívá laser:      
+	pevnolátkovı rubín:Cr.
+ Jaké povinnosti má svaøeè pøi pouívání osobních ochrannıch prostøedkù?      
+	nezneèišovat je mastnotami nebo lehce zápalnımi látkami.
+ Funkce "Soft Start":      
+	omezuje proudovı náraz pøi zapnutí sváøecího zdroje k síti.
+ Mezi tzv. "Key hole" technologie svaøování øadíme:      
+	laserové svaøování.
+ Jak èasto je povinen zamìstnavatel zajišovat lékaøské prohlídky pracovníkù s oprávnìním svaøovat elektrickım obloukem, kteøí jsou mladší 50 let?      
+	nejménì jednou za 5 let.
+ V procesu ruèního obloukového svaøování dosahuje teplota oblouku na anodì hodnot v rozmezí:      
+	2400-2600°C.
+ Jako oxidaèní plamen oznaèujeme plamen s pomìrem oxidujícího plynu a acetylenu      
+	= 1.2.
+ Kam musí odkládat svaøeè drák elektrody?      
+	na izolovanou podloku nebo izolovanı stojan.
+ Obalované elektrody se musí skladovat v neporušenıch obalech pøi minimální teplotì :      
+	+ 10°C.
+ Pro svaøování hliníku a jeho slitin metodou WIG se pouívá støídavı proud:      
+	z dùvodu èistícího úèinku oblouku pøi kladné polaritì napìtí na elektrodì.
+ Pøi svaøování v uzavøenıch nádobách, kotlech, v nádrích apod. se musí svaøovací zdroj umístit:      
+	mimo vıše uvedenı prostor.
+ Kdy svaøeè kontroluje svaøovací vodièe?      
+	pøed zasunutím síové vidlice do zásuvky.
+ Jaká musí bıt podlaha svaøeèského pracovištì?      
+	musí bıt z nehoølavého materiálu a musí odolávat mechanickım a jinım vlivùm bez tvoøení prachu.
+ Trvalı svaøovací proud svaøovacího zdroje I<sub>st</sub> je :      
+	nejvyšší proud, kterı lze odebírat ze svaøovacího zdroje pøi DZ= 100%.
+ Obal elektrody pro ruèní svaøování plní následující funkce:      
+	brání pøístupu kyslíku k tavné lázni, pøispívá ke snadnému zapálení a hoøení oblouku a brání propalu nìkterıch prvkù (Mn, Cr, Si).
+ Tzv. 2. fázi hoøení oxidujícího plynu a acetylenu popisuje rovnice      
+	2CO + H<sub>2</sub>+3O --&gt; 2CO<sub>2</sub> + H<sub>2</sub>O.
+ Pøi svaøování v uzavøenıch nádobách, kotlech v nádrích apod. musí mít svaøeè:      
+	ochrannı pás opatøenı lanem, jeho druhı konec je pevnì ukotven mimo vıše uvedenı prostor.
+ Které normy obsahují bezpeènostní ustanovení pro svaøování elektrickım obloukem:      
+	ÈSN 05 0601 a ÈSN 05 0630.
+ Metoda WIG je pouitelná pro svaøování hliníku pokud :      
+	pouijeme pro napájení oblouku støídavı zdroj.
+ Kdo odpovídá za vystavení písemného pøíkazu pro svaøování v místech se zvıšenım nebezpeèím vzniku poáru nebo vıbuchu?      
+	zplnomocnìnı pracovník.
+ Jako støední plamen oznaèujeme plamen s vıstupní rychlostí:      
+	100 - 120 ms<sup>-1</sup>.
+ Prùkaz zaškoleného pracovníka podle ÈSN 05 0705 platí jen:      
+	v organizaci uvedené na pøední stranì tohoto prùkazu.
+ Hodnota pro lidskı organismus bezpeèného støídavého proudu je :      
+	do 10 mA.
+ Jak èasto musí kadı pracovník s oprávnìním svaøovat el. obloukem, absolvovat doplòkové a opakovací školení s pøezkoušením z bezpeènostních ustanovení?      
+	nejménì jednou za dva roky.
+ Teplota vzniku intermetalické slouèeniny Cu<sub>3</sub>Sn je:      
+	670°C.
+ Ohroení škodlivinami zpùsobuje:      
+	svaøeèskı aerosol, záøení, hluk a mikroklimatické podmínky.
+ Normalizovanı cyklus ruèního svaøování je definován:      
+	celkovou dobou cyklu 5 min a DZ= 60%.
+ Pøi svaøování v uzavøenıch nádobách, kotlech v nádrích apod. spouští a zastavuje svaøovací zdroj:      
+	osoba zdrující se mimo vıše uvedenı prostor podle pokynù svaøeèe.
+ Jaké má bıt pracovištì pro ruèní svaøování elektrickım obloukem?      
+	umístìné v kabinì, vybavené prostøedky chránícími svaøeèe i okolí pøed nebezpeèími vznikajícími pøi svaøování.
+ Pøi svaøování v uzavøenıch nádobách, kotlech, v nádrích apod. se nesmí pouívat jako svaøovací zdroj:      
+	transformátor.
