@@ -1101,12 +1101,17 @@
             },
             {
                 "text": "sva\u0159ovac\u00ed zdroje mus\u00ed m\u00edt v\u016f\u010di svarku stejnou polaritu",
-                "correct": null,
+                "correct": true,
                 "id": 18009,
-                "tried": false
+                "tried": true
             }
         ],
-        "correctAnswer": null,
+        "correctAnswer": {
+            "text": "sva\u0159ovac\u00ed zdroje mus\u00ed m\u00edt v\u016f\u010di svarku stejnou polaritu",
+            "correct": true,
+            "id": 18009,
+            "tried": true
+        },
         "selected": null,
         "text": " Co je nutn\u00e9 dodr\u017eet p\u0159i sou\u010dasn\u00e9m zapojen\u00ed v\u00edce stejnosm\u011brn\u00fdch sva\u0159ovac\u00edch zdroj\u016f na jeden svarek?      "
     },
@@ -5355,7 +5360,7 @@
                 "text": "uzav\u0159en\u00e9 s centr\u00e1ln\u00edm v\u011btr\u00e1n\u00edm",
                 "correct": null,
                 "id": 18023,
-                "tried": false
+                "tried": true
             },
             {
                 "text": "um\u00edst\u011bn\u00e9 v kabin\u011b, vybaven\u00e9 prost\u0159edky chr\u00e1n\u00edc\u00edmi sva\u0159e\u010de i okol\u00ed p\u0159ed nebezpe\u010d\u00edmi vznikaj\u00edc\u00edmi p\u0159i sva\u0159ov\u00e1n\u00ed",
