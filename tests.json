@@ -5009,12 +5009,17 @@
             },
             {
                 "text": "\u010cSN 05 0601 a \u010cSN 05 0630",
-                "correct": null,
+                "correct": true,
                 "id": 18069,
-                "tried": false
+                "tried": true
             }
         ],
-        "correctAnswer": null,
+        "correctAnswer": {
+            "text": "\u010cSN 05 0601 a \u010cSN 05 0630",
+            "correct": true,
+            "id": 18069,
+            "tried": true
+        },
         "selected": null,
         "text": " Kter\u00e9 normy obsahuj\u00ed bezpe\u010dnostn\u00ed ustanoven\u00ed pro sva\u0159ov\u00e1n\u00ed elektrick\u00fdm obloukem:      "
     },
