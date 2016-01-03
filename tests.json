@@ -3489,7 +3489,7 @@
                 "text": "odporov\u00e9 v\u00fdstupkov\u00e9 sva\u0159ov\u00e1n\u00ed",
                 "correct": null,
                 "id": 18212,
-                "tried": false
+                "tried": true
             },
             {
                 "text": "sva\u0159ov\u00e1n\u00ed elektronov\u00fdm svazkem",
@@ -5196,7 +5196,7 @@
                 "text": "327\u00b0C",
                 "correct": null,
                 "id": 18406,
-                "tried": false
+                "tried": true
             },
             {
                 "text": "232\u00b0C",
@@ -5268,12 +5268,17 @@
             },
             {
                 "text": "celkovou dobou cyklu 5 min a DZ= 60%",
-                "correct": null,
+                "correct": true,
                 "id": 18137,
-                "tried": false
+                "tried": true
             }
         ],
-        "correctAnswer": null,
+        "correctAnswer": {
+            "text": "celkovou dobou cyklu 5 min a DZ= 60%",
+            "correct": true,
+            "id": 18137,
+            "tried": true
+        },
         "selected": null,
         "text": " Normalizovan\u00fd cyklus ru\u010dn\u00edho sva\u0159ov\u00e1n\u00ed je definov\u00e1n:      "
     },
