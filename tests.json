@@ -659,12 +659,17 @@
             },
             {
                 "text": "\u010dervenou",
-                "correct": null,
+                "correct": true,
                 "id": 18349,
-                "tried": false
+                "tried": true
             }
         ],
-        "correctAnswer": null,
+        "correctAnswer": {
+            "text": "\u010dervenou",
+            "correct": true,
+            "id": 18349,
+            "tried": true
+        },
         "selected": null,
         "text": " Barva hrdla lahve pro p\u0159epravu technick\u00e9ho vod\u00edku m\u00e1 barvu:      "
     },
@@ -1046,7 +1051,7 @@
                 "text": " generovan\u00e9 laserov\u00fdm svazkem",
                 "correct": null,
                 "id": 18547,
-                "tried": false
+                "tried": true
             },
             {
                 "text": "Jouleovo",
@@ -1077,7 +1082,7 @@
                 "text": "v\u0161echny zdroje mus\u00ed m\u00edt stejn\u00e9 nap\u011bt\u00ed napr\u00e1zdno",
                 "correct": null,
                 "id": 18008,
-                "tried": false
+                "tried": true
             },
             {
                 "text": "sva\u0159ovac\u00ed zdroje mus\u00ed m\u00edt v\u016f\u010di svarku stejnou polaritu",
@@ -1112,12 +1117,17 @@
             },
             {
                 "text": "nejm\u00e9n\u011b 8 hodin",
-                "correct": null,
+                "correct": true,
                 "id": 17945,
-                "tried": false
+                "tried": true
             }
         ],
-        "correctAnswer": null,
+        "correctAnswer": {
+            "text": "nejm\u00e9n\u011b 8 hodin",
+            "correct": true,
+            "id": 17945,
+            "tried": true
+        },
         "selected": null,
         "text": " Po jakou dobu mus\u00ed b\u00fdt pracovi\u0161t\u011b pod dozorem po ukon\u010den\u00ed sva\u0159e\u010dsk\u00e9 \u010dinnosti?      "
     },
@@ -1353,9 +1363,9 @@
             },
             {
                 "text": "Argon, Helium p\u0159\u00edpadn\u011b jejich sm\u011bsi",
-                "correct": null,
+                "correct": true,
                 "id": 18180,
-                "tried": false
+                "tried": true
             },
             {
                 "text": "Argon",
@@ -1364,7 +1374,12 @@
                 "tried": false
             }
         ],
-        "correctAnswer": null,
+        "correctAnswer": {
+            "text": "Argon, Helium p\u0159\u00edpadn\u011b jejich sm\u011bsi",
+            "correct": true,
+            "id": 18180,
+            "tried": true
+        },
         "selected": null,
         "text": " Metoda MIG pou\u017e\u00edv\u00e1 jako ochranu p\u0159ed okoln\u00ed atmosf\u00e9rou:      "
     },
@@ -1982,7 +1997,7 @@
                 "text": "automaticky reguluje velikost sva\u0159ovac\u00edho proudu podle typu elektrody",
                 "correct": null,
                 "id": 18123,
-                "tried": false
+                "tried": true
             },
             {
                 "text": "stabilizuje ho\u0159\u00edc\u00ed elektrick\u00fd oblouk p\u0159i sva\u0159ov\u00e1n\u00ed",
@@ -2728,13 +2743,13 @@
                 "text": "mrazem",
                 "correct": null,
                 "id": 18003,
-                "tried": false
+                "tried": true
             },
             {
                 "text": "v\u011btrem",
                 "correct": null,
                 "id": 18004,
-                "tried": false
+                "tried": true
             },
             {
                 "text": "\u00fa\u010dinky vody",
@@ -2757,9 +2772,9 @@
             },
             {
                 "text": "zajist\u00ed po kr\u00e1tk\u00e9 dob\u011b omezen\u00ed zkratov\u00e9ho proudu sv\u00e1\u0159ec\u00edho zdroje p\u0159i p\u0159ilepen\u00ed elektrody",
-                "correct": null,
+                "correct": true,
                 "id": 18115,
-                "tried": false
+                "tried": true
             },
             {
                 "text": "automaticky nastavuje velikost pracovn\u00edho nap\u011bt\u00ed p\u0159i sv\u00e1\u0159en\u00ed",
@@ -2774,7 +2789,12 @@
                 "tried": false
             }
         ],
-        "correctAnswer": null,
+        "correctAnswer": {
+            "text": "zajist\u00ed po kr\u00e1tk\u00e9 dob\u011b omezen\u00ed zkratov\u00e9ho proudu sv\u00e1\u0159ec\u00edho zdroje p\u0159i p\u0159ilepen\u00ed elektrody",
+            "correct": true,
+            "id": 18115,
+            "tried": true
+        },
         "selected": null,
         "text": " Funkce \"Anti Stick\":      "
     },
@@ -2824,9 +2844,9 @@
             },
             {
                 "text": "2100-2400\u00b0C",
-                "correct": null,
+                "correct": true,
                 "id": 18227,
-                "tried": false
+                "tried": true
             },
             {
                 "text": "2000-2100\u00b0C",
@@ -2841,7 +2861,12 @@
                 "tried": false
             }
         ],
-        "correctAnswer": null,
+        "correctAnswer": {
+            "text": "2100-2400\u00b0C",
+            "correct": true,
+            "id": 18227,
+            "tried": true
+        },
         "selected": null,
         "text": " V procesu ru\u010dn\u00edho obloukov\u00e9ho sva\u0159ov\u00e1n\u00ed dosahuje teplota oblouku na katod\u011b hodnot v rozmez\u00ed:      "
     },
@@ -3247,9 +3272,9 @@
             },
             {
                 "text": "2700",
-                "correct": null,
+                "correct": true,
                 "id": 18391,
-                "tried": false
+                "tried": true
             },
             {
                 "text": "2000",
@@ -3258,7 +3283,12 @@
                 "tried": false
             }
         ],
-        "correctAnswer": null,
+        "correctAnswer": {
+            "text": "2700",
+            "correct": true,
+            "id": 18391,
+            "tried": true
+        },
         "selected": null,
         "text": " Teplota plamene sv\u00edtiplynu + O<sub>2<\/sub> dosahuje (ve \u00b0C)      "
     },
@@ -3308,9 +3338,9 @@
             },
             {
                 "text": "415\u00b0C",
-                "correct": null,
+                "correct": true,
                 "id": 18410,
-                "tried": false
+                "tried": true
             },
             {
                 "text": "232\u00b0C",
@@ -3325,7 +3355,12 @@
                 "tried": false
             }
         ],
-        "correctAnswer": null,
+        "correctAnswer": {
+            "text": "415\u00b0C",
+            "correct": true,
+            "id": 18410,
+            "tried": true
+        },
         "selected": null,
         "text": " Teplota vzniku intermetalick\u00e9 slou\u010deniny Cu<sub>6<\/sub>Sn<sub>5<\/sub> je:      "
     },
@@ -3445,16 +3480,21 @@
                 "text": "odporov\u00e9 bodov\u00e9 sva\u0159ov\u00e1n\u00ed",
                 "correct": null,
                 "id": 18216,
-                "tried": false
+                "tried": true
             },
             {
                 "text": "plasmov\u00e9 sva\u0159ov\u00e1n\u00ed",
-                "correct": null,
+                "correct": true,
                 "id": 18217,
-                "tried": false
+                "tried": true
             }
         ],
-        "correctAnswer": null,
+        "correctAnswer": {
+            "text": "plasmov\u00e9 sva\u0159ov\u00e1n\u00ed",
+            "correct": true,
+            "id": 18217,
+            "tried": true
+        },
         "selected": null,
         "text": " Mezi tzv. \"Key hole\" technologie sva\u0159ov\u00e1n\u00ed \u0159ad\u00edme:      "
     },
@@ -3510,9 +3550,9 @@
             },
             {
                 "text": "b\u00edlou",
-                "correct": null,
+                "correct": true,
                 "id": 18356,
-                "tried": false
+                "tried": true
             },
             {
                 "text": "sv\u011btle zelenou",
@@ -3521,7 +3561,12 @@
                 "tried": false
             }
         ],
-        "correctAnswer": null,
+        "correctAnswer": {
+            "text": "b\u00edlou",
+            "correct": true,
+            "id": 18356,
+            "tried": true
+        },
         "selected": null,
         "text": " Barva hrdla lahve pro p\u0159epravu technick\u00e9ho kysl\u00edku m\u00e1 barvu:      "
     },
@@ -3615,7 +3660,7 @@
                 "text": "1100\u00b0C",
                 "correct": null,
                 "id": 18443,
-                "tried": false
+                "tried": true
             },
             {
                 "text": "450\u00b0C",
@@ -4035,12 +4080,17 @@
             },
             {
                 "text": "v oblasti pru\u017en\u00e9 deformace",
-                "correct": null,
+                "correct": true,
                 "id": 18073,
-                "tried": false
+                "tried": true
             }
         ],
-        "correctAnswer": null,
+        "correctAnswer": {
+            "text": "v oblasti pru\u017en\u00e9 deformace",
+            "correct": true,
+            "id": 18073,
+            "tried": true
+        },
         "selected": null,
         "text": " Hook\u016fv z\u00e1kon popisuje chov\u00e1n\u00ed zku\u0161ebn\u00edho vzorku :      "
     },
@@ -4090,9 +4140,9 @@
             },
             {
                 "text": "&lt;1",
-                "correct": null,
+                "correct": true,
                 "id": 18398,
-                "tried": false
+                "tried": true
             },
             {
                 "text": "= 1.2",
@@ -4107,7 +4157,12 @@
                 "tried": false
             }
         ],
-        "correctAnswer": null,
+        "correctAnswer": {
+            "text": "&lt;1",
+            "correct": true,
+            "id": 18398,
+            "tried": true
+        },
         "selected": null,
         "text": " Jako reduk\u010dn\u00ed plamen ozna\u010dujeme plamen s pom\u011brem oxiduj\u00edc\u00edho plynu a acetylenu      "
     },
@@ -4327,9 +4382,9 @@
             },
             {
                 "text": "omezuje proudov\u00fd n\u00e1raz p\u0159i zapnut\u00ed sv\u00e1\u0159ec\u00edho zdroje k s\u00edti",
-                "correct": null,
+                "correct": true,
                 "id": 18111,
-                "tried": false
+                "tried": true
             },
             {
                 "text": "automaticky reguluje velikost sva\u0159ovac\u00edho proudu podle typu elektrody",
@@ -4344,7 +4399,12 @@
                 "tried": false
             }
         ],
-        "correctAnswer": null,
+        "correctAnswer": {
+            "text": "omezuje proudov\u00fd n\u00e1raz p\u0159i zapnut\u00ed sv\u00e1\u0159ec\u00edho zdroje k s\u00edti",
+            "correct": true,
+            "id": 18111,
+            "tried": true
+        },
         "selected": null,
         "text": " Funkce \"Soft Start\":      "
     },
@@ -4530,7 +4590,7 @@
                 "text": "0\u00b0C",
                 "correct": null,
                 "id": 18203,
-                "tried": false
+                "tried": true
             },
             {
                 "text": "+ 5\u00b0C",
@@ -4561,7 +4621,7 @@
                 "text": "z d\u016fvodu dosa\u017een\u00ed vysok\u00e9ho z\u00e1varu",
                 "correct": null,
                 "id": 18183,
-                "tried": false
+                "tried": true
             },
             {
                 "text": "z d\u016fvodu rychlej\u0161\u00edho odtaven\u00ed elektrody",
@@ -4592,7 +4652,7 @@
                 "text": "v bl\u00edzkosti sva\u0159e\u010de, ale na izolovan\u00e9 podlo\u017ece",
                 "correct": null,
                 "id": 17967,
-                "tried": false
+                "tried": true
             },
             {
                 "text": "libovoln\u011b uvnit\u0159 n\u00e1doby",
@@ -4623,7 +4683,7 @@
                 "text": "p\u0159i periodick\u00fdch reviz\u00edch sva\u0159ovac\u00edch zdroj\u016f",
                 "correct": null,
                 "id": 17959,
-                "tried": false
+                "tried": true
             },
             {
                 "text": "p\u0159ed zasunut\u00edm s\u00ed\u0165ov\u00e9 vidlice do z\u00e1suvky",
@@ -4726,13 +4786,13 @@
                 "text": "pouze p\u0159isp\u00edv\u00e1 ke snadn\u00e9mu zap\u00e1len\u00ed a ho\u0159en\u00ed oblouku",
                 "correct": null,
                 "id": 18235,
-                "tried": false
+                "tried": true
             },
             {
                 "text": "br\u00e1n\u00ed p\u0159\u00edstupu kysl\u00edku k tavn\u00e9 l\u00e1zni, p\u0159isp\u00edv\u00e1 ke snadn\u00e9mu zap\u00e1len\u00ed a ho\u0159en\u00ed oblouku a br\u00e1n\u00ed propalu n\u011bkter\u00fdch prvk\u016f (Mn, Cr, Si)",
-                "correct": null,
+                "correct": true,
                 "id": 18236,
-                "tried": false
+                "tried": true
             },
             {
                 "text": "pouze br\u00e1n\u00ed propalu n\u011bkter\u00fdch prvk\u016f",
@@ -4741,7 +4801,12 @@
                 "tried": false
             }
         ],
-        "correctAnswer": null,
+        "correctAnswer": {
+            "text": "br\u00e1n\u00ed p\u0159\u00edstupu kysl\u00edku k tavn\u00e9 l\u00e1zni, p\u0159isp\u00edv\u00e1 ke snadn\u00e9mu zap\u00e1len\u00ed a ho\u0159en\u00ed oblouku a br\u00e1n\u00ed propalu n\u011bkter\u00fdch prvk\u016f (Mn, Cr, Si)",
+            "correct": true,
+            "id": 18236,
+            "tried": true
+        },
         "selected": null,
         "text": " Obal elektrody pro ru\u010dn\u00ed sva\u0159ov\u00e1n\u00ed pln\u00ed n\u00e1sleduj\u00edc\u00ed funkce:      "
     },
@@ -4755,9 +4820,9 @@
             },
             {
                 "text": "2CO + H<sub>2<\/sub>+3O --&gt; 2CO<sub>2<\/sub> + H<sub>2<\/sub>O",
-                "correct": null,
+                "correct": true,
                 "id": 18375,
-                "tried": false
+                "tried": true
             },
             {
                 "text": "C<sub>2<\/sub>H<sub>2<\/sub>+2O<sub>2<\/sub>--&gt; CO+H<sub>2<\/sub>",
@@ -4772,8 +4837,168 @@
                 "tried": false
             }
         ],
-        "correctAnswer": null,
+        "correctAnswer": {
+            "text": "2CO + H<sub>2<\/sub>+3O --&gt; 2CO<sub>2<\/sub> + H<sub>2<\/sub>O",
+            "correct": true,
+            "id": 18375,
+            "tried": true
+        },
         "selected": null,
         "text": " Tzv. 2. f\u00e1zi ho\u0159en\u00ed oxiduj\u00edc\u00edho plynu a acetylenu popisuje rovnice      "
+    },
+    "17954": {
+        "answers": [
+            {
+                "text": "neho\u0159lav\u00fd od\u011bv",
+                "correct": null,
+                "id": 17954,
+                "tried": true
+            },
+            {
+                "text": "d\u00fdchac\u00ed p\u0159\u00edstroj",
+                "correct": null,
+                "id": 17955,
+                "tried": false
+            },
+            {
+                "text": "ochrann\u00fd p\u00e1s opat\u0159en\u00fd lanem, jeho\u017e druh\u00fd konec je pevn\u011b ukotven mimo v\u00fd\u0161e uveden\u00fd prostor",
+                "correct": null,
+                "id": 17956,
+                "tried": false
+            },
+            {
+                "text": "komunika\u010dn\u00ed za\u0159\u00edzen\u00ed pro styk s osobou mimo v\u00fd\u0161e uveden\u00fd prostor",
+                "correct": null,
+                "id": 17957,
+                "tried": false
+            }
+        ],
+        "correctAnswer": null,
+        "selected": null,
+        "text": " P\u0159i sva\u0159ov\u00e1n\u00ed v uzav\u0159en\u00fdch n\u00e1dob\u00e1ch, kotlech v n\u00e1dr\u017e\u00edch apod. mus\u00ed m\u00edt sva\u0159e\u010d:      "
+    },
+    "18066": {
+        "answers": [
+            {
+                "text": "\u010cSN 05 603 a \u010cSN 06 0506",
+                "correct": null,
+                "id": 18066,
+                "tried": true
+            },
+            {
+                "text": "\u010cSN 05 0710 a \u010cSN 05 0705",
+                "correct": null,
+                "id": 18067,
+                "tried": true
+            },
+            {
+                "text": "\u010cSN 06 0510 a \u010cSN 06 0530",
+                "correct": null,
+                "id": 18068,
+                "tried": false
+            },
+            {
+                "text": "\u010cSN 05 0601 a \u010cSN 05 0630",
+                "correct": null,
+                "id": 18069,
+                "tried": false
+            }
+        ],
+        "correctAnswer": null,
+        "selected": null,
+        "text": " Kter\u00e9 normy obsahuj\u00ed bezpe\u010dnostn\u00ed ustanoven\u00ed pro sva\u0159ov\u00e1n\u00ed elektrick\u00fdm obloukem:      "
+    },
+    "18174": {
+        "answers": [
+            {
+                "text": "pou\u017eijeme tavidlo a pro nap\u00e1jen\u00ed oblouku stejnosm\u011brn\u00fd zdroj",
+                "correct": null,
+                "id": 18174,
+                "tried": true
+            },
+            {
+                "text": "pou\u017eijeme Argon jako ochrann\u00fd plyn a pro nap\u00e1jen\u00ed oblouku stejnosm\u011brn\u00fd zdroj",
+                "correct": null,
+                "id": 18175,
+                "tried": false
+            },
+            {
+                "text": "pou\u017eijeme pro nap\u00e1jen\u00ed oblouku st\u0159\u00eddav\u00fd zdroj",
+                "correct": null,
+                "id": 18176,
+                "tried": false
+            },
+            {
+                "text": "pou\u017eijeme pro nap\u00e1jen\u00ed oblouku stejnosm\u011brn\u00fd zdroj",
+                "correct": null,
+                "id": 18177,
+                "tried": false
+            }
+        ],
+        "correctAnswer": null,
+        "selected": null,
+        "text": " Metoda WIG je pou\u017eiteln\u00e1 pro sva\u0159ov\u00e1n\u00ed hlin\u00edku pokud :      "
+    },
+    "17982": {
+        "answers": [
+            {
+                "text": "sva\u0159e\u010dsk\u00fd technolog",
+                "correct": null,
+                "id": 17982,
+                "tried": true
+            },
+            {
+                "text": "po\u017e\u00e1rn\u00ed technik",
+                "correct": null,
+                "id": 17983,
+                "tried": false
+            },
+            {
+                "text": "zplnomocn\u011bn\u00fd pracovn\u00edk",
+                "correct": null,
+                "id": 17984,
+                "tried": false
+            },
+            {
+                "text": "bezpe\u010dnostn\u00ed technik",
+                "correct": null,
+                "id": 17985,
+                "tried": false
+            }
+        ],
+        "correctAnswer": null,
+        "selected": null,
+        "text": " Kdo odpov\u00edd\u00e1 za vystaven\u00ed p\u00edsemn\u00e9ho p\u0159\u00edkazu pro sva\u0159ov\u00e1n\u00ed v m\u00edstech se zv\u00fd\u0161en\u00fdm nebezpe\u010d\u00edm vzniku po\u017e\u00e1ru nebo v\u00fdbuchu?      "
+    },
+    "18366": {
+        "answers": [
+            {
+                "text": "&gt;120 ms<sup>-1<\/sup>",
+                "correct": null,
+                "id": 18366,
+                "tried": true
+            },
+            {
+                "text": "100 - 120 ms<sup>-1<\/sup>",
+                "correct": null,
+                "id": 18367,
+                "tried": false
+            },
+            {
+                "text": "70 - 100 ms<sup>-1<\/sup>",
+                "correct": null,
+                "id": 18368,
+                "tried": false
+            },
+            {
+                "text": "&lt;70 - 100 ms<sup>-1<\/sup>",
+                "correct": null,
+                "id": 18369,
+                "tried": false
+            }
+        ],
+        "correctAnswer": null,
+        "selected": null,
+        "text": " Jako st\u0159edn\u00ed plamen ozna\u010dujeme plamen s v\u00fdstupn\u00ed rychlost\u00ed:      "
     }
 }
