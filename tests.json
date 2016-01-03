@@ -1951,16 +1951,21 @@
                 "text": "S\u00edla p\u016fsob\u00edc\u00ed na indentor vzta\u017een\u00e1 na plochu vtisku ve tvaru kruhu",
                 "correct": null,
                 "id": 18076,
-                "tried": false
+                "tried": true
             },
             {
                 "text": "S\u00edla p\u016fsob\u00edc\u00ed na indentor vzta\u017een\u00e1 na plochu povrchu vtisku ve tvaru jehlanu",
-                "correct": null,
+                "correct": true,
                 "id": 18077,
-                "tried": false
+                "tried": true
             }
         ],
-        "correctAnswer": null,
+        "correctAnswer": {
+            "text": "S\u00edla p\u016fsob\u00edc\u00ed na indentor vzta\u017een\u00e1 na plochu povrchu vtisku ve tvaru jehlanu",
+            "correct": true,
+            "id": 18077,
+            "tried": true
+        },
         "selected": null,
         "text": " Vickersova zkou\u0161ka tvrdosti je definov\u00e1na jako:      "
     },
@@ -3191,7 +3196,7 @@
                 "text": "pod\u00e1v\u00e1n ze z\u00e1sobn\u00edku p\u0159es kladky mimo ho\u0159\u00e1k ve form\u011b dr\u00e1tu",
                 "correct": null,
                 "id": 18168,
-                "tried": false
+                "tried": true
             },
             {
                 "text": "pod\u00e1v\u00e1n ze z\u00e1sobn\u00edku p\u0159es kladky v ose ho\u0159\u00e1ku ve form\u011b dr\u00e1tu",
@@ -5153,5 +5158,98 @@
         "correctAnswer": null,
         "selected": null,
         "text": " Jak \u010dasto mus\u00ed ka\u017ed\u00fd pracovn\u00edk s opr\u00e1vn\u011bn\u00edm sva\u0159ovat el. obloukem, absolvovat dopl\u0148kov\u00e9 a opakovac\u00ed \u0161kolen\u00ed s p\u0159ezkou\u0161en\u00edm z bezpe\u010dnostn\u00edch ustanoven\u00ed?      "
+    },
+    "18405": {
+        "answers": [
+            {
+                "text": "415\u00b0C",
+                "correct": null,
+                "id": 18405,
+                "tried": true
+            },
+            {
+                "text": "327\u00b0C",
+                "correct": null,
+                "id": 18406,
+                "tried": false
+            },
+            {
+                "text": "232\u00b0C",
+                "correct": null,
+                "id": 18407,
+                "tried": false
+            },
+            {
+                "text": "670\u00b0C",
+                "correct": null,
+                "id": 18408,
+                "tried": false
+            }
+        ],
+        "correctAnswer": null,
+        "selected": null,
+        "text": " Teplota vzniku intermetalick\u00e9 slou\u010deniny Cu<sub>3<\/sub>Sn je:      "
+    },
+    "17998": {
+        "answers": [
+            {
+                "text": "sva\u0159ov\u00e1n\u00ed st\u0159\u00eddav\u00fdm proudem",
+                "correct": null,
+                "id": 17998,
+                "tried": true
+            },
+            {
+                "text": "sva\u0159ov\u00e1n\u00ed stejnosm\u011brn\u00fdm proudem",
+                "correct": null,
+                "id": 17999,
+                "tried": false
+            },
+            {
+                "text": "rozst\u0159ik kovu a \u017ehav\u00e1 struska",
+                "correct": null,
+                "id": 18000,
+                "tried": false
+            },
+            {
+                "text": "sva\u0159e\u010dsk\u00fd aerosol, z\u00e1\u0159en\u00ed, hluk a mikroklimatick\u00e9 podm\u00ednky",
+                "correct": null,
+                "id": 18001,
+                "tried": false
+            }
+        ],
+        "correctAnswer": null,
+        "selected": null,
+        "text": " Ohro\u017een\u00ed \u0161kodlivinami zp\u016fsobuje:      "
+    },
+    "18134": {
+        "answers": [
+            {
+                "text": " celkovou dobou cyklu 6 min a DZ= 60%",
+                "correct": null,
+                "id": 18134,
+                "tried": true
+            },
+            {
+                "text": " celkovou dobou cyklu 5 min a DZ= 100%",
+                "correct": null,
+                "id": 18135,
+                "tried": false
+            },
+            {
+                "text": "celkovou dobou cyklu 10 min a DZ= 80%",
+                "correct": null,
+                "id": 18136,
+                "tried": false
+            },
+            {
+                "text": "celkovou dobou cyklu 5 min a DZ= 60%",
+                "correct": null,
+                "id": 18137,
+                "tried": false
+            }
+        ],
+        "correctAnswer": null,
+        "selected": null,
+        "text": " Normalizovan\u00fd cyklus ru\u010dn\u00edho sva\u0159ov\u00e1n\u00ed je definov\u00e1n:      "
     }
 }
