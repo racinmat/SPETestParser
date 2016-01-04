@@ -6,7 +6,7 @@
  * Time: 18:49
  */
 
-require_once 'classes.php';
+require_once 'utils.php';
 
 //if (preg_match("~php~i", "PHP is the web scripting language of choice.", $matches)) {
 //	echo var_dump($matches);
@@ -33,20 +33,7 @@ require_once 'classes.php';
 
 
 /** @var Question[] $allTests */
-$allTests = json_decode(file_get_contents(__DIR__ . '/../tests.json'), true);
-$currentTest = []; //question => correct answer
-var_dump($allTests);
-foreach ($allTests as $questionText => $question) {
-	$answers = [];
-	foreach ($question['answers'] as $answer) {
-		$answers[] = new Answer($answer['text'], $answer['correct'], $answer['id'], $answer['tried']);
-	}
-	$questionObject = new Question($question['text'], $answers);
-	$questionObject->selected = $question['selected'];
-	$questionObject->correctAnswer = $question['correctAnswer'];
-	$allTests[$questionText] = $questionObject;
-}
+$allTests = loadFromJson(__DIR__ . '/../tests.json');
 
-var_dump($allTests);
-
-var_dump(json_encode($allTests, JSON_PRETTY_PRINT));
+ksort($allTests);
+file_put_contents(__DIR__ . '/../testsSorted.json', json_encode($allTests, JSON_PRETTY_PRINT));

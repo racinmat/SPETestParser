@@ -1,0 +1,5468 @@
+{
+    "17942": {
+        "answers": [
+            {
+                "text": "nemus\u00ed b\u00fdt v\u016fbec pod dozorem",
+                "correct": null,
+                "id": 17942,
+                "tried": true
+            },
+            {
+                "text": "nejm\u00e9n\u011b 1 hod.",
+                "correct": null,
+                "id": 17943,
+                "tried": true
+            },
+            {
+                "text": "nejm\u00e9n\u011b 4 hod.",
+                "correct": null,
+                "id": 17944,
+                "tried": true
+            },
+            {
+                "text": "nejm\u00e9n\u011b 8 hodin",
+                "correct": true,
+                "id": 17945,
+                "tried": true
+            }
+        ],
+        "correctAnswer": {
+            "text": "nejm\u00e9n\u011b 8 hodin",
+            "correct": true,
+            "id": 17945,
+            "tried": true
+        },
+        "selected": null,
+        "text": " Po jakou dobu mus\u00ed b\u00fdt pracovi\u0161t\u011b pod dozorem po ukon\u010den\u00ed sva\u0159e\u010dsk\u00e9 \u010dinnosti?      "
+    },
+    "17946": {
+        "answers": [
+            {
+                "text": "pou\u017e\u00edvat je podle mo\u017enosti",
+                "correct": null,
+                "id": 17946,
+                "tried": true
+            },
+            {
+                "text": "nezne\u010di\u0161\u0165ovat je mastnotami nebo lehce z\u00e1paln\u00fdmi l\u00e1tkami",
+                "correct": true,
+                "id": 17947,
+                "tried": true
+            },
+            {
+                "text": "po\u0161kozen\u00e9 pe\u010dliv\u011b opravovat",
+                "correct": null,
+                "id": 17948,
+                "tried": false
+            },
+            {
+                "text": "pou\u017e\u00edvat je dle mo\u017enost\u00ed a vlastn\u00edho uv\u00e1\u017een\u00ed",
+                "correct": null,
+                "id": 17949,
+                "tried": false
+            }
+        ],
+        "correctAnswer": {
+            "text": "nezne\u010di\u0161\u0165ovat je mastnotami nebo lehce z\u00e1paln\u00fdmi l\u00e1tkami",
+            "correct": true,
+            "id": 17947,
+            "tried": true
+        },
+        "selected": null,
+        "text": " Jak\u00e9 povinnosti m\u00e1 sva\u0159e\u010d p\u0159i pou\u017e\u00edv\u00e1n\u00ed osobn\u00edch ochrann\u00fdch prost\u0159edk\u016f?      "
+    },
+    "17950": {
+        "answers": [
+            {
+                "text": "okamit\u00e9 p\u0159ivol\u00e1n\u00ed l\u00e9ka\u0159e",
+                "correct": null,
+                "id": 17950,
+                "tried": true
+            },
+            {
+                "text": "ozn\u00e1men\u00ed nad\u0159\u00edzen\u00e9mu pracovn\u00edkovi",
+                "correct": null,
+                "id": 17951,
+                "tried": true
+            },
+            {
+                "text": "vypro\u0161t\u011bn\u00ed, um\u011bl\u00e9 d\u00fdch\u00e1n\u00ed, srde\u010dn\u00ed mas\u00e1\u017e, p\u0159ivol\u00e1n\u00ed l\u00e9ka\u0159e a ozn\u00e1men\u00ed \u00farazu nad\u0159\u00edzen\u00e9mu pracovn\u00edkovi",
+                "correct": true,
+                "id": 17952,
+                "tried": true
+            },
+            {
+                "text": "zji\u0161t\u011bn\u00ed stavu posti\u017een\u00e9ho a nahl\u00e1\u0161en\u00ed l\u00e9ka\u0159i",
+                "correct": null,
+                "id": 17953,
+                "tried": false
+            }
+        ],
+        "correctAnswer": {
+            "text": "vypro\u0161t\u011bn\u00ed, um\u011bl\u00e9 d\u00fdch\u00e1n\u00ed, srde\u010dn\u00ed mas\u00e1\u017e, p\u0159ivol\u00e1n\u00ed l\u00e9ka\u0159e a ozn\u00e1men\u00ed \u00farazu nad\u0159\u00edzen\u00e9mu pracovn\u00edkovi",
+            "correct": true,
+            "id": 17952,
+            "tried": true
+        },
+        "selected": null,
+        "text": " Jak\u00fd je spr\u00e1vn\u00fd postup poskytov\u00e1n\u00ed prvn\u00ed pomoci p\u0159i \u00farazu elektrick\u00fdm proudem?      "
+    },
+    "17954": {
+        "answers": [
+            {
+                "text": "neho\u0159lav\u00fd od\u011bv",
+                "correct": null,
+                "id": 17954,
+                "tried": true
+            },
+            {
+                "text": "d\u00fdchac\u00ed p\u0159\u00edstroj",
+                "correct": null,
+                "id": 17955,
+                "tried": true
+            },
+            {
+                "text": "ochrann\u00fd p\u00e1s opat\u0159en\u00fd lanem, jeho\u017e druh\u00fd konec je pevn\u011b ukotven mimo v\u00fd\u0161e uveden\u00fd prostor",
+                "correct": true,
+                "id": 17956,
+                "tried": true
+            },
+            {
+                "text": "komunika\u010dn\u00ed za\u0159\u00edzen\u00ed pro styk s osobou mimo v\u00fd\u0161e uveden\u00fd prostor",
+                "correct": null,
+                "id": 17957,
+                "tried": false
+            }
+        ],
+        "correctAnswer": {
+            "text": "ochrann\u00fd p\u00e1s opat\u0159en\u00fd lanem, jeho\u017e druh\u00fd konec je pevn\u011b ukotven mimo v\u00fd\u0161e uveden\u00fd prostor",
+            "correct": true,
+            "id": 17956,
+            "tried": true
+        },
+        "selected": null,
+        "text": " P\u0159i sva\u0159ov\u00e1n\u00ed v uzav\u0159en\u00fdch n\u00e1dob\u00e1ch, kotlech v n\u00e1dr\u017e\u00edch apod. mus\u00ed m\u00edt sva\u0159e\u010d:      "
+    },
+    "17958": {
+        "answers": [
+            {
+                "text": "denn\u011b p\u0159ed zapo\u010det\u00edm sva\u0159ov\u00e1n\u00edm",
+                "correct": null,
+                "id": 17958,
+                "tried": true
+            },
+            {
+                "text": "p\u0159i periodick\u00fdch reviz\u00edch sva\u0159ovac\u00edch zdroj\u016f",
+                "correct": null,
+                "id": 17959,
+                "tried": true
+            },
+            {
+                "text": "p\u0159ed zasunut\u00edm s\u00ed\u0165ov\u00e9 vidlice do z\u00e1suvky",
+                "correct": true,
+                "id": 17960,
+                "tried": true
+            },
+            {
+                "text": "jednou t\u00fddn\u011b",
+                "correct": null,
+                "id": 17961,
+                "tried": false
+            }
+        ],
+        "correctAnswer": {
+            "text": "p\u0159ed zasunut\u00edm s\u00ed\u0165ov\u00e9 vidlice do z\u00e1suvky",
+            "correct": true,
+            "id": 17960,
+            "tried": true
+        },
+        "selected": null,
+        "text": " Kdy sva\u0159e\u010d kontroluje sva\u0159ovac\u00ed vodi\u010de?      "
+    },
+    "17962": {
+        "answers": [
+            {
+                "text": "co nejbl\u00ed\u017ee ke sva\u0159ovac\u00edmu zdroji",
+                "correct": null,
+                "id": 17962,
+                "tried": true
+            },
+            {
+                "text": "tak, aby byla mo\u017enost rychl\u00e9ho odpojen\u00ed",
+                "correct": null,
+                "id": 17963,
+                "tried": true
+            },
+            {
+                "text": "co nejbl\u00ed\u017ee m\u00edstu sva\u0159ov\u00e1n\u00ed nebo na kovov\u00fd sva\u0159e\u010dsk\u00fd st\u016fl",
+                "correct": true,
+                "id": 17964,
+                "tried": true
+            },
+            {
+                "text": "co nejsiln\u011bj\u0161\u00edm vodi\u010dem",
+                "correct": null,
+                "id": 17965,
+                "tried": false
+            }
+        ],
+        "correctAnswer": {
+            "text": "co nejbl\u00ed\u017ee m\u00edstu sva\u0159ov\u00e1n\u00ed nebo na kovov\u00fd sva\u0159e\u010dsk\u00fd st\u016fl",
+            "correct": true,
+            "id": 17964,
+            "tried": true
+        },
+        "selected": null,
+        "text": " Jak se p\u0159ipojuje sva\u0159ovac\u00ed vodi\u010d ke svarku?      "
+    },
+    "17966": {
+        "answers": [
+            {
+                "text": "v bl\u00edzkosti sva\u0159e\u010de",
+                "correct": null,
+                "id": 17966,
+                "tried": true
+            },
+            {
+                "text": "v bl\u00edzkosti sva\u0159e\u010de, ale na izolovan\u00e9 podlo\u017ece",
+                "correct": null,
+                "id": 17967,
+                "tried": true
+            },
+            {
+                "text": "libovoln\u011b uvnit\u0159 n\u00e1doby",
+                "correct": null,
+                "id": 17968,
+                "tried": true
+            },
+            {
+                "text": "mimo v\u00fd\u0161e uveden\u00fd prostor",
+                "correct": true,
+                "id": 17969,
+                "tried": true
+            }
+        ],
+        "correctAnswer": {
+            "text": "mimo v\u00fd\u0161e uveden\u00fd prostor",
+            "correct": true,
+            "id": 17969,
+            "tried": true
+        },
+        "selected": null,
+        "text": " P\u0159i sva\u0159ov\u00e1n\u00ed v uzav\u0159en\u00fdch n\u00e1dob\u00e1ch, kotlech, v n\u00e1dr\u017e\u00edch apod. se mus\u00ed sva\u0159ovac\u00ed zdroj um\u00edstit:      "
+    },
+    "17970": {
+        "answers": [
+            {
+                "text": "sva\u0159e\u010d",
+                "correct": null,
+                "id": 17970,
+                "tried": true
+            },
+            {
+                "text": "sva\u0159e\u010d pouze d\u00e1lkov\u00fdm ovl\u00e1d\u00e1n\u00edm",
+                "correct": null,
+                "id": 17971,
+                "tried": true
+            },
+            {
+                "text": "osoba zdr\u017euj\u00edc\u00ed se mimo v\u00fd\u0161e uveden\u00fd prostor podle pokyn\u016f sva\u0159e\u010de",
+                "correct": true,
+                "id": 17972,
+                "tried": true
+            },
+            {
+                "text": "spolupracovn\u00edk sva\u0159e\u010de uvnit\u0159 v\u00fd\u0161e uveden\u00e9ho prostoru",
+                "correct": null,
+                "id": 17973,
+                "tried": false
+            }
+        ],
+        "correctAnswer": {
+            "text": "osoba zdr\u017euj\u00edc\u00ed se mimo v\u00fd\u0161e uveden\u00fd prostor podle pokyn\u016f sva\u0159e\u010de",
+            "correct": true,
+            "id": 17972,
+            "tried": true
+        },
+        "selected": null,
+        "text": " P\u0159i sva\u0159ov\u00e1n\u00ed v uzav\u0159en\u00fdch n\u00e1dob\u00e1ch, kotlech v n\u00e1dr\u017e\u00edch apod. spou\u0161t\u00ed a zastavuje sva\u0159ovac\u00ed zdroj:      "
+    },
+    "17974": {
+        "answers": [
+            {
+                "text": "transform\u00e1tor s \u0159\u00edzen\u00fdm usm\u011br\u0148ova\u010dem",
+                "correct": null,
+                "id": 17974,
+                "tried": true
+            },
+            {
+                "text": "transform\u00e1tor",
+                "correct": true,
+                "id": 17975,
+                "tried": true
+            },
+            {
+                "text": "invertor",
+                "correct": null,
+                "id": 17976,
+                "tried": false
+            },
+            {
+                "text": "ss rota\u010dn\u00ed zdroj",
+                "correct": null,
+                "id": 17977,
+                "tried": false
+            }
+        ],
+        "correctAnswer": {
+            "text": "transform\u00e1tor",
+            "correct": true,
+            "id": 17975,
+            "tried": true
+        },
+        "selected": null,
+        "text": " P\u0159i sva\u0159ov\u00e1n\u00ed v uzav\u0159en\u00fdch n\u00e1dob\u00e1ch, kotlech, v n\u00e1dr\u017e\u00edch apod. se nesm\u00ed pou\u017e\u00edvat jako sva\u0159ovac\u00ed zdroj:      "
+    },
+    "17978": {
+        "answers": [
+            {
+                "text": "sn\u011bhov\u00e9",
+                "correct": null,
+                "id": 17978,
+                "tried": true
+            },
+            {
+                "text": "vodn\u00ed a p\u011bnov\u00e9",
+                "correct": true,
+                "id": 17979,
+                "tried": true
+            },
+            {
+                "text": "halonov\u00e9",
+                "correct": null,
+                "id": 17980,
+                "tried": false
+            },
+            {
+                "text": "pr\u00e1\u0161kov\u00e9",
+                "correct": null,
+                "id": 17981,
+                "tried": false
+            }
+        ],
+        "correctAnswer": {
+            "text": "vodn\u00ed a p\u011bnov\u00e9",
+            "correct": true,
+            "id": 17979,
+            "tried": true
+        },
+        "selected": null,
+        "text": " Kter\u00e9 has\u00edc\u00ed p\u0159\u00edstroje se nesm\u00ed pou\u017e\u00edvat p\u0159i ha\u0161en\u00ed sva\u0159ovac\u00edch zdroj\u016f?      "
+    },
+    "17982": {
+        "answers": [
+            {
+                "text": "sva\u0159e\u010dsk\u00fd technolog",
+                "correct": null,
+                "id": 17982,
+                "tried": true
+            },
+            {
+                "text": "po\u017e\u00e1rn\u00ed technik",
+                "correct": null,
+                "id": 17983,
+                "tried": true
+            },
+            {
+                "text": "zplnomocn\u011bn\u00fd pracovn\u00edk",
+                "correct": true,
+                "id": 17984,
+                "tried": true
+            },
+            {
+                "text": "bezpe\u010dnostn\u00ed technik",
+                "correct": null,
+                "id": 17985,
+                "tried": false
+            }
+        ],
+        "correctAnswer": {
+            "text": "zplnomocn\u011bn\u00fd pracovn\u00edk",
+            "correct": true,
+            "id": 17984,
+            "tried": true
+        },
+        "selected": null,
+        "text": " Kdo odpov\u00edd\u00e1 za vystaven\u00ed p\u00edsemn\u00e9ho p\u0159\u00edkazu pro sva\u0159ov\u00e1n\u00ed v m\u00edstech se zv\u00fd\u0161en\u00fdm nebezpe\u010d\u00edm vzniku po\u017e\u00e1ru nebo v\u00fdbuchu?      "
+    },
+    "17986": {
+        "answers": [
+            {
+                "text": "stanoven\u00ed zdravotnick\u00e9 prvn\u00ed pomoci p\u0159i \u00farazu",
+                "correct": null,
+                "id": 17986,
+                "tried": true
+            },
+            {
+                "text": "technologick\u00fd dohled a kontrola jakosti proveden\u00fdch sva\u0159e\u010dsk\u00fdch prac\u00ed",
+                "correct": null,
+                "id": 17987,
+                "tried": true
+            },
+            {
+                "text": "vymezen\u00e1 doba platnosti a stanoven dohled dal\u0161\u00edch odborn\u00fdch pracovn\u00edk\u016f",
+                "correct": true,
+                "id": 17988,
+                "tried": true
+            },
+            {
+                "text": "technologick\u00fd postup sva\u0159e\u010dsk\u00fdch prac\u00ed",
+                "correct": null,
+                "id": 17989,
+                "tried": false
+            }
+        ],
+        "correctAnswer": {
+            "text": "vymezen\u00e1 doba platnosti a stanoven dohled dal\u0161\u00edch odborn\u00fdch pracovn\u00edk\u016f",
+            "correct": true,
+            "id": 17988,
+            "tried": true
+        },
+        "selected": null,
+        "text": " Co je nezbytnou sou\u010d\u00e1st\u00ed p\u00edsemn\u00e9ho p\u0159\u00edkazu pro sva\u0159ov\u00e1n\u00ed v prostor\u00e1ch se zv\u00fd\u0161en\u00fdm nebezpe\u010d\u00edm?      "
+    },
+    "17990": {
+        "answers": [
+            {
+                "text": "pr\u00e1ce v prostor\u00e1ch s nedostate\u010dn\u00fdm osv\u011btlen\u00edm",
+                "correct": null,
+                "id": 17990,
+                "tried": true
+            },
+            {
+                "text": "pr\u00e1ce v prostor\u00e1ch s nedostate\u010dn\u00fdm v\u011btr\u00e1n\u00edm",
+                "correct": null,
+                "id": 17991,
+                "tried": true
+            },
+            {
+                "text": "pr\u00e1ce s nebezpe\u010d\u00edm vzniku po\u017e\u00e1ru nebo v\u00fdbuchu",
+                "correct": true,
+                "id": 17992,
+                "tried": true
+            },
+            {
+                "text": "pr\u00e1ce ve v\u00fdrobn\u00edch hal\u00e1ch s nedostate\u010dn\u00fdm odtahem \u0161kodlivin",
+                "correct": null,
+                "id": 17993,
+                "tried": false
+            }
+        ],
+        "correctAnswer": {
+            "text": "pr\u00e1ce s nebezpe\u010d\u00edm vzniku po\u017e\u00e1ru nebo v\u00fdbuchu",
+            "correct": true,
+            "id": 17992,
+            "tried": true
+        },
+        "selected": null,
+        "text": " Kter\u00e9 sva\u0159e\u010dsk\u00e9 pr\u00e1ce mimo jin\u00e9 se pova\u017euj\u00ed za pr\u00e1ce se zv\u00fd\u0161en\u00fdm nebezpe\u010d\u00edm?      "
+    },
+    "17994": {
+        "answers": [
+            {
+                "text": "na zem",
+                "correct": null,
+                "id": 17994,
+                "tried": true
+            },
+            {
+                "text": "na izolovanou podlo\u017eku nebo izolovan\u00fd stojan",
+                "correct": true,
+                "id": 17995,
+                "tried": true
+            },
+            {
+                "text": "na pracovn\u00ed st\u016fl tak, aby nedo\u0161lo ke spojen\u00ed sva\u0159ovac\u00edho obvodu nakr\u00e1tko",
+                "correct": null,
+                "id": 17996,
+                "tried": false
+            },
+            {
+                "text": "na p\u0159ipravenou podlo\u017eku nebo stojan",
+                "correct": null,
+                "id": 17997,
+                "tried": false
+            }
+        ],
+        "correctAnswer": {
+            "text": "na izolovanou podlo\u017eku nebo izolovan\u00fd stojan",
+            "correct": true,
+            "id": 17995,
+            "tried": true
+        },
+        "selected": null,
+        "text": " Kam mus\u00ed odkl\u00e1dat sva\u0159e\u010d dr\u017e\u00e1k elektrody?      "
+    },
+    "17998": {
+        "answers": [
+            {
+                "text": "sva\u0159ov\u00e1n\u00ed st\u0159\u00eddav\u00fdm proudem",
+                "correct": null,
+                "id": 17998,
+                "tried": true
+            },
+            {
+                "text": "sva\u0159ov\u00e1n\u00ed stejnosm\u011brn\u00fdm proudem",
+                "correct": null,
+                "id": 17999,
+                "tried": true
+            },
+            {
+                "text": "rozst\u0159ik kovu a \u017ehav\u00e1 struska",
+                "correct": null,
+                "id": 18000,
+                "tried": true
+            },
+            {
+                "text": "sva\u0159e\u010dsk\u00fd aerosol, z\u00e1\u0159en\u00ed, hluk a mikroklimatick\u00e9 podm\u00ednky",
+                "correct": true,
+                "id": 18001,
+                "tried": true
+            }
+        ],
+        "correctAnswer": {
+            "text": "sva\u0159e\u010dsk\u00fd aerosol, z\u00e1\u0159en\u00ed, hluk a mikroklimatick\u00e9 podm\u00ednky",
+            "correct": true,
+            "id": 18001,
+            "tried": true
+        },
+        "selected": null,
+        "text": " Ohro\u017een\u00ed \u0161kodlivinami zp\u016fsobuje:      "
+    },
+    "18002": {
+        "answers": [
+            {
+                "text": "slune\u010dn\u00edm z\u00e1\u0159en\u00edm",
+                "correct": null,
+                "id": 18002,
+                "tried": true
+            },
+            {
+                "text": "mrazem",
+                "correct": null,
+                "id": 18003,
+                "tried": true
+            },
+            {
+                "text": "v\u011btrem",
+                "correct": null,
+                "id": 18004,
+                "tried": true
+            },
+            {
+                "text": "\u00fa\u010dinky vody",
+                "correct": true,
+                "id": 18005,
+                "tried": true
+            }
+        ],
+        "correctAnswer": {
+            "text": "\u00fa\u010dinky vody",
+            "correct": true,
+            "id": 18005,
+            "tried": true
+        },
+        "selected": null,
+        "text": " P\u0159i pr\u00e1ci na voln\u00e9m prostranstv\u00ed mus\u00ed sva\u0159e\u010d chr\u00e1nit sva\u0159ovaci zdroj p\u0159ed:      "
+    },
+    "18006": {
+        "answers": [
+            {
+                "text": "v\u0161echny zdroje mus\u00ed m\u00edt shodn\u00e9 nap\u011bt\u00ed nakr\u00e1tko",
+                "correct": null,
+                "id": 18006,
+                "tried": true
+            },
+            {
+                "text": "mus\u00ed se vylou\u010dit pou\u017eit\u00ed v\u00edce ne\u017e t\u0159\u00ed zdroj\u016f",
+                "correct": null,
+                "id": 18007,
+                "tried": true
+            },
+            {
+                "text": "v\u0161echny zdroje mus\u00ed m\u00edt stejn\u00e9 nap\u011bt\u00ed napr\u00e1zdno",
+                "correct": null,
+                "id": 18008,
+                "tried": true
+            },
+            {
+                "text": "sva\u0159ovac\u00ed zdroje mus\u00ed m\u00edt v\u016f\u010di svarku stejnou polaritu",
+                "correct": true,
+                "id": 18009,
+                "tried": true
+            }
+        ],
+        "correctAnswer": {
+            "text": "sva\u0159ovac\u00ed zdroje mus\u00ed m\u00edt v\u016f\u010di svarku stejnou polaritu",
+            "correct": true,
+            "id": 18009,
+            "tried": true
+        },
+        "selected": null,
+        "text": " Co je nutn\u00e9 dodr\u017eet p\u0159i sou\u010dasn\u00e9m zapojen\u00ed v\u00edce stejnosm\u011brn\u00fdch sva\u0159ovac\u00edch zdroj\u016f na jeden svarek?      "
+    },
+    "18010": {
+        "answers": [
+            {
+                "text": "ano, v ka\u017ed\u00e9m p\u0159\u00edpad\u011b mus\u00ed",
+                "correct": true,
+                "id": 18010,
+                "tried": true
+            },
+            {
+                "text": "nemus\u00ed",
+                "correct": null,
+                "id": 18011,
+                "tried": false
+            },
+            {
+                "text": "p\u0159i manipulaci v r\u00e1mci sva\u0159e\u010dsk\u00e9ho pracovi\u0161t\u011b nikoliv",
+                "correct": null,
+                "id": 18012,
+                "tried": false
+            },
+            {
+                "text": "u neto\u010div\u00fdch sva\u0159ovac\u00edch zdroj\u016f nemus\u00ed",
+                "correct": null,
+                "id": 18013,
+                "tried": false
+            }
+        ],
+        "correctAnswer": {
+            "text": "ano, v ka\u017ed\u00e9m p\u0159\u00edpad\u011b mus\u00ed",
+            "correct": true,
+            "id": 18010,
+            "tried": true
+        },
+        "selected": null,
+        "text": " Mus\u00ed sva\u0159e\u010d p\u0159i p\u0159emis\u0165ov\u00e1n\u00ed obloukov\u00e9 sv\u00e1\u0159e\u010dky odpojit p\u0159\u00edvodn\u00ed kabel od nap\u00e1jec\u00edho nap\u011bt\u00ed?      "
+    },
+    "18014": {
+        "answers": [
+            {
+                "text": "do 10 mA",
+                "correct": true,
+                "id": 18014,
+                "tried": true
+            },
+            {
+                "text": "do 15 mA",
+                "correct": null,
+                "id": 18015,
+                "tried": false
+            },
+            {
+                "text": "do 500 mA",
+                "correct": null,
+                "id": 18016,
+                "tried": false
+            },
+            {
+                "text": "do 25 mA",
+                "correct": null,
+                "id": 18017,
+                "tried": false
+            }
+        ],
+        "correctAnswer": {
+            "text": "do 10 mA",
+            "correct": true,
+            "id": 18014,
+            "tried": true
+        },
+        "selected": null,
+        "text": " Hodnota pro lidsk\u00fd organismus bezpe\u010dn\u00e9ho st\u0159\u00eddav\u00e9ho proudu je :      "
+    },
+    "18018": {
+        "answers": [
+            {
+                "text": "do 120 V",
+                "correct": null,
+                "id": 18018,
+                "tried": true
+            },
+            {
+                "text": "do 380 V",
+                "correct": null,
+                "id": 18019,
+                "tried": true
+            },
+            {
+                "text": "do 100 V",
+                "correct": true,
+                "id": 18020,
+                "tried": true
+            },
+            {
+                "text": "do 220 V",
+                "correct": null,
+                "id": 18021,
+                "tried": false
+            }
+        ],
+        "correctAnswer": {
+            "text": "do 100 V",
+            "correct": true,
+            "id": 18020,
+            "tried": true
+        },
+        "selected": null,
+        "text": " Bezpe\u010dn\u00e9 prostory z hlediska \u00farazu elektrick\u00fdm proudem jsou takov\u00e9, kde se pou\u017e\u00edv\u00e1 bezpe\u010dn\u00e9 jmenovit\u00e9 nap\u011bt\u00ed stejnosm\u011brn\u00e9ho proudu:      "
+    },
+    "18022": {
+        "answers": [
+            {
+                "text": "umo\u017e\u0148uj\u00edc\u00ed pohodlnou \u010dinnost sva\u0159e\u010de",
+                "correct": null,
+                "id": 18022,
+                "tried": true
+            },
+            {
+                "text": "uzav\u0159en\u00e9 s centr\u00e1ln\u00edm v\u011btr\u00e1n\u00edm",
+                "correct": null,
+                "id": 18023,
+                "tried": true
+            },
+            {
+                "text": "um\u00edst\u011bn\u00e9 v kabin\u011b, vybaven\u00e9 prost\u0159edky chr\u00e1n\u00edc\u00edmi sva\u0159e\u010de i okol\u00ed p\u0159ed nebezpe\u010d\u00edmi vznikaj\u00edc\u00edmi p\u0159i sva\u0159ov\u00e1n\u00ed",
+                "correct": true,
+                "id": 18024,
+                "tried": true
+            },
+            {
+                "text": "prostorn\u00e9 s p\u0159im\u011b\u0159en\u00fdm osv\u011btlen\u00edm a p\u0159irozen\u00fdm v\u011btr\u00e1n\u00edm",
+                "correct": null,
+                "id": 18025,
+                "tried": false
+            }
+        ],
+        "correctAnswer": {
+            "text": "um\u00edst\u011bn\u00e9 v kabin\u011b, vybaven\u00e9 prost\u0159edky chr\u00e1n\u00edc\u00edmi sva\u0159e\u010de i okol\u00ed p\u0159ed nebezpe\u010d\u00edmi vznikaj\u00edc\u00edmi p\u0159i sva\u0159ov\u00e1n\u00ed",
+            "correct": true,
+            "id": 18024,
+            "tried": true
+        },
+        "selected": null,
+        "text": " Jak\u00e9 m\u00e1 b\u00fdt pracovi\u0161t\u011b pro ru\u010dn\u00ed sva\u0159ov\u00e1n\u00ed elektrick\u00fdm obloukem?      "
+    },
+    "18026": {
+        "answers": [
+            {
+                "text": "mus\u00ed b\u00fdt z neho\u0159lav\u00e9ho materi\u00e1lu a mus\u00ed odol\u00e1vat mechanick\u00fdm a jin\u00fdm vliv\u016fm bez tvo\u0159en\u00ed prachu",
+                "correct": true,
+                "id": 18026,
+                "tried": true
+            },
+            {
+                "text": "nesm\u00ed b\u00fdt vlhk\u00e1",
+                "correct": null,
+                "id": 18027,
+                "tried": false
+            },
+            {
+                "text": "mus\u00ed zabezpe\u017eovat po\u017eadavky na kvalitn\u00ed prov\u00e1d\u011bn\u00ed sva\u0159e\u010dsk\u00fdch prac\u00ed",
+                "correct": null,
+                "id": 18028,
+                "tried": false
+            },
+            {
+                "text": "mus\u00ed b\u00fdt v ka\u017ed\u00e9m p\u0159\u00edpad\u011b elektricky nevodiv\u00e1",
+                "correct": null,
+                "id": 18029,
+                "tried": false
+            }
+        ],
+        "correctAnswer": {
+            "text": "mus\u00ed b\u00fdt z neho\u0159lav\u00e9ho materi\u00e1lu a mus\u00ed odol\u00e1vat mechanick\u00fdm a jin\u00fdm vliv\u016fm bez tvo\u0159en\u00ed prachu",
+            "correct": true,
+            "id": 18026,
+            "tried": true
+        },
+        "selected": null,
+        "text": " Jak\u00e1 mus\u00ed b\u00fdt podlaha sva\u0159e\u010dsk\u00e9ho pracovi\u0161t\u011b?      "
+    },
+    "18030": {
+        "answers": [
+            {
+                "text": "v organizaci uveden\u00e9 na p\u0159edn\u00ed stran\u011b tohoto pr\u016fkazu",
+                "correct": true,
+                "id": 18030,
+                "tried": true
+            },
+            {
+                "text": "v organizaci, kter\u00e1 pr\u016fkaz vystavila",
+                "correct": null,
+                "id": 18031,
+                "tried": false
+            },
+            {
+                "text": "ve stroj\u00edrensk\u00e9 v\u00fdrob\u011b",
+                "correct": null,
+                "id": 18032,
+                "tried": false
+            },
+            {
+                "text": "v organizac\u00edch zab\u00fdvaj\u00edc\u00edch se sva\u0159e\u010dskou \u010dinnost\u00ed",
+                "correct": null,
+                "id": 18033,
+                "tried": false
+            }
+        ],
+        "correctAnswer": {
+            "text": "v organizaci uveden\u00e9 na p\u0159edn\u00ed stran\u011b tohoto pr\u016fkazu",
+            "correct": true,
+            "id": 18030,
+            "tried": true
+        },
+        "selected": null,
+        "text": " Pr\u016fkaz za\u0161kolen\u00e9ho pracovn\u00edka podle \u010cSN 05 0705 plat\u00ed jen:      "
+    },
+    "18034": {
+        "answers": [
+            {
+                "text": "nep\u0159enosn\u00fd a plat\u00ed v organizaci, kter\u00e1 pr\u016fkaz vystavila",
+                "correct": null,
+                "id": 18034,
+                "tried": true
+            },
+            {
+                "text": "nep\u0159enosn\u00fd a plat\u00ed v organizaci uveden\u00e9 na p\u0159edn\u00ed stran\u011b tohoto pr\u016fkazu",
+                "correct": true,
+                "id": 18035,
+                "tried": true
+            },
+            {
+                "text": "je p\u0159enosn\u00fd ve stroj\u00edrensk\u00e9 v\u00fdrob\u011b",
+                "correct": null,
+                "id": 18036,
+                "tried": false
+            },
+            {
+                "text": "je p\u0159enosn\u00fd mezi za\u0161kolen\u00fdmi osobami v organizac\u00edch zab\u00fdvaj\u00edc\u00edch se sva\u0159e\u010dskou \u010dinnost\u00ed",
+                "correct": null,
+                "id": 18037,
+                "tried": false
+            }
+        ],
+        "correctAnswer": {
+            "text": "nep\u0159enosn\u00fd a plat\u00ed v organizaci uveden\u00e9 na p\u0159edn\u00ed stran\u011b tohoto pr\u016fkazu",
+            "correct": true,
+            "id": 18035,
+            "tried": true
+        },
+        "selected": null,
+        "text": " Pr\u016fkaz za\u0161kolen\u00e9ho pracovn\u00edka podle \u010cSN 05 0705 je:      "
+    },
+    "18038": {
+        "answers": [
+            {
+                "text": "nejm\u00e9n\u011b jednou za t\u0159i roky",
+                "correct": null,
+                "id": 18038,
+                "tried": true
+            },
+            {
+                "text": "nejm\u00e9n\u011b dvakr\u00e1t za rok",
+                "correct": null,
+                "id": 18039,
+                "tried": true
+            },
+            {
+                "text": "nejm\u00e9n\u011b jednou za 5 let",
+                "correct": true,
+                "id": 18040,
+                "tried": true
+            },
+            {
+                "text": "nejm\u00e9n\u011b jednou za rok",
+                "correct": null,
+                "id": 18041,
+                "tried": false
+            }
+        ],
+        "correctAnswer": {
+            "text": "nejm\u00e9n\u011b jednou za 5 let",
+            "correct": true,
+            "id": 18040,
+            "tried": true
+        },
+        "selected": null,
+        "text": " Jak \u010dasto je povinen zam\u011bstnavatel zaji\u0161\u0165ovat l\u00e9ka\u0159sk\u00e9 prohl\u00eddky pracovn\u00edk\u016f s opr\u00e1vn\u011bn\u00edm sva\u0159ovat elektrick\u00fdm obloukem, kte\u0159\u00ed jsou mlad\u0161\u00ed 50 let?      "
+    },
+    "18042": {
+        "answers": [
+            {
+                "text": "maj\u00ed dobr\u00fd zrak",
+                "correct": null,
+                "id": 18042,
+                "tried": true
+            },
+            {
+                "text": "maj\u00ed platn\u00fd zdravotn\u00ed pr\u016fkaz",
+                "correct": null,
+                "id": 18043,
+                "tried": true
+            },
+            {
+                "text": "dovr\u0161ily v\u011bk 18 let",
+                "correct": true,
+                "id": 18044,
+                "tried": true
+            },
+            {
+                "text": "Absolvovaly a slo\u017eily zkou\u0161ky podle \u010cSN 05 0778",
+                "correct": null,
+                "id": 18045,
+                "tried": false
+            }
+        ],
+        "correctAnswer": {
+            "text": "dovr\u0161ily v\u011bk 18 let",
+            "correct": true,
+            "id": 18044,
+            "tried": true
+        },
+        "selected": null,
+        "text": " Opr\u00e1vn\u011bn\u00ed ke sva\u0159ov\u00e1n\u00ed el. obloukem podle \u010cSN 05 0630 maj\u00ed osoby kter\u00e9:      "
+    },
+    "18046": {
+        "answers": [
+            {
+                "text": "maj\u00ed platn\u00fd pr\u016fkaz oprav\u0148uj\u00edc\u00ed je vykon\u00e1vat tuto \u010dinnost",
+                "correct": true,
+                "id": 18046,
+                "tried": true
+            },
+            {
+                "text": "maj\u00ed zam\u011bstn\u00e1n\u00ed v oboru stroj\u00edrenstv\u00ed",
+                "correct": null,
+                "id": 18047,
+                "tried": false
+            },
+            {
+                "text": "dovr\u0161ily v\u011bk 16 let",
+                "correct": null,
+                "id": 18048,
+                "tried": false
+            },
+            {
+                "text": "Absolvovaly a slo\u017eily zkou\u0161ky podle \u010cSN 05 05 0778",
+                "correct": null,
+                "id": 18049,
+                "tried": false
+            }
+        ],
+        "correctAnswer": {
+            "text": "maj\u00ed platn\u00fd pr\u016fkaz oprav\u0148uj\u00edc\u00ed je vykon\u00e1vat tuto \u010dinnost",
+            "correct": true,
+            "id": 18046,
+            "tried": true
+        },
+        "selected": null,
+        "text": " Opr\u00e1vn\u011bn\u00ed ke sva\u0159ov\u00e1n\u00ed el. obloukem podle \u010cSN 05 0630 maj\u00ed osoby kter\u00e9:      "
+    },
+    "18050": {
+        "answers": [
+            {
+                "text": "nejm\u00e9n\u011b jednou za t\u0159i roky",
+                "correct": null,
+                "id": 18050,
+                "tried": true
+            },
+            {
+                "text": "nejm\u00e9n\u011b jednou za dva roky",
+                "correct": true,
+                "id": 18051,
+                "tried": true
+            },
+            {
+                "text": "nejm\u00e9n\u011b dvakr\u00e1t za rok",
+                "correct": null,
+                "id": 18052,
+                "tried": false
+            },
+            {
+                "text": "nejm\u00e9n\u011b jednou za rok",
+                "correct": null,
+                "id": 18053,
+                "tried": false
+            }
+        ],
+        "correctAnswer": {
+            "text": "nejm\u00e9n\u011b jednou za dva roky",
+            "correct": true,
+            "id": 18051,
+            "tried": true
+        },
+        "selected": null,
+        "text": " Jak \u010dasto mus\u00ed ka\u017ed\u00fd pracovn\u00edk s opr\u00e1vn\u011bn\u00edm sva\u0159ovat el. obloukem, absolvovat dopl\u0148kov\u00e9 a opakovac\u00ed \u0161kolen\u00ed s p\u0159ezkou\u0161en\u00edm z bezpe\u010dnostn\u00edch ustanoven\u00ed?      "
+    },
+    "18054": {
+        "answers": [
+            {
+                "text": "maj\u00ed povolen\u00ed zam\u011bstnavatele",
+                "correct": null,
+                "id": 18054,
+                "tried": true
+            },
+            {
+                "text": "maj\u00ed elektrotechnick\u00e9 vzd\u011bl\u00e1n\u00ed",
+                "correct": null,
+                "id": 18055,
+                "tried": true
+            },
+            {
+                "text": "dovr\u0161ily v\u011bk 17 let",
+                "correct": null,
+                "id": 18056,
+                "tried": true
+            },
+            {
+                "text": "Absolvovaly a slo\u017eily zkou\u0161ky podle \u010cSN 05 0705",
+                "correct": true,
+                "id": 18057,
+                "tried": true
+            }
+        ],
+        "correctAnswer": {
+            "text": "Absolvovaly a slo\u017eily zkou\u0161ky podle \u010cSN 05 0705",
+            "correct": true,
+            "id": 18057,
+            "tried": true
+        },
+        "selected": null,
+        "text": " Opr\u00e1vn\u011bn\u00ed ke sva\u0159ov\u00e1n\u00ed el. obloukem podle \u010cSN 05 0630 maj\u00ed osoby kter\u00e9:      "
+    },
+    "18058": {
+        "answers": [
+            {
+                "text": "absolvovaly st\u0159edn\u00ed \u0161kolu technick\u00e9ho zam\u011b\u0159en\u00ed",
+                "correct": null,
+                "id": 18058,
+                "tried": true
+            },
+            {
+                "text": "byly uzn\u00e1ny l\u00e9ka\u0159em jako zp\u016fsobil\u00e9 pro tuto \u010dinnost",
+                "correct": true,
+                "id": 18059,
+                "tried": true
+            },
+            {
+                "text": "Absolvovaly a slo\u017eily zkou\u0161ky podle \u010cSN 05 0623",
+                "correct": null,
+                "id": 18060,
+                "tried": false
+            },
+            {
+                "text": "dovr\u0161ily v\u011bk 17 let",
+                "correct": null,
+                "id": 18061,
+                "tried": false
+            }
+        ],
+        "correctAnswer": {
+            "text": "byly uzn\u00e1ny l\u00e9ka\u0159em jako zp\u016fsobil\u00e9 pro tuto \u010dinnost",
+            "correct": true,
+            "id": 18059,
+            "tried": true
+        },
+        "selected": null,
+        "text": " Opr\u00e1vn\u011bn\u00ed ke sva\u0159ov\u00e1n\u00ed el. obloukem podle \u010cSN 05 0630 maj\u00ed osoby kter\u00e9:      "
+    },
+    "18062": {
+        "answers": [
+            {
+                "text": "pouze pro sva\u0159e\u010dsk\u00e9 \u0161koly",
+                "correct": null,
+                "id": 18062,
+                "tried": true
+            },
+            {
+                "text": "pouze pro \u0161koln\u00ed sv\u00e1\u0159e\u010dsk\u00e9 laborato\u0159e",
+                "correct": null,
+                "id": 18063,
+                "tried": true
+            },
+            {
+                "text": "pouze pro sva\u0159e\u010dsk\u00e9 d\u00edlny",
+                "correct": null,
+                "id": 18064,
+                "tried": true
+            },
+            {
+                "text": "v\u0161echny prostory, kde se sva\u0159uje elektrick\u00fdm obloukem t\u0159eba i jen p\u0159echodn\u011b",
+                "correct": true,
+                "id": 18065,
+                "tried": true
+            }
+        ],
+        "correctAnswer": {
+            "text": "v\u0161echny prostory, kde se sva\u0159uje elektrick\u00fdm obloukem t\u0159eba i jen p\u0159echodn\u011b",
+            "correct": true,
+            "id": 18065,
+            "tried": true
+        },
+        "selected": null,
+        "text": " Norma \u010cSN 05 0630, kter\u00e1 upravuje bezpe\u010dnostn\u00ed opat\u0159en\u00ed p\u0159i sva\u0159ov\u00e1n\u00ed elektrick\u00fdm obloukem a po\u017eadavky na pracovi\u0161t\u011b sv\u00e1\u0159e\u010d\u016f a bezpe\u010dnostn\u00ed p\u0159edpisy pro osoby p\u0159ich\u00e1zej\u00edc\u00ed do styku s obloukov\u00fdm sva\u0159ovac\u00edm za\u0159\u00edzen\u00edm plat\u00ed pro:      "
+    },
+    "18066": {
+        "answers": [
+            {
+                "text": "\u010cSN 05 603 a \u010cSN 06 0506",
+                "correct": null,
+                "id": 18066,
+                "tried": true
+            },
+            {
+                "text": "\u010cSN 05 0710 a \u010cSN 05 0705",
+                "correct": null,
+                "id": 18067,
+                "tried": true
+            },
+            {
+                "text": "\u010cSN 06 0510 a \u010cSN 06 0530",
+                "correct": null,
+                "id": 18068,
+                "tried": true
+            },
+            {
+                "text": "\u010cSN 05 0601 a \u010cSN 05 0630",
+                "correct": true,
+                "id": 18069,
+                "tried": true
+            }
+        ],
+        "correctAnswer": {
+            "text": "\u010cSN 05 0601 a \u010cSN 05 0630",
+            "correct": true,
+            "id": 18069,
+            "tried": true
+        },
+        "selected": null,
+        "text": " Kter\u00e9 normy obsahuj\u00ed bezpe\u010dnostn\u00ed ustanoven\u00ed pro sva\u0159ov\u00e1n\u00ed elektrick\u00fdm obloukem:      "
+    },
+    "18070": {
+        "answers": [
+            {
+                "text": "p\u0159i p\u0159etr\u017een\u00ed",
+                "correct": null,
+                "id": 18070,
+                "tried": true
+            },
+            {
+                "text": "v oblasti maxim\u00e1ln\u00edho zat\u00ed\u017een\u00ed",
+                "correct": null,
+                "id": 18071,
+                "tried": true
+            },
+            {
+                "text": "v oblasti plastick\u00e9 deformace",
+                "correct": null,
+                "id": 18072,
+                "tried": true
+            },
+            {
+                "text": "v oblasti pru\u017en\u00e9 deformace",
+                "correct": true,
+                "id": 18073,
+                "tried": true
+            }
+        ],
+        "correctAnswer": {
+            "text": "v oblasti pru\u017en\u00e9 deformace",
+            "correct": true,
+            "id": 18073,
+            "tried": true
+        },
+        "selected": null,
+        "text": " Hook\u016fv z\u00e1kon popisuje chov\u00e1n\u00ed zku\u0161ebn\u00edho vzorku :      "
+    },
+    "18074": {
+        "answers": [
+            {
+                "text": "S\u00edla p\u016fsob\u00edc\u00ed na indentor vzta\u017een\u00e1 na plochu vtisku ve tvaru \u010dtverce",
+                "correct": null,
+                "id": 18074,
+                "tried": true
+            },
+            {
+                "text": "S\u00edla p\u016fsob\u00edc\u00ed na indentor vzta\u017een\u00e1 na plochu vtisku ve tvaru kulov\u00e9ho vrchl\u00edku",
+                "correct": null,
+                "id": 18075,
+                "tried": true
+            },
+            {
+                "text": "S\u00edla p\u016fsob\u00edc\u00ed na indentor vzta\u017een\u00e1 na plochu vtisku ve tvaru kruhu",
+                "correct": null,
+                "id": 18076,
+                "tried": true
+            },
+            {
+                "text": "S\u00edla p\u016fsob\u00edc\u00ed na indentor vzta\u017een\u00e1 na plochu povrchu vtisku ve tvaru jehlanu",
+                "correct": true,
+                "id": 18077,
+                "tried": true
+            }
+        ],
+        "correctAnswer": {
+            "text": "S\u00edla p\u016fsob\u00edc\u00ed na indentor vzta\u017een\u00e1 na plochu povrchu vtisku ve tvaru jehlanu",
+            "correct": true,
+            "id": 18077,
+            "tried": true
+        },
+        "selected": null,
+        "text": " Vickersova zkou\u0161ka tvrdosti je definov\u00e1na jako:      "
+    },
+    "18078": {
+        "answers": [
+            {
+                "text": "Zat\u00ed\u017een\u00ed na mezi kluzu F<sub>e<\/sub> vzta\u017een\u00e9 na pr\u016f\u0159ez vzorku po p\u0159etr\u017een\u00ed S<sub>u<\/sub>",
+                "correct": null,
+                "id": 18078,
+                "tried": true
+            },
+            {
+                "text": "Zat\u00ed\u017een\u00ed na mezi kluzu F<sub>e<\/sub> vzta\u017een\u00e9 na po\u010d\u00e1te\u010dn\u00ed pr\u016f\u0159ez S<sub>0<\/sub>",
+                "correct": true,
+                "id": 18079,
+                "tried": true
+            },
+            {
+                "text": "Zat\u00ed\u017een\u00ed na mezi kluzu F<sub>e<\/sub> vzta\u017een\u00e9 na \u00fabytek pr\u016f\u0159ezu S<sub>u<\/sub>- S<sub>0<\/sub>",
+                "correct": null,
+                "id": 18080,
+                "tried": false
+            },
+            {
+                "text": "Zat\u00ed\u017een\u00ed na mezi kluzu F<sub>e<\/sub> vzta\u017een\u00e9 na po\u010d\u00e1te\u010dn\u00ed pr\u016fm\u011br D<sub>0<\/sub>",
+                "correct": null,
+                "id": 18081,
+                "tried": false
+            }
+        ],
+        "correctAnswer": {
+            "text": "Zat\u00ed\u017een\u00ed na mezi kluzu F<sub>e<\/sub> vzta\u017een\u00e9 na po\u010d\u00e1te\u010dn\u00ed pr\u016f\u0159ez S<sub>0<\/sub>",
+            "correct": true,
+            "id": 18079,
+            "tried": true
+        },
+        "selected": null,
+        "text": " V\u00fdrazn\u00e1 mez kluzu R<sub>e<\/sub> je definov\u00e1na jako:      "
+    },
+    "18082": {
+        "answers": [
+            {
+                "text": "J.cm",
+                "correct": null,
+                "id": 18082,
+                "tried": true
+            },
+            {
+                "text": "J.cm<sup>2<\/sup>",
+                "correct": null,
+                "id": 18083,
+                "tried": true
+            },
+            {
+                "text": "J\/cm<sup>2<\/sup>",
+                "correct": true,
+                "id": 18084,
+                "tried": true
+            },
+            {
+                "text": "J\/cm",
+                "correct": null,
+                "id": 18085,
+                "tried": false
+            }
+        ],
+        "correctAnswer": {
+            "text": "J\/cm<sup>2<\/sup>",
+            "correct": true,
+            "id": 18084,
+            "tried": true
+        },
+        "selected": null,
+        "text": " Vrubov\u00e1 hou\u017eevnatost vzorku materi\u00e1lu se ud\u00e1v\u00e1 v:      "
+    },
+    "18086": {
+        "answers": [
+            {
+                "text": "S\u00edla p\u016fsob\u00edc\u00ed na indentor vzta\u017een\u00e1 na plochu povrchu vtisku ve tvaru jehlanu",
+                "correct": null,
+                "id": 18086,
+                "tried": true
+            },
+            {
+                "text": "S\u00edla p\u016fsob\u00edc\u00ed na indentor vzta\u017een\u00e1 na plochu vtisku ve tvaru kulov\u00e9ho vrchl\u00edku",
+                "correct": true,
+                "id": 18087,
+                "tried": true
+            },
+            {
+                "text": "S\u00edla p\u016fsob\u00edc\u00ed na indentor vzta\u017een\u00e1 na plochu vtisku ve tvaru \u010dtverce",
+                "correct": null,
+                "id": 18088,
+                "tried": false
+            },
+            {
+                "text": "S\u00edla p\u016fsob\u00edc\u00ed na indentor vzta\u017een\u00e1 na plochu vtisku ve tvaru kruhu",
+                "correct": null,
+                "id": 18089,
+                "tried": false
+            }
+        ],
+        "correctAnswer": {
+            "text": "S\u00edla p\u016fsob\u00edc\u00ed na indentor vzta\u017een\u00e1 na plochu vtisku ve tvaru kulov\u00e9ho vrchl\u00edku",
+            "correct": true,
+            "id": 18087,
+            "tried": true
+        },
+        "selected": null,
+        "text": " Brinellova zkou\u0161ka tvrdosti je definov\u00e1na jako:      "
+    },
+    "18090": {
+        "answers": [
+            {
+                "text": "Z = (S-S<sub>0<\/sub>)\/S<sub>0<\/sub>",
+                "correct": null,
+                "id": 18090,
+                "tried": true
+            },
+            {
+                "text": "Z = (S-S<sub>0<\/sub>)\/S",
+                "correct": null,
+                "id": 18091,
+                "tried": true
+            },
+            {
+                "text": "Z = {(S<sub>0<\/sub>-S).100}\/S<sub>0<\/sub>",
+                "correct": true,
+                "id": 18092,
+                "tried": true
+            },
+            {
+                "text": "Z = {(S-S<sub>0<\/sub>).100}\/S<sub>0<\/sub>",
+                "correct": null,
+                "id": 18093,
+                "tried": false
+            }
+        ],
+        "correctAnswer": {
+            "text": "Z = {(S<sub>0<\/sub>-S).100}\/S<sub>0<\/sub>",
+            "correct": true,
+            "id": 18092,
+            "tried": true
+        },
+        "selected": null,
+        "text": " Kontrakce Z je definov\u00e1na vztahem (S je pr\u016f\u0159ez zku\u0161ebn\u00ed ty\u010dky po p\u0159etr\u017een\u00ed, S<sub>0<\/sub> je pr\u016f\u0159ez zku\u0161ebn\u00ed ty\u010dky p\u0159ed zkou\u0161kou):      "
+    },
+    "18094": {
+        "answers": [
+            {
+                "text": "A = (L-L<sub>0<\/sub>)\/L<sub>0<\/sub>",
+                "correct": null,
+                "id": 18094,
+                "tried": true
+            },
+            {
+                "text": "A = {(L-L<sub>0<\/sub>).100}\/L<sub>0<\/sub>",
+                "correct": true,
+                "id": 18095,
+                "tried": true
+            },
+            {
+                "text": "A = {(L-L<sub>0<\/sub>).100}\/D<sub>0<\/sub>",
+                "correct": null,
+                "id": 18096,
+                "tried": false
+            },
+            {
+                "text": "A = (L-L<sub>0<\/sub>)\/L",
+                "correct": null,
+                "id": 18097,
+                "tried": false
+            }
+        ],
+        "correctAnswer": {
+            "text": "A = {(L-L<sub>0<\/sub>).100}\/L<sub>0<\/sub>",
+            "correct": true,
+            "id": 18095,
+            "tried": true
+        },
+        "selected": null,
+        "text": " Ta\u017enost A je definov\u00e1na vztahem(L je d\u00e9lka zku\u0161ebn\u00ed ty\u010dky po p\u0159etr\u017een\u00ed, L<sub>0<\/sub> je d\u00e9lka zku\u0161ebn\u00ed ty\u010dky p\u0159ed zkou\u0161kou):      "
+    },
+    "18098": {
+        "answers": [
+            {
+                "text": "2.10<sup>-3<\/sup>m",
+                "correct": null,
+                "id": 18098,
+                "tried": true
+            },
+            {
+                "text": "2.10<sup>-5<\/sup>m",
+                "correct": null,
+                "id": 18099,
+                "tried": true
+            },
+            {
+                "text": "2.10<sup>-6<\/sup>m",
+                "correct": null,
+                "id": 18100,
+                "tried": true
+            },
+            {
+                "text": "2.10<sup>-4<\/sup>m",
+                "correct": true,
+                "id": 18101,
+                "tried": true
+            }
+        ],
+        "correctAnswer": {
+            "text": "2.10<sup>-4<\/sup>m",
+            "correct": true,
+            "id": 18101,
+            "tried": true
+        },
+        "selected": null,
+        "text": " Jak\u00e9 je prodlou\u017een\u00ed delta L ty\u010de d\u00e9lky L<sub>0<\/sub> = 100 mm, jestli\u017ee je axi\u00e1ln\u011b zat\u011b\u017eov\u00e1na v oblasti pru\u017en\u00e9 deformace nap\u011bt\u00edm 420 MPa. Modul pru\u017enosti materi\u00e1lu ty\u010de je E = 2,1.10<sup>5<\/sup> MPa.      "
+    },
+    "18102": {
+        "answers": [
+            {
+                "text": "Max.zat\u00ed\u017een\u00ed F<sub>m<\/sub> vzta\u017een\u00e9 na po\u010d\u00e1te\u010dn\u00ed pr\u016f\u0159ez S<sub>0<\/sub>",
+                "correct": true,
+                "id": 18102,
+                "tried": true
+            },
+            {
+                "text": "Zat\u00ed\u017een\u00ed p\u0159i p\u0159etr\u017een\u00ed vzorku vzta\u017een\u00e9 na pr\u016f\u0159ez po p\u0159etr\u017een\u00ed S<sub>u<\/sub>",
+                "correct": null,
+                "id": 18103,
+                "tried": false
+            },
+            {
+                "text": "Zat\u00ed\u017een\u00ed p\u0159i p\u0159etr\u017een\u00ed vzorku vzta\u017een\u00e9 na po\u010d\u00e1te\u010dn\u00ed pr\u016f\u0159ez S<sub>0<\/sub>",
+                "correct": null,
+                "id": 18104,
+                "tried": false
+            },
+            {
+                "text": "Max.zat\u00ed\u017een\u00ed F<sub>m<\/sub> vzta\u017een\u00e9 na pr\u016f\u0159ez vzorku po p\u0159etr\u017een\u00ed S<sub>u<\/sub>",
+                "correct": null,
+                "id": 18105,
+                "tried": false
+            }
+        ],
+        "correctAnswer": {
+            "text": "Max.zat\u00ed\u017een\u00ed F<sub>m<\/sub> vzta\u017een\u00e9 na po\u010d\u00e1te\u010dn\u00ed pr\u016f\u0159ez S<sub>0<\/sub>",
+            "correct": true,
+            "id": 18102,
+            "tried": true
+        },
+        "selected": null,
+        "text": " Pevnost v tahu R<sub>m<\/sub> je definov\u00e1na jako:      "
+    },
+    "18106": {
+        "answers": [
+            {
+                "text": "zajist\u00ed po kr\u00e1tk\u00e9 dob\u011b omezen\u00ed zkratov\u00e9ho proudu sv\u00e1\u0159ec\u00edho zdroje p\u0159i p\u0159ilepen\u00ed elektrody",
+                "correct": null,
+                "id": 18106,
+                "tried": true
+            },
+            {
+                "text": "zabra\u0148uje p\u0159ilepen\u00ed elektrody",
+                "correct": null,
+                "id": 18107,
+                "tried": true
+            },
+            {
+                "text": "automaticky reguluje velikost sva\u0159ovac\u00edho proudu podle typu elektrody",
+                "correct": null,
+                "id": 18108,
+                "tried": true
+            },
+            {
+                "text": "usnad\u0148uje zap\u00e1len\u00ed oblouku p\u0159i ru\u010dn\u00edm sva\u0159ov\u00e1n\u00ed t\u00edm, zv\u00fd\u0161\u00ed zapalovac\u00ed proud o cca 30 % a po \u00fasp\u011b\u0161n\u00e9m zap\u00e1len\u00ed se proud sn\u00ed\u017e\u00ed na nastavenou hodnotu",
+                "correct": true,
+                "id": 18109,
+                "tried": true
+            }
+        ],
+        "correctAnswer": {
+            "text": "usnad\u0148uje zap\u00e1len\u00ed oblouku p\u0159i ru\u010dn\u00edm sva\u0159ov\u00e1n\u00ed t\u00edm, zv\u00fd\u0161\u00ed zapalovac\u00ed proud o cca 30 % a po \u00fasp\u011b\u0161n\u00e9m zap\u00e1len\u00ed se proud sn\u00ed\u017e\u00ed na nastavenou hodnotu",
+            "correct": true,
+            "id": 18109,
+            "tried": true
+        },
+        "selected": null,
+        "text": " Funkce \"Hot Start\":      "
+    },
+    "18110": {
+        "answers": [
+            {
+                "text": "zabra\u0148uje p\u0159ilepen\u00ed elektrody",
+                "correct": null,
+                "id": 18110,
+                "tried": true
+            },
+            {
+                "text": "omezuje proudov\u00fd n\u00e1raz p\u0159i zapnut\u00ed sv\u00e1\u0159ec\u00edho zdroje k s\u00edti",
+                "correct": true,
+                "id": 18111,
+                "tried": true
+            },
+            {
+                "text": "automaticky reguluje velikost sva\u0159ovac\u00edho proudu podle typu elektrody",
+                "correct": null,
+                "id": 18112,
+                "tried": false
+            },
+            {
+                "text": "usnad\u0148uje zap\u00e1len\u00ed oblouku p\u0159i ru\u010dn\u00edm sva\u0159ov\u00e1n\u00ed t\u00edm, zv\u00fd\u0161\u00ed zapalovac\u00ed proud o cca 30 % a po \u00fasp\u011b\u0161n\u00e9m zap\u00e1len\u00ed se proud sn\u00ed\u017e\u00ed na nastavenou hodnotu",
+                "correct": null,
+                "id": 18113,
+                "tried": false
+            }
+        ],
+        "correctAnswer": {
+            "text": "omezuje proudov\u00fd n\u00e1raz p\u0159i zapnut\u00ed sv\u00e1\u0159ec\u00edho zdroje k s\u00edti",
+            "correct": true,
+            "id": 18111,
+            "tried": true
+        },
+        "selected": null,
+        "text": " Funkce \"Soft Start\":      "
+    },
+    "18114": {
+        "answers": [
+            {
+                "text": "zabra\u0148uje p\u0159ilepen\u00ed elektrody",
+                "correct": null,
+                "id": 18114,
+                "tried": true
+            },
+            {
+                "text": "zajist\u00ed po kr\u00e1tk\u00e9 dob\u011b omezen\u00ed zkratov\u00e9ho proudu sv\u00e1\u0159ec\u00edho zdroje p\u0159i p\u0159ilepen\u00ed elektrody",
+                "correct": true,
+                "id": 18115,
+                "tried": true
+            },
+            {
+                "text": "automaticky nastavuje velikost pracovn\u00edho nap\u011bt\u00ed p\u0159i sv\u00e1\u0159en\u00ed",
+                "correct": null,
+                "id": 18116,
+                "tried": false
+            },
+            {
+                "text": "automaticky reguluje velikost sva\u0159ovac\u00edho proudu podle typu elektrody",
+                "correct": null,
+                "id": 18117,
+                "tried": false
+            }
+        ],
+        "correctAnswer": {
+            "text": "zajist\u00ed po kr\u00e1tk\u00e9 dob\u011b omezen\u00ed zkratov\u00e9ho proudu sv\u00e1\u0159ec\u00edho zdroje p\u0159i p\u0159ilepen\u00ed elektrody",
+            "correct": true,
+            "id": 18115,
+            "tried": true
+        },
+        "selected": null,
+        "text": " Funkce \"Anti Stick\":      "
+    },
+    "18118": {
+        "answers": [
+            {
+                "text": "1 kHz",
+                "correct": null,
+                "id": 18118,
+                "tried": true
+            },
+            {
+                "text": "50 Hz",
+                "correct": null,
+                "id": 18119,
+                "tried": true
+            },
+            {
+                "text": "40 kHz - 100 kHz",
+                "correct": true,
+                "id": 18120,
+                "tried": true
+            },
+            {
+                "text": "100 Hz",
+                "correct": null,
+                "id": 18121,
+                "tried": false
+            }
+        ],
+        "correctAnswer": {
+            "text": "40 kHz - 100 kHz",
+            "correct": true,
+            "id": 18120,
+            "tried": true
+        },
+        "selected": null,
+        "text": " Transform\u00e1tor sva\u0159ovac\u00edho invertoru pracuje na frekvenci:      "
+    },
+    "18122": {
+        "answers": [
+            {
+                "text": "automaticky nastavuje velikost pracovn\u00edho nap\u011bt\u00ed p\u0159i sv\u00e1\u0159en\u00ed",
+                "correct": null,
+                "id": 18122,
+                "tried": true
+            },
+            {
+                "text": "automaticky reguluje velikost sva\u0159ovac\u00edho proudu podle typu elektrody",
+                "correct": null,
+                "id": 18123,
+                "tried": true
+            },
+            {
+                "text": "stabilizuje ho\u0159\u00edc\u00ed elektrick\u00fd oblouk p\u0159i sva\u0159ov\u00e1n\u00ed",
+                "correct": true,
+                "id": 18124,
+                "tried": true
+            },
+            {
+                "text": "zajist\u00ed po kr\u00e1tk\u00e9 dob\u011b omezen\u00ed zkratov\u00e9ho proudu sv\u00e1\u0159ec\u00edho zdroje p\u0159i p\u0159ilepen\u00ed elektrody",
+                "correct": null,
+                "id": 18125,
+                "tried": false
+            }
+        ],
+        "correctAnswer": {
+            "text": "stabilizuje ho\u0159\u00edc\u00ed elektrick\u00fd oblouk p\u0159i sva\u0159ov\u00e1n\u00ed",
+            "correct": true,
+            "id": 18124,
+            "tried": true
+        },
+        "selected": null,
+        "text": " Funkce \"Arc Force\":      "
+    },
+    "18126": {
+        "answers": [
+            {
+                "text": "konstantn\u00ed nap\u011bt\u00ed napr\u00e1zdno sva\u0159ovac\u00edho zdroje",
+                "correct": null,
+                "id": 18126,
+                "tried": true
+            },
+            {
+                "text": "regulaci sva\u0159ovac\u00edho proudu",
+                "correct": null,
+                "id": 18127,
+                "tried": true
+            },
+            {
+                "text": "stabilizaci prcovn\u00edho nap\u011bt\u00ed",
+                "correct": null,
+                "id": 18128,
+                "tried": true
+            },
+            {
+                "text": "vyhlazen\u00ed sva\u0159ovac\u00edho proudu",
+                "correct": true,
+                "id": 18129,
+                "tried": true
+            }
+        ],
+        "correctAnswer": {
+            "text": "vyhlazen\u00ed sva\u0159ovac\u00edho proudu",
+            "correct": true,
+            "id": 18129,
+            "tried": true
+        },
+        "selected": null,
+        "text": " Tlumivka za\u0159azen\u00e1 v sekund\u00e1rn\u00edm obvodu sva\u0159ovac\u00edho usm\u011br\u0148ova\u010de zaji\u0161\u0165uje:      "
+    },
+    "18130": {
+        "answers": [
+            {
+                "text": "10 v na 100A sva\u0159ovac\u00edho proudu",
+                "correct": null,
+                "id": 18130,
+                "tried": true
+            },
+            {
+                "text": "5 v na 100A sva\u0159ovac\u00edho proudu",
+                "correct": null,
+                "id": 18131,
+                "tried": true
+            },
+            {
+                "text": "7 v na 100A sva\u0159ovac\u00edho proudu",
+                "correct": true,
+                "id": 18132,
+                "tried": true
+            },
+            {
+                "text": "20 v na 100A sva\u0159ovac\u00edho proudu",
+                "correct": null,
+                "id": 18133,
+                "tried": false
+            }
+        ],
+        "correctAnswer": {
+            "text": "7 v na 100A sva\u0159ovac\u00edho proudu",
+            "correct": true,
+            "id": 18132,
+            "tried": true
+        },
+        "selected": null,
+        "text": " Mezn\u00ed pokles nap\u011bt\u00ed U<sub>p<\/sub> pro metody MIG\/MAG je max:      "
+    },
+    "18134": {
+        "answers": [
+            {
+                "text": " celkovou dobou cyklu 6 min a DZ= 60%",
+                "correct": null,
+                "id": 18134,
+                "tried": true
+            },
+            {
+                "text": " celkovou dobou cyklu 5 min a DZ= 100%",
+                "correct": null,
+                "id": 18135,
+                "tried": true
+            },
+            {
+                "text": "celkovou dobou cyklu 10 min a DZ= 80%",
+                "correct": null,
+                "id": 18136,
+                "tried": true
+            },
+            {
+                "text": "celkovou dobou cyklu 5 min a DZ= 60%",
+                "correct": true,
+                "id": 18137,
+                "tried": true
+            }
+        ],
+        "correctAnswer": {
+            "text": "celkovou dobou cyklu 5 min a DZ= 60%",
+            "correct": true,
+            "id": 18137,
+            "tried": true
+        },
+        "selected": null,
+        "text": " Normalizovan\u00fd cyklus ru\u010dn\u00edho sva\u0159ov\u00e1n\u00ed je definov\u00e1n:      "
+    },
+    "18138": {
+        "answers": [
+            {
+                "text": "nejvy\u0161\u0161\u00ed proud, kter\u00fd lze odeb\u00edrat ze sva\u0159ovac\u00edho zdroje p\u0159i DZ= 100%",
+                "correct": true,
+                "id": 18138,
+                "tried": true
+            },
+            {
+                "text": "nejvy\u0161\u0161\u00ed proud, kter\u00fd lze odeb\u00edrat ze sva\u0159ovac\u00edho zdroje p\u0159i DZ= 60%",
+                "correct": null,
+                "id": 18139,
+                "tried": false
+            },
+            {
+                "text": "nejvy\u0161\u0161\u00ed proud, kter\u00fd lze odeb\u00edrat ze sva\u0159ovac\u00edho zdroje p\u0159i DZ= 80%",
+                "correct": null,
+                "id": 18140,
+                "tried": false
+            },
+            {
+                "text": "nejvy\u0161\u0161\u00ed proud, kter\u00fd lze odeb\u00edrat ze sva\u0159ovac\u00edho zdroje p\u0159i DZ= 50%",
+                "correct": null,
+                "id": 18141,
+                "tried": false
+            }
+        ],
+        "correctAnswer": {
+            "text": "nejvy\u0161\u0161\u00ed proud, kter\u00fd lze odeb\u00edrat ze sva\u0159ovac\u00edho zdroje p\u0159i DZ= 100%",
+            "correct": true,
+            "id": 18138,
+            "tried": true
+        },
+        "selected": null,
+        "text": " Trval\u00fd sva\u0159ovac\u00ed proud sva\u0159ovac\u00edho zdroje I<sub>st<\/sub> je :      "
+    },
+    "18142": {
+        "answers": [
+            {
+                "text": "proud, kter\u00fd lze trvale odeb\u00edrat ze sva\u0159ovac\u00edho zdroje p\u0159i DZ= 100%",
+                "correct": null,
+                "id": 18142,
+                "tried": true
+            },
+            {
+                "text": "proud, kter\u00fd lze trvale odeb\u00edrat ze sva\u0159ovac\u00edho zdroje p\u0159i DZ= 60%",
+                "correct": true,
+                "id": 18143,
+                "tried": true
+            },
+            {
+                "text": "proud, kter\u00fd lze trvale odeb\u00edrat ze sva\u0159ovac\u00edho zdroje p\u0159i DZ= 80%",
+                "correct": null,
+                "id": 18144,
+                "tried": false
+            },
+            {
+                "text": "proud, kter\u00fd lze trvale odeb\u00edrat ze sva\u0159ovac\u00edho zdroje p\u0159i DZ= 20%",
+                "correct": null,
+                "id": 18145,
+                "tried": false
+            }
+        ],
+        "correctAnswer": {
+            "text": "proud, kter\u00fd lze trvale odeb\u00edrat ze sva\u0159ovac\u00edho zdroje p\u0159i DZ= 60%",
+            "correct": true,
+            "id": 18143,
+            "tried": true
+        },
+        "selected": null,
+        "text": " Jmenovit\u00fd sva\u0159ovac\u00ed proud sva\u0159ovac\u00edho zdroje I<sub>s<\/sub> je :      "
+    },
+    "18146": {
+        "answers": [
+            {
+                "text": "DZ=t<sub>z<\/sub>\/(t<sub>z<\/sub>-t<sub>p<\/sub>)",
+                "correct": null,
+                "id": 18146,
+                "tried": true
+            },
+            {
+                "text": "DZ=t<sub>z<\/sub>\/(t<sub>z<\/sub>+t<sub>p<\/sub>)",
+                "correct": true,
+                "id": 18147,
+                "tried": true
+            },
+            {
+                "text": "DZ=t<sub>p<\/sub>\/t<sub>z<\/sub>",
+                "correct": null,
+                "id": 18148,
+                "tried": false
+            },
+            {
+                "text": "DZ=t<sub>z<\/sub>\/t<sub>p<\/sub>",
+                "correct": null,
+                "id": 18149,
+                "tried": false
+            }
+        ],
+        "correctAnswer": {
+            "text": "DZ=t<sub>z<\/sub>\/(t<sub>z<\/sub>+t<sub>p<\/sub>)",
+            "correct": true,
+            "id": 18147,
+            "tried": true
+        },
+        "selected": null,
+        "text": " Zat\u011b\u017eovatel sva\u0159ovac\u00edho zdroje DZ je d\u00e1n (t<sub>z<\/sub> je doba sva\u0159ov\u00e1n\u00ed, t<sub>p<\/sub> je doba p\u0159est\u00e1vky) vztahem:      "
+    },
+    "18150": {
+        "answers": [
+            {
+                "text": "U<sub>p<\/sub>=20 + 0,04.I<sub>S<\/sub>",
+                "correct": null,
+                "id": 18150,
+                "tried": true
+            },
+            {
+                "text": "U<sub>p<\/sub>=20 - 0,01.I<sub>S<\/sub>",
+                "correct": null,
+                "id": 18151,
+                "tried": true
+            },
+            {
+                "text": "U<sub>p<\/sub>=44 V",
+                "correct": true,
+                "id": 18152,
+                "tried": true
+            },
+            {
+                "text": "U<sub>p<\/sub>=20 + 0,01.I<sub>S<\/sub>",
+                "correct": null,
+                "id": 18153,
+                "tried": false
+            }
+        ],
+        "correctAnswer": {
+            "text": "U<sub>p<\/sub>=44 V",
+            "correct": true,
+            "id": 18152,
+            "tried": true
+        },
+        "selected": null,
+        "text": " Normalizovan\u00e9 pracovn\u00ed nap\u011bt\u00ed sva\u0159ovac\u00edho zdroje U<sub>p<\/sub> pro proudy nad 600 A pro ru\u010dn\u00ed sva\u0159ov\u00e1n\u00ed je:      "
+    },
+    "18154": {
+        "answers": [
+            {
+                "text": "nejv\u00fd\u0161e 113 V",
+                "correct": true,
+                "id": 18154,
+                "tried": true
+            },
+            {
+                "text": "nejv\u00fd\u0161e 140 V",
+                "correct": null,
+                "id": 18155,
+                "tried": false
+            },
+            {
+                "text": "nejv\u00fd\u0161e 24 V",
+                "correct": null,
+                "id": 18156,
+                "tried": false
+            },
+            {
+                "text": "nejv\u00fd\u0161e 50 V",
+                "correct": null,
+                "id": 18157,
+                "tried": false
+            }
+        ],
+        "correctAnswer": {
+            "text": "nejv\u00fd\u0161e 113 V",
+            "correct": true,
+            "id": 18154,
+            "tried": true
+        },
+        "selected": null,
+        "text": " Maxim\u00e1ln\u00ed \u0161pi\u010dkov\u00e1 hodnota nap\u011bt\u00ed stejnosm\u011brn\u00e9ho sva\u0159ovac\u00edho zdroje napr\u00e1zdno U<sub>n<\/sub> pro prost\u0159ed\u00ed bez zv\u00fd\u0161en\u00e9ho nebezpe\u010d\u00ed \u00farazu elektrick\u00fdm proudem je:      "
+    },
+    "18158": {
+        "answers": [
+            {
+                "text": "U<sub>p<\/sub>=20 - 0,01.I<sub>S<\/sub>",
+                "correct": null,
+                "id": 18158,
+                "tried": true
+            },
+            {
+                "text": "U<sub>p<\/sub>=20 + 0,01.I<sub>S<\/sub>",
+                "correct": null,
+                "id": 18159,
+                "tried": true
+            },
+            {
+                "text": "U<sub>p<\/sub>=20 + 0,04.I<sub>S<\/sub>",
+                "correct": true,
+                "id": 18160,
+                "tried": true
+            },
+            {
+                "text": "U<sub>p<\/sub>=20 + 0,1.I<sub>S<\/sub>",
+                "correct": null,
+                "id": 18161,
+                "tried": false
+            }
+        ],
+        "correctAnswer": {
+            "text": "U<sub>p<\/sub>=20 + 0,04.I<sub>S<\/sub>",
+            "correct": true,
+            "id": 18160,
+            "tried": true
+        },
+        "selected": null,
+        "text": " Normalizovan\u00e9 pracovn\u00ed nap\u011bt\u00ed sva\u0159ovac\u00edho zdroje U<sub>p<\/sub> pro proudy do 600 A pro ru\u010dn\u00ed sva\u0159ov\u00e1n\u00ed je d\u00e1no vztahem:      "
+    },
+    "18162": {
+        "answers": [
+            {
+                "text": "nejv\u00fd\u0161e 80 V",
+                "correct": true,
+                "id": 18162,
+                "tried": true
+            },
+            {
+                "text": "nejv\u00fd\u0161e 140 V",
+                "correct": null,
+                "id": 18163,
+                "tried": false
+            },
+            {
+                "text": "nejv\u00fd\u0161e 24 V",
+                "correct": null,
+                "id": 18164,
+                "tried": false
+            },
+            {
+                "text": "nejv\u00fd\u0161e 50 V",
+                "correct": null,
+                "id": 18165,
+                "tried": false
+            }
+        ],
+        "correctAnswer": {
+            "text": "nejv\u00fd\u0161e 80 V",
+            "correct": true,
+            "id": 18162,
+            "tried": true
+        },
+        "selected": null,
+        "text": " Maxim\u00e1ln\u00ed efektivn\u00ed hodnota nap\u011bt\u00ed st\u0159\u00eddav\u00e9ho sva\u0159ovac\u00edho zdroje napr\u00e1zdno U<sub>n<\/sub> pro prost\u0159ed\u00ed bez zv\u00fd\u0161en\u00e9ho nebezpe\u010d\u00ed \u00farazu elektrick\u00fdm proudem je:      "
+    },
+    "18166": {
+        "answers": [
+            {
+                "text": "pod\u00e1v\u00e1n ru\u010dn\u011b ve tvaru dr\u00e1tu",
+                "correct": null,
+                "id": 18166,
+                "tried": true
+            },
+            {
+                "text": "pod\u00e1v\u00e1n ru\u010dn\u011b ve form\u011b obalovan\u00e9 elektrody",
+                "correct": null,
+                "id": 18167,
+                "tried": true
+            },
+            {
+                "text": "pod\u00e1v\u00e1n ze z\u00e1sobn\u00edku p\u0159es kladky mimo ho\u0159\u00e1k ve form\u011b dr\u00e1tu",
+                "correct": null,
+                "id": 18168,
+                "tried": true
+            },
+            {
+                "text": "pod\u00e1v\u00e1n ze z\u00e1sobn\u00edku p\u0159es kladky v ose ho\u0159\u00e1ku ve form\u011b dr\u00e1tu",
+                "correct": true,
+                "id": 18169,
+                "tried": true
+            }
+        ],
+        "correctAnswer": {
+            "text": "pod\u00e1v\u00e1n ze z\u00e1sobn\u00edku p\u0159es kladky v ose ho\u0159\u00e1ku ve form\u011b dr\u00e1tu",
+            "correct": true,
+            "id": 18169,
+            "tried": true
+        },
+        "selected": null,
+        "text": " U metody MIG\/MAG je p\u0159\u00eddavn\u00fd materi\u00e1l do oblasti svaru:      "
+    },
+    "18170": {
+        "answers": [
+            {
+                "text": "Argon",
+                "correct": null,
+                "id": 18170,
+                "tried": true
+            },
+            {
+                "text": "Argon, Helium p\u0159\u00edpadn\u011b jejich sm\u011bsi",
+                "correct": null,
+                "id": 18171,
+                "tried": true
+            },
+            {
+                "text": "tavidlo",
+                "correct": null,
+                "id": 18172,
+                "tried": true
+            },
+            {
+                "text": "CO<sub>2<\/sub>p\u0159\u00edpadn\u011b jeho sm\u011bs s Argonem nebo kysl\u00edkem",
+                "correct": true,
+                "id": 18173,
+                "tried": true
+            }
+        ],
+        "correctAnswer": {
+            "text": "CO<sub>2<\/sub>p\u0159\u00edpadn\u011b jeho sm\u011bs s Argonem nebo kysl\u00edkem",
+            "correct": true,
+            "id": 18173,
+            "tried": true
+        },
+        "selected": null,
+        "text": " Metoda MAG pou\u017e\u00edv\u00e1 jako ochranu p\u0159ed okoln\u00ed atmosf\u00e9rou:      "
+    },
+    "18174": {
+        "answers": [
+            {
+                "text": "pou\u017eijeme tavidlo a pro nap\u00e1jen\u00ed oblouku stejnosm\u011brn\u00fd zdroj",
+                "correct": null,
+                "id": 18174,
+                "tried": true
+            },
+            {
+                "text": "pou\u017eijeme Argon jako ochrann\u00fd plyn a pro nap\u00e1jen\u00ed oblouku stejnosm\u011brn\u00fd zdroj",
+                "correct": null,
+                "id": 18175,
+                "tried": true
+            },
+            {
+                "text": "pou\u017eijeme pro nap\u00e1jen\u00ed oblouku st\u0159\u00eddav\u00fd zdroj",
+                "correct": true,
+                "id": 18176,
+                "tried": true
+            },
+            {
+                "text": "pou\u017eijeme pro nap\u00e1jen\u00ed oblouku stejnosm\u011brn\u00fd zdroj",
+                "correct": null,
+                "id": 18177,
+                "tried": false
+            }
+        ],
+        "correctAnswer": {
+            "text": "pou\u017eijeme pro nap\u00e1jen\u00ed oblouku st\u0159\u00eddav\u00fd zdroj",
+            "correct": true,
+            "id": 18176,
+            "tried": true
+        },
+        "selected": null,
+        "text": " Metoda WIG je pou\u017eiteln\u00e1 pro sva\u0159ov\u00e1n\u00ed hlin\u00edku pokud :      "
+    },
+    "18178": {
+        "answers": [
+            {
+                "text": "CO<sub>2<\/sub>p\u0159\u00edpadn\u011b jeho sm\u011bs s Argonem nebo kysl\u00edkem",
+                "correct": null,
+                "id": 18178,
+                "tried": true
+            },
+            {
+                "text": "tavidlo",
+                "correct": null,
+                "id": 18179,
+                "tried": true
+            },
+            {
+                "text": "Argon, Helium p\u0159\u00edpadn\u011b jejich sm\u011bsi",
+                "correct": true,
+                "id": 18180,
+                "tried": true
+            },
+            {
+                "text": "Argon",
+                "correct": null,
+                "id": 18181,
+                "tried": false
+            }
+        ],
+        "correctAnswer": {
+            "text": "Argon, Helium p\u0159\u00edpadn\u011b jejich sm\u011bsi",
+            "correct": true,
+            "id": 18180,
+            "tried": true
+        },
+        "selected": null,
+        "text": " Metoda MIG pou\u017e\u00edv\u00e1 jako ochranu p\u0159ed okoln\u00ed atmosf\u00e9rou:      "
+    },
+    "18182": {
+        "answers": [
+            {
+                "text": "z d\u016fvodu pomalej\u0161\u00edho odtaven\u00ed elektrody",
+                "correct": null,
+                "id": 18182,
+                "tried": true
+            },
+            {
+                "text": "z d\u016fvodu dosa\u017een\u00ed vysok\u00e9ho z\u00e1varu",
+                "correct": null,
+                "id": 18183,
+                "tried": true
+            },
+            {
+                "text": "z d\u016fvodu rychlej\u0161\u00edho odtaven\u00ed elektrody",
+                "correct": null,
+                "id": 18184,
+                "tried": true
+            },
+            {
+                "text": "z d\u016fvodu \u010dist\u00edc\u00edho \u00fa\u010dinku oblouku p\u0159i kladn\u00e9 polarit\u011b nap\u011bt\u00ed na elektrod\u011b",
+                "correct": true,
+                "id": 18185,
+                "tried": true
+            }
+        ],
+        "correctAnswer": {
+            "text": "z d\u016fvodu \u010dist\u00edc\u00edho \u00fa\u010dinku oblouku p\u0159i kladn\u00e9 polarit\u011b nap\u011bt\u00ed na elektrod\u011b",
+            "correct": true,
+            "id": 18185,
+            "tried": true
+        },
+        "selected": null,
+        "text": " Pro sva\u0159ov\u00e1n\u00ed hlin\u00edku a jeho slitin metodou WIG se pou\u017e\u00edv\u00e1 st\u0159\u00eddav\u00fd proud:      "
+    },
+    "18186": {
+        "answers": [
+            {
+                "text": "sm\u011bs CO<sub>2<\/sub> a Argonu",
+                "correct": null,
+                "id": 18186,
+                "tried": true
+            },
+            {
+                "text": "tavidlo",
+                "correct": null,
+                "id": 18187,
+                "tried": true
+            },
+            {
+                "text": "Argon, Helium p\u0159\u00edpadn\u011b jejich sm\u011bsi",
+                "correct": true,
+                "id": 18188,
+                "tried": true
+            },
+            {
+                "text": "CO<sub>2<\/sub>",
+                "correct": null,
+                "id": 18189,
+                "tried": false
+            }
+        ],
+        "correctAnswer": {
+            "text": "Argon, Helium p\u0159\u00edpadn\u011b jejich sm\u011bsi",
+            "correct": true,
+            "id": 18188,
+            "tried": true
+        },
+        "selected": null,
+        "text": " Metoda WIG pou\u017e\u00edv\u00e1 jako ochranu p\u0159ed okoln\u00ed atmosf\u00e9rou:      "
+    },
+    "18190": {
+        "answers": [
+            {
+                "text": " tav\u00edc\u00ed se kovovou elektrodou v aktivn\u00edm plynu",
+                "correct": null,
+                "id": 18190,
+                "tried": true
+            },
+            {
+                "text": "netav\u00edc\u00ed se wolframovou elektrodou v inertn\u00edm plynu",
+                "correct": true,
+                "id": 18191,
+                "tried": true
+            },
+            {
+                "text": "tav\u00edc\u00ed se kovovou elektrodou v inertn\u00edm plynu",
+                "correct": null,
+                "id": 18192,
+                "tried": false
+            },
+            {
+                "text": "tav\u00edc\u00ed se kovovou elektrodou s obalem",
+                "correct": null,
+                "id": 18193,
+                "tried": false
+            }
+        ],
+        "correctAnswer": {
+            "text": "netav\u00edc\u00ed se wolframovou elektrodou v inertn\u00edm plynu",
+            "correct": true,
+            "id": 18191,
+            "tried": true
+        },
+        "selected": null,
+        "text": " Metoda WIG (TIG) je metoda sva\u0159ov\u00e1n\u00ed:      "
+    },
+    "18194": {
+        "answers": [
+            {
+                "text": "tav\u00edc\u00ed se kovovou elektrodou s obalem",
+                "correct": null,
+                "id": 18194,
+                "tried": true
+            },
+            {
+                "text": "tav\u00edc\u00ed se kovovou elektrodou v inertn\u00edm plynu",
+                "correct": null,
+                "id": 18195,
+                "tried": true
+            },
+            {
+                "text": "netav\u00edc\u00ed se wolframovou elektrodou v inertn\u00edm plynu",
+                "correct": null,
+                "id": 18196,
+                "tried": true
+            },
+            {
+                "text": "tav\u00edc\u00ed se kovovou elektrodou v aktivn\u00edm plynu",
+                "correct": true,
+                "id": 18197,
+                "tried": true
+            }
+        ],
+        "correctAnswer": {
+            "text": "tav\u00edc\u00ed se kovovou elektrodou v aktivn\u00edm plynu",
+            "correct": true,
+            "id": 18197,
+            "tried": true
+        },
+        "selected": null,
+        "text": " Metoda MAG je metoda sva\u0159ov\u00e1n\u00ed:      "
+    },
+    "18198": {
+        "answers": [
+            {
+                "text": "netav\u00edc\u00ed se wolframovou elektrodou v inertn\u00edm plynu",
+                "correct": null,
+                "id": 18198,
+                "tried": true
+            },
+            {
+                "text": "tav\u00edc\u00ed se kovovou elektrodou v inertn\u00edm plynu",
+                "correct": true,
+                "id": 18199,
+                "tried": true
+            },
+            {
+                "text": " tav\u00edc\u00ed se kovovou elektrodou v aktivn\u00edm plynu",
+                "correct": null,
+                "id": 18200,
+                "tried": false
+            },
+            {
+                "text": "tav\u00edc\u00ed se kovovou elektrodou s obalem",
+                "correct": null,
+                "id": 18201,
+                "tried": false
+            }
+        ],
+        "correctAnswer": {
+            "text": "tav\u00edc\u00ed se kovovou elektrodou v inertn\u00edm plynu",
+            "correct": true,
+            "id": 18199,
+            "tried": true
+        },
+        "selected": null,
+        "text": " Metoda MIG je metoda sva\u0159ov\u00e1n\u00ed:      "
+    },
+    "18202": {
+        "answers": [
+            {
+                "text": "-5\u00b0C",
+                "correct": null,
+                "id": 18202,
+                "tried": true
+            },
+            {
+                "text": "0\u00b0C",
+                "correct": null,
+                "id": 18203,
+                "tried": true
+            },
+            {
+                "text": "+ 5\u00b0C",
+                "correct": null,
+                "id": 18204,
+                "tried": true
+            },
+            {
+                "text": "+ 10\u00b0C",
+                "correct": true,
+                "id": 18205,
+                "tried": true
+            }
+        ],
+        "correctAnswer": {
+            "text": "+ 10\u00b0C",
+            "correct": true,
+            "id": 18205,
+            "tried": true
+        },
+        "selected": null,
+        "text": " Obalovan\u00e9 elektrody se mus\u00ed skladovat v neporu\u0161en\u00fdch obalech p\u0159i minim\u00e1ln\u00ed teplot\u011b :      "
+    },
+    "18206": {
+        "answers": [
+            {
+                "text": "50%",
+                "correct": true,
+                "id": 18206,
+                "tried": true
+            },
+            {
+                "text": "70%",
+                "correct": null,
+                "id": 18207,
+                "tried": false
+            },
+            {
+                "text": "60%",
+                "correct": null,
+                "id": 18208,
+                "tried": false
+            },
+            {
+                "text": "65%",
+                "correct": null,
+                "id": 18209,
+                "tried": false
+            }
+        ],
+        "correctAnswer": {
+            "text": "50%",
+            "correct": true,
+            "id": 18206,
+            "tried": true
+        },
+        "selected": null,
+        "text": " Obalovan\u00e9 elektrody se mus\u00ed skladovat v neporu\u0161en\u00fdch obalech p\u0159i maxim\u00e1ln\u00ed relativn\u00ed vlhkosti :      "
+    },
+    "18210": {
+        "answers": [
+            {
+                "text": "elektrostruskov\u00e9 sva\u0159ov\u00e1n\u00ed",
+                "correct": null,
+                "id": 18210,
+                "tried": true
+            },
+            {
+                "text": "WIG technologii",
+                "correct": null,
+                "id": 18211,
+                "tried": true
+            },
+            {
+                "text": "odporov\u00e9 v\u00fdstupkov\u00e9 sva\u0159ov\u00e1n\u00ed",
+                "correct": null,
+                "id": 18212,
+                "tried": true
+            },
+            {
+                "text": "sva\u0159ov\u00e1n\u00ed elektronov\u00fdm svazkem",
+                "correct": true,
+                "id": 18213,
+                "tried": true
+            }
+        ],
+        "correctAnswer": {
+            "text": "sva\u0159ov\u00e1n\u00ed elektronov\u00fdm svazkem",
+            "correct": true,
+            "id": 18213,
+            "tried": true
+        },
+        "selected": null,
+        "text": " Mezi tzv. \"Key hole\" technologie sva\u0159ov\u00e1n\u00ed \u0159ad\u00edme:      "
+    },
+    "18214": {
+        "answers": [
+            {
+                "text": "MIG technologii",
+                "correct": null,
+                "id": 18214,
+                "tried": true
+            },
+            {
+                "text": "elektrostruskov\u00e9 sva\u0159ov\u00e1n\u00ed",
+                "correct": null,
+                "id": 18215,
+                "tried": true
+            },
+            {
+                "text": "odporov\u00e9 bodov\u00e9 sva\u0159ov\u00e1n\u00ed",
+                "correct": null,
+                "id": 18216,
+                "tried": true
+            },
+            {
+                "text": "plasmov\u00e9 sva\u0159ov\u00e1n\u00ed",
+                "correct": true,
+                "id": 18217,
+                "tried": true
+            }
+        ],
+        "correctAnswer": {
+            "text": "plasmov\u00e9 sva\u0159ov\u00e1n\u00ed",
+            "correct": true,
+            "id": 18217,
+            "tried": true
+        },
+        "selected": null,
+        "text": " Mezi tzv. \"Key hole\" technologie sva\u0159ov\u00e1n\u00ed \u0159ad\u00edme:      "
+    },
+    "18218": {
+        "answers": [
+            {
+                "text": "elektrostruskov\u00e9 sva\u0159ov\u00e1n\u00ed",
+                "correct": null,
+                "id": 18218,
+                "tried": true
+            },
+            {
+                "text": "laserov\u00e9 sva\u0159ov\u00e1n\u00ed",
+                "correct": true,
+                "id": 18219,
+                "tried": true
+            },
+            {
+                "text": "odporov\u00e9 sva\u0159ov\u00e1n\u00ed",
+                "correct": null,
+                "id": 18220,
+                "tried": false
+            },
+            {
+                "text": "odporov\u00e9 v\u00fdstupkov\u00e9 sva\u0159ov\u00e1n\u00ed",
+                "correct": null,
+                "id": 18221,
+                "tried": false
+            }
+        ],
+        "correctAnswer": {
+            "text": "laserov\u00e9 sva\u0159ov\u00e1n\u00ed",
+            "correct": true,
+            "id": 18219,
+            "tried": true
+        },
+        "selected": null,
+        "text": " Mezi tzv. \"Key hole\" technologie sva\u0159ov\u00e1n\u00ed \u0159ad\u00edme:      "
+    },
+    "18222": {
+        "answers": [
+            {
+                "text": "I(A) = (60 a\u017e 70).d",
+                "correct": null,
+                "id": 18222,
+                "tried": true
+            },
+            {
+                "text": "I(A) = (35 a\u017e 50).d",
+                "correct": true,
+                "id": 18223,
+                "tried": true
+            },
+            {
+                "text": "I(A) = (40 a\u017e 55).d",
+                "correct": null,
+                "id": 18224,
+                "tried": false
+            },
+            {
+                "text": "I(A) = (70 a\u017e 90).d",
+                "correct": null,
+                "id": 18225,
+                "tried": false
+            }
+        ],
+        "correctAnswer": {
+            "text": "I(A) = (35 a\u017e 50).d",
+            "correct": true,
+            "id": 18223,
+            "tried": true
+        },
+        "selected": null,
+        "text": " Sva\u0159ovac\u00ed proud pro elektrody s bazick\u00fdm obalem m\u016f\u017eeme stanovit p\u0159ibli\u017en\u011b podle vztahu (d je pr\u016fm\u011br j\u00e1dra elektrody v mm):      "
+    },
+    "18226": {
+        "answers": [
+            {
+                "text": "2400-2600\u00b0C",
+                "correct": null,
+                "id": 18226,
+                "tried": true
+            },
+            {
+                "text": "2100-2400\u00b0C",
+                "correct": true,
+                "id": 18227,
+                "tried": true
+            },
+            {
+                "text": "2000-2100\u00b0C",
+                "correct": null,
+                "id": 18228,
+                "tried": false
+            },
+            {
+                "text": "1800-2000\u00b0C",
+                "correct": null,
+                "id": 18229,
+                "tried": false
+            }
+        ],
+        "correctAnswer": {
+            "text": "2100-2400\u00b0C",
+            "correct": true,
+            "id": 18227,
+            "tried": true
+        },
+        "selected": null,
+        "text": " V procesu ru\u010dn\u00edho obloukov\u00e9ho sva\u0159ov\u00e1n\u00ed dosahuje teplota oblouku na katod\u011b hodnot v rozmez\u00ed:      "
+    },
+    "18230": {
+        "answers": [
+            {
+                "text": "I(A) = (70 a\u017e 90).d",
+                "correct": null,
+                "id": 18230,
+                "tried": true
+            },
+            {
+                "text": "I(A) = (60 a\u017e 70).d",
+                "correct": null,
+                "id": 18231,
+                "tried": true
+            },
+            {
+                "text": "I(A) = (40 a\u017e 55).d",
+                "correct": true,
+                "id": 18232,
+                "tried": true
+            },
+            {
+                "text": "I(A) = (55 a\u017e 60).d",
+                "correct": null,
+                "id": 18233,
+                "tried": false
+            }
+        ],
+        "correctAnswer": {
+            "text": "I(A) = (40 a\u017e 55).d",
+            "correct": true,
+            "id": 18232,
+            "tried": true
+        },
+        "selected": null,
+        "text": " Sva\u0159ovac\u00ed proud pro elektrody s kysel\u00fdm a rutilov\u00fdm obalem m\u016f\u017eeme stanovit p\u0159ibli\u017en\u011b podle vztahu (d je pr\u016fm\u011br j\u00e1dra elektrody):      "
+    },
+    "18234": {
+        "answers": [
+            {
+                "text": "pouze br\u00e1n\u00ed p\u0159\u00edstupu kysl\u00edku k tavn\u00e9 l\u00e1zni",
+                "correct": null,
+                "id": 18234,
+                "tried": true
+            },
+            {
+                "text": "pouze p\u0159isp\u00edv\u00e1 ke snadn\u00e9mu zap\u00e1len\u00ed a ho\u0159en\u00ed oblouku",
+                "correct": null,
+                "id": 18235,
+                "tried": true
+            },
+            {
+                "text": "br\u00e1n\u00ed p\u0159\u00edstupu kysl\u00edku k tavn\u00e9 l\u00e1zni, p\u0159isp\u00edv\u00e1 ke snadn\u00e9mu zap\u00e1len\u00ed a ho\u0159en\u00ed oblouku a br\u00e1n\u00ed propalu n\u011bkter\u00fdch prvk\u016f (Mn, Cr, Si)",
+                "correct": true,
+                "id": 18236,
+                "tried": true
+            },
+            {
+                "text": "pouze br\u00e1n\u00ed propalu n\u011bkter\u00fdch prvk\u016f",
+                "correct": null,
+                "id": 18237,
+                "tried": false
+            }
+        ],
+        "correctAnswer": {
+            "text": "br\u00e1n\u00ed p\u0159\u00edstupu kysl\u00edku k tavn\u00e9 l\u00e1zni, p\u0159isp\u00edv\u00e1 ke snadn\u00e9mu zap\u00e1len\u00ed a ho\u0159en\u00ed oblouku a br\u00e1n\u00ed propalu n\u011bkter\u00fdch prvk\u016f (Mn, Cr, Si)",
+            "correct": true,
+            "id": 18236,
+            "tried": true
+        },
+        "selected": null,
+        "text": " Obal elektrody pro ru\u010dn\u00ed sva\u0159ov\u00e1n\u00ed pln\u00ed n\u00e1sleduj\u00edc\u00ed funkce:      "
+    },
+    "18238": {
+        "answers": [
+            {
+                "text": "2400-2600\u00b0C",
+                "correct": true,
+                "id": 18238,
+                "tried": true
+            },
+            {
+                "text": "2100-2400\u00b0C",
+                "correct": null,
+                "id": 18239,
+                "tried": false
+            },
+            {
+                "text": "2000-2100\u00b0C",
+                "correct": null,
+                "id": 18240,
+                "tried": false
+            },
+            {
+                "text": "1800-2000\u00b0C",
+                "correct": null,
+                "id": 18241,
+                "tried": false
+            }
+        ],
+        "correctAnswer": {
+            "text": "2400-2600\u00b0C",
+            "correct": true,
+            "id": 18238,
+            "tried": true
+        },
+        "selected": null,
+        "text": " V procesu ru\u010dn\u00edho obloukov\u00e9ho sva\u0159ov\u00e1n\u00ed dosahuje teplota oblouku na anod\u011b hodnot v rozmez\u00ed:      "
+    },
+    "18242": {
+        "answers": [
+            {
+                "text": "st\u0159\u00eddav\u00fd zdroj",
+                "correct": null,
+                "id": 18242,
+                "tried": true
+            },
+            {
+                "text": "na kladn\u00fd p\u00f3l stejnosm\u011brn\u00e9ho zdroje, p\u0159i\u010dem\u017e z\u00e1porn\u00fd zdroj je p\u0159ipojen na sva\u0159enec",
+                "correct": true,
+                "id": 18243,
+                "tried": true
+            },
+            {
+                "text": "na z\u00e1porn\u00fd p\u00f3l stejnosm\u011brn\u00e9ho zdroje, p\u0159i\u010dem\u017e kladn\u00fd zdroj je p\u0159ipojen na sva\u0159enec",
+                "correct": null,
+                "id": 18244,
+                "tried": false
+            },
+            {
+                "text": "na kladn\u00fd p\u00f3l invertoru",
+                "correct": null,
+                "id": 18245,
+                "tried": false
+            }
+        ],
+        "correctAnswer": {
+            "text": "na kladn\u00fd p\u00f3l stejnosm\u011brn\u00e9ho zdroje, p\u0159i\u010dem\u017e z\u00e1porn\u00fd zdroj je p\u0159ipojen na sva\u0159enec",
+            "correct": true,
+            "id": 18243,
+            "tried": true
+        },
+        "selected": null,
+        "text": " P\u0159i p\u0159ipojen\u00ed sv\u00e1\u0159ec\u00edho zdroje s tzv. \"nep\u0159\u00edmou polaritou\" je sv\u00e1\u0159eci elektroda p\u0159ipojena na:      "
+    },
+    "18246": {
+        "answers": [
+            {
+                "text": "na kladn\u00fd p\u00f3l invertoru",
+                "correct": null,
+                "id": 18246,
+                "tried": true
+            },
+            {
+                "text": "na z\u00e1porn\u00fd p\u00f3l stejnosm\u011brn\u00e9ho zdroje, p\u0159i\u010dem\u017e kladn\u00fd zdroj je p\u0159ipojen na sva\u0159enec",
+                "correct": true,
+                "id": 18247,
+                "tried": true
+            },
+            {
+                "text": "st\u0159\u00eddav\u00fd zdroj",
+                "correct": null,
+                "id": 18248,
+                "tried": false
+            },
+            {
+                "text": "na kladn\u00fd p\u00f3l stejnosm\u011brn\u00e9ho zdroje, p\u0159i\u010dem\u017e z\u00e1porn\u00fd zdroj je p\u0159ipojen na sva\u0159enec",
+                "correct": null,
+                "id": 18249,
+                "tried": false
+            }
+        ],
+        "correctAnswer": {
+            "text": "na z\u00e1porn\u00fd p\u00f3l stejnosm\u011brn\u00e9ho zdroje, p\u0159i\u010dem\u017e kladn\u00fd zdroj je p\u0159ipojen na sva\u0159enec",
+            "correct": true,
+            "id": 18247,
+            "tried": true
+        },
+        "selected": null,
+        "text": " P\u0159i p\u0159ipojen\u00ed sv\u00e1\u0159ec\u00edho zdroje s tzv. \"p\u0159\u00edmou polaritou\" je sv\u00e1\u0159eci elektroda p\u0159ipojena na:      "
+    },
+    "18250": {
+        "answers": [
+            {
+                "text": "je oblast svarov\u00e9ho spoje, kter\u00e1 byla roztavena d\u016fsledku p\u016fsoben\u00ed zdroje tepla",
+                "correct": null,
+                "id": 18250,
+                "tried": true
+            },
+            {
+                "text": "je oblast svarov\u00e9ho spoje, kter\u00e1 byla roztavena a ve kter\u00e9 dojde ke zm\u011bn\u00e1m mikrostruktury v d\u016fsledku p\u016fsoben\u00ed zdroje tepla od sva\u0159ov\u00e1n\u00ed",
+                "correct": null,
+                "id": 18251,
+                "tried": true
+            },
+            {
+                "text": "je oblast svarov\u00e9ho spoje oh\u0159\u00e1t\u00e1 v d\u016fsledku p\u016fsoben\u00ed zdroje tepla od sva\u0159ov\u00e1n\u00ed a ve kter\u00e9 nedoch\u00e1z\u00ed ke zm\u011bn\u00e1m mikrostruktury v d\u016fsledku p\u016fsoben\u00ed zdroje tepla od sva\u0159ov\u00e1n\u00ed",
+                "correct": null,
+                "id": 18252,
+                "tried": true
+            },
+            {
+                "text": " je oblast svaroveho spoje, kter\u00e1 nebyla roztavena a ve kter\u00e9 dojde ke zm\u011bn\u00e1m mikrostruktury v d\u016fsledku p\u016fsoben\u00ed zdroje tepla od sva\u0159ov\u00e1n\u00ed",
+                "correct": true,
+                "id": 18253,
+                "tried": true
+            }
+        ],
+        "correctAnswer": {
+            "text": " je oblast svaroveho spoje, kter\u00e1 nebyla roztavena a ve kter\u00e9 dojde ke zm\u011bn\u00e1m mikrostruktury v d\u016fsledku p\u016fsoben\u00ed zdroje tepla od sva\u0159ov\u00e1n\u00ed",
+            "correct": true,
+            "id": 18253,
+            "tried": true
+        },
+        "selected": null,
+        "text": " Teplem ovlivn\u011bn\u00e1 oblast :      "
+    },
+    "18254": {
+        "answers": [
+            {
+                "text": "roztaven\u00fdm materi\u00e1lem elektrody a struskou",
+                "correct": null,
+                "id": 18254,
+                "tried": true
+            },
+            {
+                "text": "roztaven\u00fdm p\u0159\u00eddavn\u00fdm materi\u00e1lem",
+                "correct": null,
+                "id": 18255,
+                "tried": true
+            },
+            {
+                "text": "roztaven\u00fdm z\u00e1kladn\u00edm a p\u0159\u00eddavn\u00fdm materi\u00e1lem",
+                "correct": null,
+                "id": 18256,
+                "tried": true
+            },
+            {
+                "text": " roztaven\u00fdm z\u00e1kladn\u00edm materi\u00e1lem",
+                "correct": true,
+                "id": 18257,
+                "tried": true
+            }
+        ],
+        "correctAnswer": {
+            "text": " roztaven\u00fdm z\u00e1kladn\u00edm materi\u00e1lem",
+            "correct": true,
+            "id": 18257,
+            "tried": true
+        },
+        "selected": null,
+        "text": " V p\u0159\u00edpad\u011b odporov\u00e9ho sva\u0159ov\u00e1n\u00ed je svarov\u00fd kov tvo\u0159en:      "
+    },
+    "18258": {
+        "answers": [
+            {
+                "text": " roztaven\u00fdm z\u00e1kladn\u00edm materi\u00e1lem",
+                "correct": true,
+                "id": 18258,
+                "tried": true
+            },
+            {
+                "text": "roztaven\u00fdm materi\u00e1lem elektrody a struskou",
+                "correct": null,
+                "id": 18259,
+                "tried": false
+            },
+            {
+                "text": "roztaven\u00fdm p\u0159\u00eddavn\u00fdm materi\u00e1lem",
+                "correct": null,
+                "id": 18260,
+                "tried": false
+            },
+            {
+                "text": "roztaven\u00fdm z\u00e1kladn\u00edm a p\u0159\u00eddavn\u00fdm materi\u00e1lem",
+                "correct": null,
+                "id": 18261,
+                "tried": false
+            }
+        ],
+        "correctAnswer": {
+            "text": " roztaven\u00fdm z\u00e1kladn\u00edm materi\u00e1lem",
+            "correct": true,
+            "id": 18258,
+            "tried": true
+        },
+        "selected": null,
+        "text": " V p\u0159\u00edpad\u011b sva\u0159ov\u00e1n\u00ed elektronov\u00fdm paprskem je svarov\u00fd kov tvo\u0159en:      "
+    },
+    "18262": {
+        "answers": [
+            {
+                "text": " roztaven\u00fdm z\u00e1kladn\u00edm materi\u00e1lem",
+                "correct": null,
+                "id": 18262,
+                "tried": true
+            },
+            {
+                "text": "roztaven\u00fdm p\u0159\u00eddavn\u00fdm materi\u00e1lem",
+                "correct": null,
+                "id": 18263,
+                "tried": true
+            },
+            {
+                "text": "roztaven\u00fdm materi\u00e1lem elektrody a struskou",
+                "correct": null,
+                "id": 18264,
+                "tried": true
+            },
+            {
+                "text": "roztaven\u00fdm z\u00e1kladn\u00edm a p\u0159\u00eddavn\u00fdm materi\u00e1lem",
+                "correct": true,
+                "id": 18265,
+                "tried": true
+            }
+        ],
+        "correctAnswer": {
+            "text": "roztaven\u00fdm z\u00e1kladn\u00edm a p\u0159\u00eddavn\u00fdm materi\u00e1lem",
+            "correct": true,
+            "id": 18265,
+            "tried": true
+        },
+        "selected": null,
+        "text": " V p\u0159\u00edpad\u011b ru\u010dn\u00edho obloukov\u00e9ho sva\u0159ov\u00e1n\u00ed je svarov\u00fd kov tvo\u0159en:      "
+    },
+    "18266": {
+        "answers": [
+            {
+                "text": "MAG",
+                "correct": null,
+                "id": 18266,
+                "tried": true
+            },
+            {
+                "text": "WIG",
+                "correct": null,
+                "id": 18267,
+                "tried": true
+            },
+            {
+                "text": "laserov\u00e9 sva\u0159ov\u00e1n\u00ed",
+                "correct": null,
+                "id": 18268,
+                "tried": true
+            },
+            {
+                "text": "sva\u0159ov\u00e1n\u00ed elektronov\u00fdm svazkem",
+                "correct": true,
+                "id": 18269,
+                "tried": true
+            }
+        ],
+        "correctAnswer": {
+            "text": "sva\u0159ov\u00e1n\u00ed elektronov\u00fdm svazkem",
+            "correct": true,
+            "id": 18269,
+            "tried": true
+        },
+        "selected": null,
+        "text": " Ozna\u010dte metodu sva\u0159ov\u00e1n\u00ed, p\u0159i jej\u00ed\u017e aplikaci je generov\u00e1no RTG z\u00e1\u0159en\u00ed.      "
+    },
+    "18270": {
+        "answers": [
+            {
+                "text": "polovodi\u010dov\u00fd laser GaAlAs",
+                "correct": null,
+                "id": 18270,
+                "tried": true
+            },
+            {
+                "text": "pevnol\u00e1tkov\u00fd rub\u00edn:Cr",
+                "correct": true,
+                "id": 18271,
+                "tried": true
+            },
+            {
+                "text": "plynov\u00fd Ar",
+                "correct": null,
+                "id": 18272,
+                "tried": false
+            },
+            {
+                "text": "polovodi\u010dov\u00fd InGaSb",
+                "correct": null,
+                "id": 18273,
+                "tried": false
+            }
+        ],
+        "correctAnswer": {
+            "text": "pevnol\u00e1tkov\u00fd rub\u00edn:Cr",
+            "correct": true,
+            "id": 18271,
+            "tried": true
+        },
+        "selected": null,
+        "text": " Pro sva\u0159ov\u00e1n\u00ed laserov\u00fdm svazkem se pou\u017e\u00edv\u00e1 laser:      "
+    },
+    "18274": {
+        "answers": [
+            {
+                "text": "laserov\u00e9 sva\u0159ov\u00e1n\u00ed",
+                "correct": null,
+                "id": 18274,
+                "tried": true
+            },
+            {
+                "text": "MAG",
+                "correct": null,
+                "id": 18275,
+                "tried": true
+            },
+            {
+                "text": "sva\u0159ov\u00e1n\u00ed elektronov\u00fdm svazkem",
+                "correct": true,
+                "id": 18276,
+                "tried": true
+            },
+            {
+                "text": "WIG",
+                "correct": null,
+                "id": 18277,
+                "tried": false
+            }
+        ],
+        "correctAnswer": {
+            "text": "sva\u0159ov\u00e1n\u00ed elektronov\u00fdm svazkem",
+            "correct": true,
+            "id": 18276,
+            "tried": true
+        },
+        "selected": null,
+        "text": " Kter\u00e1 sva\u0159ovac\u00ed metoda vyu\u017e\u00edv\u00e1 sva\u0159ov\u00e1n\u00ed ve vakuu?      "
+    },
+    "18278": {
+        "answers": [
+            {
+                "text": "He-N<sub>2<\/sub>-CO<sub>2<\/sub>",
+                "correct": true,
+                "id": 18278,
+                "tried": true
+            },
+            {
+                "text": "polovodi\u010dov\u00fd laser GaAlAs",
+                "correct": null,
+                "id": 18279,
+                "tried": false
+            },
+            {
+                "text": "polovodi\u010dov\u00fd InGaSb",
+                "correct": null,
+                "id": 18280,
+                "tried": false
+            },
+            {
+                "text": "pevnol\u00e1tkov\u00fd rub\u00edn:W",
+                "correct": null,
+                "id": 18281,
+                "tried": false
+            }
+        ],
+        "correctAnswer": {
+            "text": "He-N<sub>2<\/sub>-CO<sub>2<\/sub>",
+            "correct": true,
+            "id": 18278,
+            "tried": true
+        },
+        "selected": null,
+        "text": " Pro sva\u0159ov\u00e1n\u00ed laserov\u00fdm svazkem se pou\u017e\u00edv\u00e1 laser:      "
+    },
+    "18282": {
+        "answers": [
+            {
+                "text": "H<sub>2<\/sub>",
+                "correct": null,
+                "id": 18282,
+                "tried": true
+            },
+            {
+                "text": "N<sub>2<\/sub>",
+                "correct": null,
+                "id": 18283,
+                "tried": true
+            },
+            {
+                "text": "Ar+He",
+                "correct": null,
+                "id": 18284,
+                "tried": true
+            },
+            {
+                "text": "CO<sub>2<\/sub>",
+                "correct": true,
+                "id": 18285,
+                "tried": true
+            }
+        ],
+        "correctAnswer": {
+            "text": "CO<sub>2<\/sub>",
+            "correct": true,
+            "id": 18285,
+            "tried": true
+        },
+        "selected": null,
+        "text": " Kter\u00fd z uveden\u00fdch plyn\u016f nepat\u0159\u00ed mezi tzv. plasmov\u00e9 plyny?      "
+    },
+    "18286": {
+        "answers": [
+            {
+                "text": "mezi W lektrodu (-p\u00f3l) a kovovou trysku(+ p\u00f3l)",
+                "correct": true,
+                "id": 18286,
+                "tried": true
+            },
+            {
+                "text": "mezi W elektrodu (+ p\u00f3l) a sva\u0159ovan\u00fd materi\u00e1l (- p\u00f3l)",
+                "correct": null,
+                "id": 18287,
+                "tried": false
+            },
+            {
+                "text": "mezi W lektrodu (+p\u00f3l) a kovovou trysku(- p\u00f3l)",
+                "correct": null,
+                "id": 18288,
+                "tried": false
+            },
+            {
+                "text": "mezi W elektrodu (- p\u00f3l) a sva\u0159ovan\u00fd materi\u00e1l (+ p\u00f3l)",
+                "correct": null,
+                "id": 18289,
+                "tried": false
+            }
+        ],
+        "correctAnswer": {
+            "text": "mezi W lektrodu (-p\u00f3l) a kovovou trysku(+ p\u00f3l)",
+            "correct": true,
+            "id": 18286,
+            "tried": true
+        },
+        "selected": null,
+        "text": " U plasmov\u00e9ho ho\u0159\u00e1ku s tzv. nep\u0159enesen\u00fdm obloukem je zapojen hlavn\u00ed zdroj      "
+    },
+    "18290": {
+        "answers": [
+            {
+                "text": "mezi W lektrodu (-p\u00f3l) a kovovou trysku(+ p\u00f3l)",
+                "correct": null,
+                "id": 18290,
+                "tried": true
+            },
+            {
+                "text": "mezi W elektrodu (+ p\u00f3l) a sva\u0159ovan\u00fd materi\u00e1l (- p\u00f3l)",
+                "correct": null,
+                "id": 18291,
+                "tried": true
+            },
+            {
+                "text": "mezi W elektrodu (- p\u00f3l) a sva\u0159ovan\u00fd materi\u00e1l (+ p\u00f3l)",
+                "correct": true,
+                "id": 18292,
+                "tried": true
+            },
+            {
+                "text": "mezi W lektrodu (+p\u00f3l) a kovovou trysku(- p\u00f3l)",
+                "correct": null,
+                "id": 18293,
+                "tried": false
+            }
+        ],
+        "correctAnswer": {
+            "text": "mezi W elektrodu (- p\u00f3l) a sva\u0159ovan\u00fd materi\u00e1l (+ p\u00f3l)",
+            "correct": true,
+            "id": 18292,
+            "tried": true
+        },
+        "selected": null,
+        "text": " U plasmov\u00e9ho ho\u0159\u00e1ku s tzv. p\u0159enesen\u00fdm obloukem je zapojen hlavn\u00ed zdroj      "
+    },
+    "18294": {
+        "answers": [
+            {
+                "text": "U = 10+0,04 I<sub>s<\/sub>",
+                "correct": true,
+                "id": 18294,
+                "tried": true
+            },
+            {
+                "text": "U = 20+0,04 I<sub>s<\/sub>",
+                "correct": null,
+                "id": 18295,
+                "tried": false
+            },
+            {
+                "text": "U = 10-0,04 I<sub>s<\/sub>",
+                "correct": null,
+                "id": 18296,
+                "tried": false
+            },
+            {
+                "text": "U = 20-0,04 I<sub>s<\/sub>",
+                "correct": null,
+                "id": 18297,
+                "tried": false
+            }
+        ],
+        "correctAnswer": {
+            "text": "U = 10+0,04 I<sub>s<\/sub>",
+            "correct": true,
+            "id": 18294,
+            "tried": true
+        },
+        "selected": null,
+        "text": " Standardn\u00ed statickou charakteristiku oblouku pro sva\u0159ovac\u00ed metodu WIG lze popsat vztahem:      "
+    },
+    "18298": {
+        "answers": [
+            {
+                "text": "U = 10-0,04 I<sub>s<\/sub>",
+                "correct": null,
+                "id": 18298,
+                "tried": true
+            },
+            {
+                "text": "U = 20-0,04 I<sub>s<\/sub>",
+                "correct": null,
+                "id": 18299,
+                "tried": true
+            },
+            {
+                "text": "U = 20+0,04 I<sub>s<\/sub>",
+                "correct": true,
+                "id": 18300,
+                "tried": true
+            },
+            {
+                "text": "U = 10+0,04 I<sub>s<\/sub>",
+                "correct": null,
+                "id": 18301,
+                "tried": false
+            }
+        ],
+        "correctAnswer": {
+            "text": "U = 20+0,04 I<sub>s<\/sub>",
+            "correct": true,
+            "id": 18300,
+            "tried": true
+        },
+        "selected": null,
+        "text": " Standardn\u00ed statickou charakteristiku oblouku pro ru\u010dn\u00ed sva\u0159ov\u00e1n\u00ed obalovanou elektrodou lze popsat vztahem:      "
+    },
+    "18302": {
+        "answers": [
+            {
+                "text": "pouh\u00fdm roztaven\u00edm Fe",
+                "correct": null,
+                "id": 18302,
+                "tried": true
+            },
+            {
+                "text": "exotermickou reakc\u00ed za vzniku oxid\u016f Fe",
+                "correct": true,
+                "id": 18303,
+                "tried": true
+            },
+            {
+                "text": "endotermickou reakc\u00ed za vzniku oxid\u016f Fe",
+                "correct": null,
+                "id": 18304,
+                "tried": false
+            },
+            {
+                "text": "endotermickou reakc\u00ed",
+                "correct": null,
+                "id": 18305,
+                "tried": false
+            }
+        ],
+        "correctAnswer": {
+            "text": "exotermickou reakc\u00ed za vzniku oxid\u016f Fe",
+            "correct": true,
+            "id": 18303,
+            "tried": true
+        },
+        "selected": null,
+        "text": " Proces \u0159ez\u00e1n\u00ed \u017eeleza kysl\u00edkem je :      "
+    },
+    "18306": {
+        "answers": [
+            {
+                "text": "ve spalov\u00e1n\u00ed \u017eeleza v kysl\u00edku a jeho vytla\u010den\u00ed proudem kysl\u00edku z \u0159ezu",
+                "correct": true,
+                "id": 18306,
+                "tried": true
+            },
+            {
+                "text": "roztaven\u00ed \u017eeleza plamenem a jeho vytla\u010den\u00ed proudem argonu z \u0159ezu",
+                "correct": null,
+                "id": 18307,
+                "tried": false
+            },
+            {
+                "text": "roztaven\u00ed \u017eeleza plamenem a jeho vytla\u010den\u00ed proudem vzduchu z \u0159ezu",
+                "correct": null,
+                "id": 18308,
+                "tried": false
+            },
+            {
+                "text": "roztaven\u00ed \u017eeleza",
+                "correct": null,
+                "id": 18309,
+                "tried": false
+            }
+        ],
+        "correctAnswer": {
+            "text": "ve spalov\u00e1n\u00ed \u017eeleza v kysl\u00edku a jeho vytla\u010den\u00ed proudem kysl\u00edku z \u0159ezu",
+            "correct": true,
+            "id": 18306,
+            "tried": true
+        },
+        "selected": null,
+        "text": " Podstata \u0159ez\u00e1n\u00ed \u017eeleza kysl\u00edkem spo\u010d\u00edv\u00e1:      "
+    },
+    "18310": {
+        "answers": [
+            {
+                "text": "je \u0159ezan\u00fd materi\u00e1l oh\u0159\u00edv\u00e1n plasmou a n\u00e1sledn\u011b vyfukov\u00e1n z \u0159ezu proudem vody",
+                "correct": null,
+                "id": 18310,
+                "tried": true
+            },
+            {
+                "text": "je \u0159ezan\u00fd materi\u00e1l oh\u0159\u00edv\u00e1n plasmou a n\u00e1sledn\u011b vyfukov\u00e1n z \u0159ezu proudem kysl\u00edku",
+                "correct": null,
+                "id": 18311,
+                "tried": true
+            },
+            {
+                "text": "je \u0159ezan\u00fd materi\u00e1l oh\u0159\u00edv\u00e1n plasmou a n\u00e1sledn\u011b vyfukov\u00e1n z \u0159ezu proudem dus\u00edku",
+                "correct": null,
+                "id": 18312,
+                "tried": true
+            },
+            {
+                "text": "je \u0159ezan\u00fd materi\u00e1l oh\u0159\u00edv\u00e1n plasmou a n\u00e1sledn\u011b vyfukov\u00e1n z \u0159ezu proudem vzduchu",
+                "correct": true,
+                "id": 18313,
+                "tried": true
+            }
+        ],
+        "correctAnswer": {
+            "text": "je \u0159ezan\u00fd materi\u00e1l oh\u0159\u00edv\u00e1n plasmou a n\u00e1sledn\u011b vyfukov\u00e1n z \u0159ezu proudem vzduchu",
+            "correct": true,
+            "id": 18313,
+            "tried": true
+        },
+        "selected": null,
+        "text": " P\u0159i \u0159ez\u00e1n\u00ed \u017eeleza plazmou:      "
+    },
+    "18314": {
+        "answers": [
+            {
+                "text": "PD",
+                "correct": null,
+                "id": 18314,
+                "tried": true
+            },
+            {
+                "text": "PC",
+                "correct": null,
+                "id": 18315,
+                "tried": true
+            },
+            {
+                "text": "PG",
+                "correct": true,
+                "id": 18316,
+                "tried": true
+            },
+            {
+                "text": "PF",
+                "correct": null,
+                "id": 18317,
+                "tried": false
+            }
+        ],
+        "correctAnswer": {
+            "text": "PG",
+            "correct": true,
+            "id": 18316,
+            "tried": true
+        },
+        "selected": null,
+        "text": " Vyzna\u010dte symbol pro n\u00e1sleduj\u00edc\u00ed polohu sva\u0159ov\u00e1n\u00ed: Poloha svisl\u00e1 dol\u016f<br \/><br \/>\u00a0 \u00a0 \u00a0 \u00a0 <img alt=\"image\" src=\"http:\/\/kmmutp.feld.cvut.cz\/image.php?k=170e9cfe4cbedc4c55a4aaf497f109b3&amp;f=PSVSL.JPG\" \/><br \/>      "
+    },
+    "18318": {
+        "answers": [
+            {
+                "text": "PA",
+                "correct": null,
+                "id": 18318,
+                "tried": true
+            },
+            {
+                "text": "PB",
+                "correct": null,
+                "id": 18319,
+                "tried": true
+            },
+            {
+                "text": "PC",
+                "correct": null,
+                "id": 18320,
+                "tried": true
+            },
+            {
+                "text": "PE",
+                "correct": true,
+                "id": 18321,
+                "tried": true
+            }
+        ],
+        "correctAnswer": {
+            "text": "PE",
+            "correct": true,
+            "id": 18321,
+            "tried": true
+        },
+        "selected": null,
+        "text": " Vyzna\u010dte symbol pro n\u00e1sleduj\u00edc\u00ed polohu sva\u0159ov\u00e1n\u00ed: Poloha vodorovn\u00e1 nad hlavou<br \/><br \/>\u00a0 \u00a0 \u00a0 \u00a0 <img alt=\"image\" src=\"http:\/\/kmmutp.feld.cvut.cz\/image.php?k=170e9cfe4cbedc4c55a4aaf497f109b3&amp;f=PSVSL.JPG\" \/><br \/>      "
+    },
+    "18322": {
+        "answers": [
+            {
+                "text": "PD",
+                "correct": null,
+                "id": 18322,
+                "tried": true
+            },
+            {
+                "text": "PF",
+                "correct": true,
+                "id": 18323,
+                "tried": true
+            },
+            {
+                "text": "PB",
+                "correct": null,
+                "id": 18324,
+                "tried": false
+            },
+            {
+                "text": "PC",
+                "correct": null,
+                "id": 18325,
+                "tried": false
+            }
+        ],
+        "correctAnswer": {
+            "text": "PF",
+            "correct": true,
+            "id": 18323,
+            "tried": true
+        },
+        "selected": null,
+        "text": " Vyzna\u010dte symbol pro n\u00e1sleduj\u00edc\u00ed polohu sva\u0159ov\u00e1n\u00ed: Poloha svisl\u00e1 nahoru<br \/><br \/>\u00a0 \u00a0 \u00a0 \u00a0 <img alt=\"image\" src=\"http:\/\/kmmutp.feld.cvut.cz\/image.php?k=170e9cfe4cbedc4c55a4aaf497f109b3&amp;f=PSVSL.JPG\" \/><br \/>      "
+    },
+    "18326": {
+        "answers": [
+            {
+                "text": "PA",
+                "correct": null,
+                "id": 18326,
+                "tried": true
+            },
+            {
+                "text": "PB",
+                "correct": null,
+                "id": 18327,
+                "tried": true
+            },
+            {
+                "text": "PC",
+                "correct": true,
+                "id": 18328,
+                "tried": true
+            },
+            {
+                "text": "PD",
+                "correct": null,
+                "id": 18329,
+                "tried": false
+            }
+        ],
+        "correctAnswer": {
+            "text": "PC",
+            "correct": true,
+            "id": 18328,
+            "tried": true
+        },
+        "selected": null,
+        "text": " Vyzna\u010dte symbol pro n\u00e1sleduj\u00edc\u00ed polohu sva\u0159ov\u00e1n\u00ed: Poloha vodorovn\u00e1 <br \/><br \/>\u00a0 \u00a0 \u00a0 \u00a0 <img alt=\"image\" src=\"http:\/\/kmmutp.feld.cvut.cz\/image.php?k=170e9cfe4cbedc4c55a4aaf497f109b3&amp;f=PSVSL.JPG\" \/><br \/>      "
+    },
+    "18330": {
+        "answers": [
+            {
+                "text": "PA",
+                "correct": null,
+                "id": 18330,
+                "tried": true
+            },
+            {
+                "text": "PB",
+                "correct": true,
+                "id": 18331,
+                "tried": true
+            },
+            {
+                "text": "PC",
+                "correct": null,
+                "id": 18332,
+                "tried": false
+            },
+            {
+                "text": "PD",
+                "correct": null,
+                "id": 18333,
+                "tried": false
+            }
+        ],
+        "correctAnswer": {
+            "text": "PB",
+            "correct": true,
+            "id": 18331,
+            "tried": true
+        },
+        "selected": null,
+        "text": " Vyzna\u010dte symbol pro n\u00e1sleduj\u00edc\u00ed polohu sva\u0159ov\u00e1n\u00ed: Poloha vodorovn\u00e1 \u0161ikmo shora <br \/><br \/>\u00a0 \u00a0 \u00a0 \u00a0 <img alt=\"image\" src=\"http:\/\/kmmutp.feld.cvut.cz\/image.php?k=170e9cfe4cbedc4c55a4aaf497f109b3&amp;f=PSVSL.JPG\" \/><br \/>      "
+    },
+    "18334": {
+        "answers": [
+            {
+                "text": "PA",
+                "correct": true,
+                "id": 18334,
+                "tried": true
+            },
+            {
+                "text": "PB",
+                "correct": null,
+                "id": 18335,
+                "tried": false
+            },
+            {
+                "text": "PC",
+                "correct": null,
+                "id": 18336,
+                "tried": false
+            },
+            {
+                "text": "PD",
+                "correct": null,
+                "id": 18337,
+                "tried": false
+            }
+        ],
+        "correctAnswer": {
+            "text": "PA",
+            "correct": true,
+            "id": 18334,
+            "tried": true
+        },
+        "selected": null,
+        "text": " Vyzna\u010dte symbol pro n\u00e1sleduj\u00edc\u00ed polohu sva\u0159ov\u00e1n\u00ed: Poloha vodorovn\u00e1 shora <br \/><br \/>\u00a0 \u00a0 \u00a0 \u00a0 <img alt=\"image\" src=\"http:\/\/kmmutp.feld.cvut.cz\/image.php?k=170e9cfe4cbedc4c55a4aaf497f109b3&amp;f=PSVSL.JPG\" \/><br \/>      "
+    },
+    "18338": {
+        "answers": [
+            {
+                "text": "\u010dervenou",
+                "correct": null,
+                "id": 18338,
+                "tried": true
+            },
+            {
+                "text": "\u0161edou",
+                "correct": true,
+                "id": 18339,
+                "tried": true
+            },
+            {
+                "text": "b\u00edlou",
+                "correct": null,
+                "id": 18340,
+                "tried": false
+            },
+            {
+                "text": "ka\u0161tanovou",
+                "correct": null,
+                "id": 18341,
+                "tried": false
+            }
+        ],
+        "correctAnswer": {
+            "text": "\u0161edou",
+            "correct": true,
+            "id": 18339,
+            "tried": true
+        },
+        "selected": null,
+        "text": " Barva hrdla lahve pro p\u0159epravu technick\u00e9ho oxidu uhli\u010dit\u00e9ho m\u00e1 barvu:      "
+    },
+    "18342": {
+        "answers": [
+            {
+                "text": "ka\u0161tanovou",
+                "correct": true,
+                "id": 18342,
+                "tried": true
+            },
+            {
+                "text": "b\u00edlou",
+                "correct": null,
+                "id": 18343,
+                "tried": false
+            },
+            {
+                "text": "\u010dervenou",
+                "correct": null,
+                "id": 18344,
+                "tried": false
+            },
+            {
+                "text": "sv\u011btle zelenou",
+                "correct": null,
+                "id": 18345,
+                "tried": false
+            }
+        ],
+        "correctAnswer": {
+            "text": "ka\u0161tanovou",
+            "correct": true,
+            "id": 18342,
+            "tried": true
+        },
+        "selected": null,
+        "text": " Barva hrdla lahve pro p\u0159epravu technick\u00e9ho acetylenu m\u00e1 barvu:      "
+    },
+    "18346": {
+        "answers": [
+            {
+                "text": "b\u00edlou",
+                "correct": null,
+                "id": 18346,
+                "tried": true
+            },
+            {
+                "text": "ka\u0161tanovou",
+                "correct": null,
+                "id": 18347,
+                "tried": true
+            },
+            {
+                "text": "\u0161edou",
+                "correct": null,
+                "id": 18348,
+                "tried": true
+            },
+            {
+                "text": "\u010dervenou",
+                "correct": true,
+                "id": 18349,
+                "tried": true
+            }
+        ],
+        "correctAnswer": {
+            "text": "\u010dervenou",
+            "correct": true,
+            "id": 18349,
+            "tried": true
+        },
+        "selected": null,
+        "text": " Barva hrdla lahve pro p\u0159epravu technick\u00e9ho vod\u00edku m\u00e1 barvu:      "
+    },
+    "18350": {
+        "answers": [
+            {
+                "text": "&lt;70 - 100 ms<sup>-1<\/sup>",
+                "correct": null,
+                "id": 18350,
+                "tried": true
+            },
+            {
+                "text": "&gt;120ms<sup>-1<\/sup>",
+                "correct": true,
+                "id": 18351,
+                "tried": true
+            },
+            {
+                "text": "100 - 120 ms<sup>-1<\/sup>",
+                "correct": null,
+                "id": 18352,
+                "tried": false
+            },
+            {
+                "text": "70 - 100 ms<sup>-1<\/sup>",
+                "correct": null,
+                "id": 18353,
+                "tried": false
+            }
+        ],
+        "correctAnswer": {
+            "text": "&gt;120ms<sup>-1<\/sup>",
+            "correct": true,
+            "id": 18351,
+            "tried": true
+        },
+        "selected": null,
+        "text": " Jako ostr\u00fd plamen ozna\u010dujeme plamen s v\u00fdstupn\u00ed rychlost\u00ed:      "
+    },
+    "18354": {
+        "answers": [
+            {
+                "text": "ka\u0161tanovou",
+                "correct": null,
+                "id": 18354,
+                "tried": true
+            },
+            {
+                "text": "\u010dervenou",
+                "correct": null,
+                "id": 18355,
+                "tried": true
+            },
+            {
+                "text": "b\u00edlou",
+                "correct": true,
+                "id": 18356,
+                "tried": true
+            },
+            {
+                "text": "sv\u011btle zelenou",
+                "correct": null,
+                "id": 18357,
+                "tried": false
+            }
+        ],
+        "correctAnswer": {
+            "text": "b\u00edlou",
+            "correct": true,
+            "id": 18356,
+            "tried": true
+        },
+        "selected": null,
+        "text": " Barva hrdla lahve pro p\u0159epravu technick\u00e9ho kysl\u00edku m\u00e1 barvu:      "
+    },
+    "18358": {
+        "answers": [
+            {
+                "text": "3200",
+                "correct": true,
+                "id": 18358,
+                "tried": true
+            },
+            {
+                "text": "2700",
+                "correct": null,
+                "id": 18359,
+                "tried": false
+            },
+            {
+                "text": "2000",
+                "correct": null,
+                "id": 18360,
+                "tried": false
+            },
+            {
+                "text": "2800",
+                "correct": null,
+                "id": 18361,
+                "tried": false
+            }
+        ],
+        "correctAnswer": {
+            "text": "3200",
+            "correct": true,
+            "id": 18358,
+            "tried": true
+        },
+        "selected": null,
+        "text": " Teplota plamene acetylenu + O<sub>2<\/sub> dosahuje (ve \u00b0C)      "
+    },
+    "18362": {
+        "answers": [
+            {
+                "text": "2000",
+                "correct": true,
+                "id": 18362,
+                "tried": true
+            },
+            {
+                "text": "2700",
+                "correct": null,
+                "id": 18363,
+                "tried": false
+            },
+            {
+                "text": "3200",
+                "correct": null,
+                "id": 18364,
+                "tried": false
+            },
+            {
+                "text": "2800",
+                "correct": null,
+                "id": 18365,
+                "tried": false
+            }
+        ],
+        "correctAnswer": {
+            "text": "2000",
+            "correct": true,
+            "id": 18362,
+            "tried": true
+        },
+        "selected": null,
+        "text": " Teplota plamene vod\u00edku + O<sub>2<\/sub> dosahuje (ve \u00b0C)      "
+    },
+    "18366": {
+        "answers": [
+            {
+                "text": "&gt;120 ms<sup>-1<\/sup>",
+                "correct": null,
+                "id": 18366,
+                "tried": true
+            },
+            {
+                "text": "100 - 120 ms<sup>-1<\/sup>",
+                "correct": true,
+                "id": 18367,
+                "tried": true
+            },
+            {
+                "text": "70 - 100 ms<sup>-1<\/sup>",
+                "correct": null,
+                "id": 18368,
+                "tried": false
+            },
+            {
+                "text": "&lt;70 - 100 ms<sup>-1<\/sup>",
+                "correct": null,
+                "id": 18369,
+                "tried": false
+            }
+        ],
+        "correctAnswer": {
+            "text": "100 - 120 ms<sup>-1<\/sup>",
+            "correct": true,
+            "id": 18367,
+            "tried": true
+        },
+        "selected": null,
+        "text": " Jako st\u0159edn\u00ed plamen ozna\u010dujeme plamen s v\u00fdstupn\u00ed rychlost\u00ed:      "
+    },
+    "18370": {
+        "answers": [
+            {
+                "text": "&lt;70 - 100 ms<sup>-1<\/sup>",
+                "correct": null,
+                "id": 18370,
+                "tried": true
+            },
+            {
+                "text": "70 - 100 ms<sup>-1<\/sup>",
+                "correct": true,
+                "id": 18371,
+                "tried": true
+            },
+            {
+                "text": "&gt;120 ms<sup>-1<\/sup>",
+                "correct": null,
+                "id": 18372,
+                "tried": false
+            },
+            {
+                "text": "100 - 120 ms<sup>-1<\/sup>",
+                "correct": null,
+                "id": 18373,
+                "tried": false
+            }
+        ],
+        "correctAnswer": {
+            "text": "70 - 100 ms<sup>-1<\/sup>",
+            "correct": true,
+            "id": 18371,
+            "tried": true
+        },
+        "selected": null,
+        "text": " Jako m\u011bkk\u00fd plamen ozna\u010dujeme plamen s v\u00fdstupn\u00ed rychlost\u00ed:      "
+    },
+    "18374": {
+        "answers": [
+            {
+                "text": "C<sub>2<\/sub>H<sub>4<\/sub>+O<sub>2<\/sub>--&gt; 2CO+H<sub>2<\/sub>",
+                "correct": null,
+                "id": 18374,
+                "tried": true
+            },
+            {
+                "text": "2CO + H<sub>2<\/sub>+3O --&gt; 2CO<sub>2<\/sub> + H<sub>2<\/sub>O",
+                "correct": true,
+                "id": 18375,
+                "tried": true
+            },
+            {
+                "text": "C<sub>2<\/sub>H<sub>2<\/sub>+2O<sub>2<\/sub>--&gt; CO+H<sub>2<\/sub>",
+                "correct": null,
+                "id": 18376,
+                "tried": false
+            },
+            {
+                "text": "C<sub>2<\/sub>H<sub>2<\/sub>+O<sub>2<\/sub>--&gt; 2CO+H<sub>2<\/sub>",
+                "correct": null,
+                "id": 18377,
+                "tried": false
+            }
+        ],
+        "correctAnswer": {
+            "text": "2CO + H<sub>2<\/sub>+3O --&gt; 2CO<sub>2<\/sub> + H<sub>2<\/sub>O",
+            "correct": true,
+            "id": 18375,
+            "tried": true
+        },
+        "selected": null,
+        "text": " Tzv. 2. f\u00e1zi ho\u0159en\u00ed oxiduj\u00edc\u00edho plynu a acetylenu popisuje rovnice      "
+    },
+    "18378": {
+        "answers": [
+            {
+                "text": "C<sub>2<\/sub>H<sub>2<\/sub>+O<sub>2<\/sub>--&gt; 2CO+H<sub>2<\/sub>",
+                "correct": true,
+                "id": 18378,
+                "tried": true
+            },
+            {
+                "text": "2CO + H<sub>2<\/sub>+3O --&gt; 2CO<sub>2<\/sub> + H<sub>2<\/sub>O",
+                "correct": null,
+                "id": 18379,
+                "tried": false
+            },
+            {
+                "text": "C<sub>2<\/sub>H<sub>2<\/sub>+2O<sub>2<\/sub>--&gt; CO+H<sub>2<\/sub>",
+                "correct": null,
+                "id": 18380,
+                "tried": false
+            }
+        ],
+        "correctAnswer": {
+            "text": "C<sub>2<\/sub>H<sub>2<\/sub>+O<sub>2<\/sub>--&gt; 2CO+H<sub>2<\/sub>",
+            "correct": true,
+            "id": 18378,
+            "tried": true
+        },
+        "selected": null,
+        "text": " Tzv. 1. f\u00e1zi ho\u0159en\u00ed oxiduj\u00edc\u00edho plynu a acetylenu popisuje rovnice     "
+    },
+    "18381": {
+        "answers": [
+            {
+                "text": "1 a\u017e 1,1",
+                "correct": null,
+                "id": 18381,
+                "tried": true
+            },
+            {
+                "text": "&lt;1",
+                "correct": null,
+                "id": 18382,
+                "tried": true
+            },
+            {
+                "text": "= 1.2",
+                "correct": true,
+                "id": 18383,
+                "tried": true
+            },
+            {
+                "text": " &gt;2",
+                "correct": null,
+                "id": 18384,
+                "tried": false
+            }
+        ],
+        "correctAnswer": {
+            "text": "= 1.2",
+            "correct": true,
+            "id": 18383,
+            "tried": true
+        },
+        "selected": null,
+        "text": " Jako oxida\u010dn\u00ed plamen ozna\u010dujeme plamen s pom\u011brem oxiduj\u00edc\u00edho plynu a acetylenu      "
+    },
+    "18385": {
+        "answers": [
+            {
+                "text": "= 1.2",
+                "correct": null,
+                "id": 18385,
+                "tried": true
+            },
+            {
+                "text": " &gt;2",
+                "correct": null,
+                "id": 18386,
+                "tried": true
+            },
+            {
+                "text": "1 a\u017e 1,1",
+                "correct": true,
+                "id": 18387,
+                "tried": true
+            },
+            {
+                "text": " &lt;1",
+                "correct": null,
+                "id": 18388,
+                "tried": false
+            }
+        ],
+        "correctAnswer": {
+            "text": "1 a\u017e 1,1",
+            "correct": true,
+            "id": 18387,
+            "tried": true
+        },
+        "selected": null,
+        "text": " Jako neutr\u00e1ln\u00ed plamen ozna\u010dujeme plamen s pom\u011brem oxiduj\u00edc\u00edho plynu a acetylenu      "
+    },
+    "18389": {
+        "answers": [
+            {
+                "text": "2800",
+                "correct": null,
+                "id": 18389,
+                "tried": true
+            },
+            {
+                "text": "3200",
+                "correct": null,
+                "id": 18390,
+                "tried": true
+            },
+            {
+                "text": "2700",
+                "correct": true,
+                "id": 18391,
+                "tried": true
+            },
+            {
+                "text": "2000",
+                "correct": null,
+                "id": 18392,
+                "tried": false
+            }
+        ],
+        "correctAnswer": {
+            "text": "2700",
+            "correct": true,
+            "id": 18391,
+            "tried": true
+        },
+        "selected": null,
+        "text": " Teplota plamene sv\u00edtiplynu + O<sub>2<\/sub> dosahuje (ve \u00b0C)      "
+    },
+    "18393": {
+        "answers": [
+            {
+                "text": "2000",
+                "correct": null,
+                "id": 18393,
+                "tried": true
+            },
+            {
+                "text": "2800",
+                "correct": true,
+                "id": 18394,
+                "tried": true
+            },
+            {
+                "text": "3200",
+                "correct": null,
+                "id": 18395,
+                "tried": false
+            },
+            {
+                "text": "2700",
+                "correct": null,
+                "id": 18396,
+                "tried": false
+            }
+        ],
+        "correctAnswer": {
+            "text": "2800",
+            "correct": true,
+            "id": 18394,
+            "tried": true
+        },
+        "selected": null,
+        "text": " Teplota plamene propanu + O<sub>2<\/sub> dosahuje (ve \u00b0C)      "
+    },
+    "18397": {
+        "answers": [
+            {
+                "text": "1 a\u017e 1,1",
+                "correct": null,
+                "id": 18397,
+                "tried": true
+            },
+            {
+                "text": "&lt;1",
+                "correct": true,
+                "id": 18398,
+                "tried": true
+            },
+            {
+                "text": "= 1.2",
+                "correct": null,
+                "id": 18399,
+                "tried": false
+            },
+            {
+                "text": " &gt;2",
+                "correct": null,
+                "id": 18400,
+                "tried": false
+            }
+        ],
+        "correctAnswer": {
+            "text": "&lt;1",
+            "correct": true,
+            "id": 18398,
+            "tried": true
+        },
+        "selected": null,
+        "text": " Jako reduk\u010dn\u00ed plamen ozna\u010dujeme plamen s pom\u011brem oxiduj\u00edc\u00edho plynu a acetylenu      "
+    },
+    "18401": {
+        "answers": [
+            {
+                "text": "acetylen",
+                "correct": true,
+                "id": 18401,
+                "tried": true
+            },
+            {
+                "text": "sv\u00edtiplyn",
+                "correct": null,
+                "id": 18402,
+                "tried": false
+            },
+            {
+                "text": "propan",
+                "correct": null,
+                "id": 18403,
+                "tried": false
+            },
+            {
+                "text": "vod\u00edk",
+                "correct": null,
+                "id": 18404,
+                "tried": false
+            }
+        ],
+        "correctAnswer": {
+            "text": "acetylen",
+            "correct": true,
+            "id": 18401,
+            "tried": true
+        },
+        "selected": null,
+        "text": " Nejvy\u0161\u0161\u00ed m\u011brn\u00fd v\u00fdkon plamene (kJ.cm<sup>2<\/sup>.s<sup>-1<\/sup>) m\u00e1:      "
+    },
+    "18405": {
+        "answers": [
+            {
+                "text": "415\u00b0C",
+                "correct": null,
+                "id": 18405,
+                "tried": true
+            },
+            {
+                "text": "327\u00b0C",
+                "correct": null,
+                "id": 18406,
+                "tried": true
+            },
+            {
+                "text": "232\u00b0C",
+                "correct": null,
+                "id": 18407,
+                "tried": true
+            },
+            {
+                "text": "670\u00b0C",
+                "correct": true,
+                "id": 18408,
+                "tried": true
+            }
+        ],
+        "correctAnswer": {
+            "text": "670\u00b0C",
+            "correct": true,
+            "id": 18408,
+            "tried": true
+        },
+        "selected": null,
+        "text": " Teplota vzniku intermetalick\u00e9 slou\u010deniny Cu<sub>3<\/sub>Sn je:      "
+    },
+    "18409": {
+        "answers": [
+            {
+                "text": "670\u00b0C",
+                "correct": null,
+                "id": 18409,
+                "tried": true
+            },
+            {
+                "text": "415\u00b0C",
+                "correct": true,
+                "id": 18410,
+                "tried": true
+            },
+            {
+                "text": "232\u00b0C",
+                "correct": null,
+                "id": 18411,
+                "tried": false
+            },
+            {
+                "text": "327\u00b0C",
+                "correct": null,
+                "id": 18412,
+                "tried": false
+            }
+        ],
+        "correctAnswer": {
+            "text": "415\u00b0C",
+            "correct": true,
+            "id": 18410,
+            "tried": true
+        },
+        "selected": null,
+        "text": " Teplota vzniku intermetalick\u00e9 slou\u010deniny Cu<sub>6<\/sub>Sn<sub>5<\/sub> je:      "
+    },
+    "18413": {
+        "answers": [
+            {
+                "text": "Sn(96,5%),Ag(3,5%),Cu(1%)",
+                "correct": null,
+                "id": 18413,
+                "tried": true
+            },
+            {
+                "text": "Sn(96,5%),Ag(4%),Cu(0,5%)",
+                "correct": null,
+                "id": 18414,
+                "tried": true
+            },
+            {
+                "text": "Sn(96,5%),Ag(3%),Cu(0,5%)",
+                "correct": true,
+                "id": 18415,
+                "tried": true
+            },
+            {
+                "text": "Sn(95,5%),Ag(4%),Cu(0,5%)",
+                "correct": null,
+                "id": 18416,
+                "tried": false
+            }
+        ],
+        "correctAnswer": {
+            "text": "Sn(96,5%),Ag(3%),Cu(0,5%)",
+            "correct": true,
+            "id": 18415,
+            "tried": true
+        },
+        "selected": null,
+        "text": " Bezolovnat\u00e1 p\u00e1jka SAC 305 m\u00e1 slo\u017een\u00ed:      "
+    },
+    "18417": {
+        "answers": [
+            {
+                "text": "napa\u0159ov\u00e1n\u00edm",
+                "correct": null,
+                "id": 18417,
+                "tried": true
+            },
+            {
+                "text": "s\u00edtotiskem nebo dispenzerem",
+                "correct": true,
+                "id": 18418,
+                "tried": true
+            },
+            {
+                "text": "napra\u0161ov\u00e1n\u00edm",
+                "correct": null,
+                "id": 18419,
+                "tried": false
+            },
+            {
+                "text": "n\u00e1st\u0159ikem",
+                "correct": null,
+                "id": 18420,
+                "tried": false
+            }
+        ],
+        "correctAnswer": {
+            "text": "s\u00edtotiskem nebo dispenzerem",
+            "correct": true,
+            "id": 18418,
+            "tried": true
+        },
+        "selected": null,
+        "text": " P\u00e1jec\u00ed pasta se na DPS nan\u00e1\u0161\u00ed:      "
+    },
+    "18421": {
+        "answers": [
+            {
+                "text": "2,5% Pb, 97,5% Sn",
+                "correct": null,
+                "id": 18421,
+                "tried": true
+            },
+            {
+                "text": "2,5% Sn, 97,5% Pb",
+                "correct": null,
+                "id": 18422,
+                "tried": true
+            },
+            {
+                "text": "63% Pb, 37% Sn",
+                "correct": null,
+                "id": 18423,
+                "tried": true
+            },
+            {
+                "text": "63% Sn, 37% Pb",
+                "correct": true,
+                "id": 18424,
+                "tried": true
+            }
+        ],
+        "correctAnswer": {
+            "text": "63% Sn, 37% Pb",
+            "correct": true,
+            "id": 18424,
+            "tried": true
+        },
+        "selected": null,
+        "text": " Nejroz\u0161\u00ed\u0159en\u011bj\u0161\u00ed olovnat\u00e1 p\u00e1jka m\u00e1 slo\u017een\u00ed:      "
+    },
+    "18425": {
+        "answers": [
+            {
+                "text": "232\u00b0C",
+                "correct": null,
+                "id": 18425,
+                "tried": true
+            },
+            {
+                "text": "323\u00b0C",
+                "correct": null,
+                "id": 18426,
+                "tried": true
+            },
+            {
+                "text": "183\u00b0C",
+                "correct": true,
+                "id": 18427,
+                "tried": true
+            },
+            {
+                "text": "215\u00b0C",
+                "correct": null,
+                "id": 18428,
+                "tried": false
+            }
+        ],
+        "correctAnswer": {
+            "text": "183\u00b0C",
+            "correct": true,
+            "id": 18427,
+            "tried": true
+        },
+        "selected": null,
+        "text": " Nejroz\u0161\u00ed\u0159en\u011bj\u0161\u00ed olovnat\u00e1 p\u00e1jka PbSn m\u00e1 teplotu t\u00e1n\u00ed:      "
+    },
+    "18429": {
+        "answers": [
+            {
+                "text": "Sn(96,5%),Ag(4%),Cu(0,5%)",
+                "correct": null,
+                "id": 18429,
+                "tried": true
+            },
+            {
+                "text": "Sn(96,5%),Ag(3%),Cu(0,5%)",
+                "correct": null,
+                "id": 18430,
+                "tried": true
+            },
+            {
+                "text": "Sn(95,5%),Ag(4%),Cu(0,5%)",
+                "correct": true,
+                "id": 18431,
+                "tried": true
+            },
+            {
+                "text": "Sn(96,5%),Ag(3,5%),Cu(1%)",
+                "correct": null,
+                "id": 18432,
+                "tried": false
+            }
+        ],
+        "correctAnswer": {
+            "text": "Sn(95,5%),Ag(4%),Cu(0,5%)",
+            "correct": true,
+            "id": 18431,
+            "tried": true
+        },
+        "selected": null,
+        "text": " Bezolovnat\u00e1 p\u00e1jka SAC 405 m\u00e1 slo\u017een\u00ed:      "
+    },
+    "18433": {
+        "answers": [
+            {
+                "text": "trubi\u010dkov\u00e1 p\u00e1jka s tavidlem",
+                "correct": null,
+                "id": 18433,
+                "tried": true
+            },
+            {
+                "text": "p\u00e1jec\u00ed pasta",
+                "correct": true,
+                "id": 18434,
+                "tried": true
+            },
+            {
+                "text": "trubi\u010dkov\u00e1 p\u00e1jka bez tavidla",
+                "correct": null,
+                "id": 18435,
+                "tried": false
+            },
+            {
+                "text": "stojat\u00e1 vlna",
+                "correct": null,
+                "id": 18436,
+                "tried": false
+            }
+        ],
+        "correctAnswer": {
+            "text": "p\u00e1jec\u00ed pasta",
+            "correct": true,
+            "id": 18434,
+            "tried": true
+        },
+        "selected": null,
+        "text": " Pro SMD technologii p\u00e1jen\u00ed se pou\u017e\u00edv\u00e1 v\u00fdhradn\u011b:      "
+    },
+    "18437": {
+        "answers": [
+            {
+                "text": "21\u00b0a\u017e 40\u00b0",
+                "correct": null,
+                "id": 18437,
+                "tried": true
+            },
+            {
+                "text": "41\u00b0 a\u017e 55\u00b0",
+                "correct": null,
+                "id": 18438,
+                "tried": true
+            },
+            {
+                "text": "91\u00b0a\u017e 180\u00b0",
+                "correct": true,
+                "id": 18439,
+                "tried": true
+            },
+            {
+                "text": "0\u00b0 a\u017e 20\u00b0",
+                "correct": null,
+                "id": 18440,
+                "tried": false
+            }
+        ],
+        "correctAnswer": {
+            "text": "91\u00b0a\u017e 180\u00b0",
+            "correct": true,
+            "id": 18439,
+            "tried": true
+        },
+        "selected": null,
+        "text": " Dle klasifikace podle \u010cSN 421315 pova\u017eujeme za nesm\u00e1\u010div\u00fd povrch takov\u00fd, kdy \u00fahel sm\u00e1\u010den\u00ed le\u017e\u00ed v intervalu      "
+    },
+    "18441": {
+        "answers": [
+            {
+                "text": "600\u00b0C",
+                "correct": null,
+                "id": 18441,
+                "tried": true
+            },
+            {
+                "text": "900\u00b0C",
+                "correct": null,
+                "id": 18442,
+                "tried": true
+            },
+            {
+                "text": "1100\u00b0C",
+                "correct": null,
+                "id": 18443,
+                "tried": true
+            },
+            {
+                "text": "450\u00b0C",
+                "correct": true,
+                "id": 18444,
+                "tried": true
+            }
+        ],
+        "correctAnswer": {
+            "text": "450\u00b0C",
+            "correct": true,
+            "id": 18444,
+            "tried": true
+        },
+        "selected": null,
+        "text": " Teplota t\u00e1n\u00ed m\u011bkk\u00e9 p\u00e1jky je ni\u017e\u0161\u00ed ne\u017e      "
+    },
+    "18445": {
+        "answers": [
+            {
+                "text": "41\u00b0 a\u017e 55\u00b0",
+                "correct": null,
+                "id": 18445,
+                "tried": true
+            },
+            {
+                "text": "21\u00b0a\u017e 40\u00b0",
+                "correct": true,
+                "id": 18446,
+                "tried": true
+            },
+            {
+                "text": "91\u00b0a\u017e 180\u00b0",
+                "correct": null,
+                "id": 18447,
+                "tried": false
+            },
+            {
+                "text": "0\u00b0 a\u017e 20\u00b0",
+                "correct": null,
+                "id": 18448,
+                "tried": false
+            }
+        ],
+        "correctAnswer": {
+            "text": "21\u00b0a\u017e 40\u00b0",
+            "correct": true,
+            "id": 18446,
+            "tried": true
+        },
+        "selected": null,
+        "text": " Dle klasifikace podle \u010cSN 421315 pova\u017eujeme za dobr\u00e9 sm\u00e1\u010den\u00ed takov\u00e9, kdy \u00fahel sm\u00e1\u010den\u00ed le\u017e\u00ed v intervalu      "
+    },
+    "18449": {
+        "answers": [
+            {
+                "text": "91\u00b0a\u017e 180\u00b0",
+                "correct": null,
+                "id": 18449,
+                "tried": true
+            },
+            {
+                "text": "41\u00b0 a\u017e 55\u00b0",
+                "correct": true,
+                "id": 18450,
+                "tried": true
+            },
+            {
+                "text": "21\u00b0a\u017e 40\u00b0",
+                "correct": null,
+                "id": 18451,
+                "tried": false
+            },
+            {
+                "text": "0\u00b0 a\u017e 20\u00b0",
+                "correct": null,
+                "id": 18452,
+                "tried": false
+            }
+        ],
+        "correctAnswer": {
+            "text": "41\u00b0 a\u017e 55\u00b0",
+            "correct": true,
+            "id": 18450,
+            "tried": true
+        },
+        "selected": null,
+        "text": " Dle klasifikace podle \u010cSN 421315 pova\u017eujeme za posta\u010duj\u00edc\u00ed sm\u00e1\u010den\u00ed takov\u00e9, kdy \u00fahel sm\u00e1\u010den\u00ed le\u017e\u00ed v intervalu      "
+    },
+    "18453": {
+        "answers": [
+            {
+                "text": "41\u00b0 a\u017e 55\u00b0",
+                "correct": null,
+                "id": 18453,
+                "tried": true
+            },
+            {
+                "text": "21\u00b0a\u017e 40\u00b0",
+                "correct": null,
+                "id": 18454,
+                "tried": true
+            },
+            {
+                "text": "0\u00b0 a\u017e 20\u00b0",
+                "correct": true,
+                "id": 18455,
+                "tried": true
+            },
+            {
+                "text": "91\u00b0a\u017e 180\u00b0",
+                "correct": null,
+                "id": 18456,
+                "tried": false
+            }
+        ],
+        "correctAnswer": {
+            "text": "0\u00b0 a\u017e 20\u00b0",
+            "correct": true,
+            "id": 18455,
+            "tried": true
+        },
+        "selected": null,
+        "text": " Dle klasifikace podle \u010cSN 421315 pova\u017eujeme za dokon\u00e1l\u00e9 sm\u00e1\u010den\u00ed takov\u00e9, kdy \u00fahel sm\u00e1\u010den\u00ed le\u017e\u00ed v intervalu      "
+    },
+    "18457": {
+        "answers": [
+            {
+                "text": "s ni\u017e\u0161\u00ed teplotou t\u00e1n\u00ed ne\u017e maj\u00ed spojovan\u00e9 materi\u00e1ly",
+                "correct": true,
+                "id": 18457,
+                "tried": true
+            },
+            {
+                "text": "s vy\u0161\u0161\u00ed teplotou t\u00e1n\u00ed, ne\u017e m\u00e1 alespo\u0148 jeden ze spojovan\u00fdch materi\u00e1l\u016f",
+                "correct": null,
+                "id": 18458,
+                "tried": false
+            },
+            {
+                "text": "se stejnou teplotou t\u00e1n\u00ed ne\u017e maj\u00ed spojovan\u00e9 materi\u00e1ly",
+                "correct": null,
+                "id": 18459,
+                "tried": false
+            },
+            {
+                "text": "s vy\u0161\u0161\u00ed teplotou t\u00e1n\u00ed ne\u017e maj\u00ed spojovan\u00e9 materi\u00e1ly",
+                "correct": null,
+                "id": 18460,
+                "tried": false
+            }
+        ],
+        "correctAnswer": {
+            "text": "s ni\u017e\u0161\u00ed teplotou t\u00e1n\u00ed ne\u017e maj\u00ed spojovan\u00e9 materi\u00e1ly",
+            "correct": true,
+            "id": 18457,
+            "tried": true
+        },
+        "selected": null,
+        "text": " P\u00e1jku tvo\u0159\u00ed kov nebo slitina      "
+    },
+    "18461": {
+        "answers": [
+            {
+                "text": "urychluj\u00ed difuzi p\u00e1jky do p\u00e1jen\u00fdch sou\u010d\u00e1st\u00ed",
+                "correct": null,
+                "id": 18461,
+                "tried": true
+            },
+            {
+                "text": "br\u00e1n\u00ed oxidaci p\u00e1jky a povrchu p\u00e1jen\u00fdch sou\u010d\u00e1st\u00ed",
+                "correct": true,
+                "id": 18462,
+                "tried": true
+            },
+            {
+                "text": "br\u00e1n\u00ed vzniku intermetalick\u00fdch slou\u010denin",
+                "correct": null,
+                "id": 18463,
+                "tried": false
+            },
+            {
+                "text": "sni\u017euj\u00ed teplotu p\u00e1jen\u00ed",
+                "correct": null,
+                "id": 18464,
+                "tried": false
+            }
+        ],
+        "correctAnswer": {
+            "text": "br\u00e1n\u00ed oxidaci p\u00e1jky a povrchu p\u00e1jen\u00fdch sou\u010d\u00e1st\u00ed",
+            "correct": true,
+            "id": 18462,
+            "tried": true
+        },
+        "selected": null,
+        "text": " Tavidla v procesu p\u00e1jen\u00ed      "
+    },
+    "18465": {
+        "answers": [
+            {
+                "text": "vz\u00e1jemn\u00e9 difuze p\u00e1jky a p\u00e1jen\u00fdch sou\u010d\u00e1st\u00ed v kapaln\u00e9 f\u00e1zi",
+                "correct": null,
+                "id": 18465,
+                "tried": true
+            },
+            {
+                "text": "vz\u00e1jemn\u00fdm rozpou\u0161t\u011bn\u00edm p\u00e1jky a spojovan\u00fdch kov\u016f a vz\u00e1jemn\u00e9 difuze p\u00e1jky a p\u00e1jen\u00fdch sou\u010d\u00e1st\u00ed v pevn\u00e9 f\u00e1zi",
+                "correct": true,
+                "id": 18466,
+                "tried": true
+            },
+            {
+                "text": "dif\u016fz\u00ed roztaven\u00e9 p\u00e1jky do p\u00e1jen\u00fdch sou\u010d\u00e1st\u00ed v pevn\u00e9 f\u00e1zi",
+                "correct": null,
+                "id": 18467,
+                "tried": false
+            },
+            {
+                "text": "sm\u00edsen\u00ed roztaven\u00e9 p\u00e1jky a roztaven\u00e9ho povrchu p\u00e1jen\u00fdch sou\u010d\u00e1st\u00ed a n\u00e1sledn\u00e9 solidifikace",
+                "correct": null,
+                "id": 18468,
+                "tried": false
+            }
+        ],
+        "correctAnswer": {
+            "text": "vz\u00e1jemn\u00fdm rozpou\u0161t\u011bn\u00edm p\u00e1jky a spojovan\u00fdch kov\u016f a vz\u00e1jemn\u00e9 difuze p\u00e1jky a p\u00e1jen\u00fdch sou\u010d\u00e1st\u00ed v pevn\u00e9 f\u00e1zi",
+            "correct": true,
+            "id": 18466,
+            "tried": true
+        },
+        "selected": null,
+        "text": " K vytvo\u0159en\u00ed p\u00e1jen\u00e9ho spoje doch\u00e1z\u00ed v d\u016fsledku:      "
+    },
+    "18469": {
+        "answers": [
+            {
+                "text": "p\u0159ip\u00e1jen\u00ed v\u00fdvod\u016f sou\u010d\u00e1stky mikrop\u00e1jedlem",
+                "correct": null,
+                "id": 18469,
+                "tried": true
+            },
+            {
+                "text": "p\u0159ip\u00e1jen\u00ed v\u00fdvod\u016f sou\u010d\u00e1stky stojatou vlnou",
+                "correct": null,
+                "id": 18470,
+                "tried": true
+            },
+            {
+                "text": "absorbce IR z\u00e1\u0159en\u00ed v p\u00e1jec\u00ed past\u011b a p\u00e1jen\u00fdch sou\u010d\u00e1stech a jejich sp\u00e1jen\u00ed",
+                "correct": true,
+                "id": 18471,
+                "tried": true
+            },
+            {
+                "text": "p\u0159ip\u00e1jen\u00ed v\u00fdvod\u016f sou\u010d\u00e1stky laserem",
+                "correct": null,
+                "id": 18472,
+                "tried": false
+            }
+        ],
+        "correctAnswer": {
+            "text": "absorbce IR z\u00e1\u0159en\u00ed v p\u00e1jec\u00ed past\u011b a p\u00e1jen\u00fdch sou\u010d\u00e1stech a jejich sp\u00e1jen\u00ed",
+            "correct": true,
+            "id": 18471,
+            "tried": true
+        },
+        "selected": null,
+        "text": " Podstatou \"Reflow procesu\" je:      "
+    },
+    "18473": {
+        "answers": [
+            {
+                "text": "p\u0159ip\u00e1jen\u00ed v\u00fdvod\u016f sou\u010d\u00e1stky stojatou vlnou",
+                "correct": null,
+                "id": 18473,
+                "tried": true
+            },
+            {
+                "text": "p\u0159ip\u00e1jen\u00ed v\u00fdvod\u016f sou\u010d\u00e1stky laserem",
+                "correct": null,
+                "id": 18474,
+                "tried": true
+            },
+            {
+                "text": "p\u0159ip\u00e1jen\u00ed v\u00fdvod\u016f sou\u010d\u00e1stky IR oh\u0159evem",
+                "correct": null,
+                "id": 18475,
+                "tried": true
+            },
+            {
+                "text": "kondenzace par p\u00e1jec\u00ed kapaliny na p\u00e1jec\u00ed past\u011b a p\u00e1jen\u00fdch sou\u010d\u00e1stech a jejich sp\u00e1jen\u00ed",
+                "correct": true,
+                "id": 18476,
+                "tried": true
+            }
+        ],
+        "correctAnswer": {
+            "text": "kondenzace par p\u00e1jec\u00ed kapaliny na p\u00e1jec\u00ed past\u011b a p\u00e1jen\u00fdch sou\u010d\u00e1stech a jejich sp\u00e1jen\u00ed",
+            "correct": true,
+            "id": 18476,
+            "tried": true
+        },
+        "selected": null,
+        "text": " Podstatou p\u00e1jen\u00ed v par\u00e1ch je:      "
+    },
+    "18477": {
+        "answers": [
+            {
+                "text": "dutiny uzav\u0159en\u00e9 v objemu tuh\u00e9 p\u00e1jky",
+                "correct": true,
+                "id": 18477,
+                "tried": true
+            },
+            {
+                "text": "nedostate\u010dn\u011b zap\u00e1jen\u00e9 v\u00fdvody sou\u010d\u00e1stek",
+                "correct": null,
+                "id": 18478,
+                "tried": false
+            },
+            {
+                "text": "vodiv\u00e9 mosty mezi p\u00e1jec\u00edmi body",
+                "correct": null,
+                "id": 18479,
+                "tried": false
+            },
+            {
+                "text": "p\u00e1jkou nesmo\u010den\u00e9 v\u00fdvody sou\u010d\u00e1stek",
+                "correct": null,
+                "id": 18480,
+                "tried": false
+            }
+        ],
+        "correctAnswer": {
+            "text": "dutiny uzav\u0159en\u00e9 v objemu tuh\u00e9 p\u00e1jky",
+            "correct": true,
+            "id": 18477,
+            "tried": true
+        },
+        "selected": null,
+        "text": " \"Voidy\" jsou:      "
+    },
+    "18481": {
+        "answers": [
+            {
+                "text": "vymezuje oblasti zna\u010den\u00ed sou\u010dastek",
+                "correct": null,
+                "id": 18481,
+                "tried": true
+            },
+            {
+                "text": "vymezuje oblast sm\u00e1\u010den\u00ed p\u00e1jkou",
+                "correct": true,
+                "id": 18482,
+                "tried": true
+            },
+            {
+                "text": "zabra\u0148uje oxidaci p\u00e1jen\u00e9 plochy",
+                "correct": null,
+                "id": 18483,
+                "tried": false
+            },
+            {
+                "text": "omezuje vznik intermetalick\u00fdch slitin",
+                "correct": null,
+                "id": 18484,
+                "tried": false
+            }
+        ],
+        "correctAnswer": {
+            "text": "vymezuje oblast sm\u00e1\u010den\u00ed p\u00e1jkou",
+            "correct": true,
+            "id": 18482,
+            "tried": true
+        },
+        "selected": null,
+        "text": " Nep\u00e1jiv\u00e1 maska:      "
+    },
+    "18485": {
+        "answers": [
+            {
+                "text": "nen\u00ed vhodn\u00e9 pro mikroelektroniku",
+                "correct": null,
+                "id": 18485,
+                "tried": true
+            },
+            {
+                "text": "THT",
+                "correct": true,
+                "id": 18486,
+                "tried": true
+            },
+            {
+                "text": "SMT",
+                "correct": null,
+                "id": 18487,
+                "tried": false
+            },
+            {
+                "text": "wire bonding",
+                "correct": null,
+                "id": 18488,
+                "tried": false
+            }
+        ],
+        "correctAnswer": {
+            "text": "THT",
+            "correct": true,
+            "id": 18486,
+            "tried": true
+        },
+        "selected": null,
+        "text": " P\u00e1jen\u00ed stojatou vlnou je vhodn\u00e9 pro technologii mont\u00e1\u017ee:      "
+    },
+    "18489": {
+        "answers": [
+            {
+                "text": "termokompresi",
+                "correct": null,
+                "id": 18489,
+                "tried": true
+            },
+            {
+                "text": "ultrazvukov\u00e9 sva\u0159ov\u00e1n\u00ed",
+                "correct": true,
+                "id": 18490,
+                "tried": true
+            },
+            {
+                "text": "termosonick\u00e9 sva\u0159ov\u00e1n\u00ed",
+                "correct": null,
+                "id": 18491,
+                "tried": false
+            },
+            {
+                "text": "p\u00e1jen\u00ed",
+                "correct": null,
+                "id": 18492,
+                "tried": false
+            }
+        ],
+        "correctAnswer": {
+            "text": "ultrazvukov\u00e9 sva\u0159ov\u00e1n\u00ed",
+            "correct": true,
+            "id": 18490,
+            "tried": true
+        },
+        "selected": null,
+        "text": " Wire bonding pou\u017e\u00edv\u00e1 k propojov\u00e1n\u00ed AlSi mikrodr\u00e1tem:      "
+    },
+    "18493": {
+        "answers": [
+            {
+                "text": "intermetalickou slitinu Au<sub>5<\/sub>Al<sub>2<\/sub>",
+                "correct": null,
+                "id": 18493,
+                "tried": true
+            },
+            {
+                "text": "intermetalickou slou\u010deninu Au<sub>5<\/sub>Al<sub>2<\/sub>",
+                "correct": null,
+                "id": 18494,
+                "tried": true
+            },
+            {
+                "text": "intermetalickou slou\u010deninu Au<sub>2<\/sub>Al",
+                "correct": true,
+                "id": 18495,
+                "tried": true
+            },
+            {
+                "text": "intermetalickou slitinu Au<sub>2<\/sub>Al",
+                "correct": null,
+                "id": 18496,
+                "tried": false
+            }
+        ],
+        "correctAnswer": {
+            "text": "intermetalickou slou\u010deninu Au<sub>2<\/sub>Al",
+            "correct": true,
+            "id": 18495,
+            "tried": true
+        },
+        "selected": null,
+        "text": " Jako purpurov\u00fd mor ozna\u010dujeme:      "
+    },
+    "18497": {
+        "answers": [
+            {
+                "text": "intermetalickou slitinu Au<sub>5<\/sub>Al<sub>2<\/sub>",
+                "correct": null,
+                "id": 18497,
+                "tried": true
+            },
+            {
+                "text": "intermetalickou slou\u010deninu Au<sub>5<\/sub>Al<sub>2<\/sub>",
+                "correct": true,
+                "id": 18498,
+                "tried": true
+            },
+            {
+                "text": "intermetalickou slou\u010deninu Au<sub>2<\/sub>Al",
+                "correct": null,
+                "id": 18499,
+                "tried": false
+            },
+            {
+                "text": "intermetalickou slitinu Au<sub>2<\/sub>Al",
+                "correct": null,
+                "id": 18500,
+                "tried": false
+            }
+        ],
+        "correctAnswer": {
+            "text": "intermetalickou slou\u010deninu Au<sub>5<\/sub>Al<sub>2<\/sub>",
+            "correct": true,
+            "id": 18498,
+            "tried": true
+        },
+        "selected": null,
+        "text": " Jako b\u00edl\u00fd mor ozna\u010dujeme:      "
+    },
+    "18501": {
+        "answers": [
+            {
+                "text": "termokompresi",
+                "correct": null,
+                "id": 18501,
+                "tried": true
+            },
+            {
+                "text": "ultrazvukov\u00e9 sva\u0159ov\u00e1n\u00ed",
+                "correct": null,
+                "id": 18502,
+                "tried": true
+            },
+            {
+                "text": "termosonick\u00e9 sva\u0159ov\u00e1n\u00ed",
+                "correct": true,
+                "id": 18503,
+                "tried": true
+            },
+            {
+                "text": "p\u00e1jen\u00ed",
+                "correct": null,
+                "id": 18504,
+                "tried": false
+            }
+        ],
+        "correctAnswer": {
+            "text": "termosonick\u00e9 sva\u0159ov\u00e1n\u00ed",
+            "correct": true,
+            "id": 18503,
+            "tried": true
+        },
+        "selected": null,
+        "text": " Wire bonding pou\u017e\u00edv\u00e1 k propojov\u00e1n\u00ed Cu mikrodr\u00e1tem:      "
+    },
+    "18505": {
+        "answers": [
+            {
+                "text": "mikrodr\u00e1t\u016f",
+                "correct": true,
+                "id": 18505,
+                "tried": true
+            },
+            {
+                "text": "p\u00e1jec\u00edch past",
+                "correct": null,
+                "id": 18506,
+                "tried": false
+            },
+            {
+                "text": "plo\u0161n\u00fdch spoj\u016f",
+                "correct": null,
+                "id": 18507,
+                "tried": false
+            },
+            {
+                "text": "spoj\u016f ti\u0161t\u011bn\u00fdch s\u00edtotiskem",
+                "correct": null,
+                "id": 18508,
+                "tried": false
+            }
+        ],
+        "correctAnswer": {
+            "text": "mikrodr\u00e1t\u016f",
+            "correct": true,
+            "id": 18505,
+            "tried": true
+        },
+        "selected": null,
+        "text": " Wire bonding pou\u017e\u00edv\u00e1 k propojov\u00e1n\u00ed:      "
+    },
+    "18509": {
+        "answers": [
+            {
+                "text": "termokompresi",
+                "correct": true,
+                "id": 18509,
+                "tried": true
+            },
+            {
+                "text": "ultrazvukov\u00e9 sva\u0159ov\u00e1n\u00ed",
+                "correct": null,
+                "id": 18510,
+                "tried": false
+            },
+            {
+                "text": "termosonick\u00e9 sva\u0159ov\u00e1n\u00ed",
+                "correct": null,
+                "id": 18511,
+                "tried": false
+            },
+            {
+                "text": "p\u00e1jen\u00ed",
+                "correct": null,
+                "id": 18512,
+                "tried": false
+            }
+        ],
+        "correctAnswer": {
+            "text": "termokompresi",
+            "correct": true,
+            "id": 18509,
+            "tried": true
+        },
+        "selected": null,
+        "text": " Wire bonding pou\u017e\u00edv\u00e1 k propojov\u00e1n\u00ed Au mikrodr\u00e1tem:      "
+    },
+    "18513": {
+        "answers": [
+            {
+                "text": "technologie spojov\u00e1n\u00ed sou\u010d\u00e1stek na desce plo\u0161n\u00fdch spoj\u016f",
+                "correct": null,
+                "id": 18513,
+                "tried": true
+            },
+            {
+                "text": "technologie propojov\u00e1n\u00ed v\u00edcevrstv\u00fdch desek plo\u0161n\u00fdch spoj\u016f",
+                "correct": null,
+                "id": 18514,
+                "tried": true
+            },
+            {
+                "text": "technologie propojov\u00e1n\u00ed sou\u010d\u00e1stek s dr\u00e1tov\u00fdmi v\u00fdvody",
+                "correct": null,
+                "id": 18515,
+                "tried": true
+            },
+            {
+                "text": "techlogie propojov\u00e1n\u00ed v\u00fdvod\u016f na \u010dipech a expandovan\u00fdch v\u00fdvod\u016f",
+                "correct": true,
+                "id": 18516,
+                "tried": true
+            }
+        ],
+        "correctAnswer": {
+            "text": "techlogie propojov\u00e1n\u00ed v\u00fdvod\u016f na \u010dipech a expandovan\u00fdch v\u00fdvod\u016f",
+            "correct": true,
+            "id": 18516,
+            "tried": true
+        },
+        "selected": null,
+        "text": " Wire bonding je :      "
+    },
+    "18517": {
+        "answers": [
+            {
+                "text": "slitina Ni<sub>2<\/sub>-Si",
+                "correct": null,
+                "id": 18517,
+                "tried": true
+            },
+            {
+                "text": "Cu - W",
+                "correct": null,
+                "id": 18518,
+                "tried": true
+            },
+            {
+                "text": "ASCO slinut\u00fd",
+                "correct": true,
+                "id": 18519,
+                "tried": true
+            },
+            {
+                "text": "Cu-Co",
+                "correct": null,
+                "id": 18520,
+                "tried": false
+            }
+        ],
+        "correctAnswer": {
+            "text": "ASCO slinut\u00fd",
+            "correct": true,
+            "id": 18519,
+            "tried": true
+        },
+        "selected": null,
+        "text": " Pro v\u00fdrobu elektrod pro odporov\u00e9 sva\u0159ov\u00e1n\u00ed se pou\u017e\u00edv\u00e1:      "
+    },
+    "18521": {
+        "answers": [
+            {
+                "text": "Cu- Si",
+                "correct": null,
+                "id": 18521,
+                "tried": true
+            },
+            {
+                "text": "Cu - W",
+                "correct": null,
+                "id": 18522,
+                "tried": true
+            },
+            {
+                "text": "slitina Cu-Ni<sub>2<\/sub>-Si",
+                "correct": true,
+                "id": 18523,
+                "tried": true
+            },
+            {
+                "text": "Cu-Co",
+                "correct": null,
+                "id": 18524,
+                "tried": false
+            }
+        ],
+        "correctAnswer": {
+            "text": "slitina Cu-Ni<sub>2<\/sub>-Si",
+            "correct": true,
+            "id": 18523,
+            "tried": true
+        },
+        "selected": null,
+        "text": " Pro v\u00fdrobu elektrod pro odporov\u00e9 sva\u0159ov\u00e1n\u00ed se pou\u017e\u00edv\u00e1:      "
+    },
+    "18525": {
+        "answers": [
+            {
+                "text": "Cu-Co",
+                "correct": null,
+                "id": 18525,
+                "tried": true
+            },
+            {
+                "text": "slitina Ni<sub>2<\/sub>Si",
+                "correct": null,
+                "id": 18526,
+                "tried": true
+            },
+            {
+                "text": "Cu - W",
+                "correct": null,
+                "id": 18527,
+                "tried": true
+            },
+            {
+                "text": "Cu-Cr",
+                "correct": true,
+                "id": 18528,
+                "tried": true
+            }
+        ],
+        "correctAnswer": {
+            "text": "Cu-Cr",
+            "correct": true,
+            "id": 18528,
+            "tried": true
+        },
+        "selected": null,
+        "text": " Pro v\u00fdrobu elektrod pro odporov\u00e9 sva\u0159ov\u00e1n\u00ed se pou\u017e\u00edv\u00e1:      "
+    },
+    "18529": {
+        "answers": [
+            {
+                "text": "slitina Ni<sub>2<\/sub>Si",
+                "correct": null,
+                "id": 18529,
+                "tried": true
+            },
+            {
+                "text": "Cu - W",
+                "correct": null,
+                "id": 18530,
+                "tried": true
+            },
+            {
+                "text": "Cu-Si",
+                "correct": null,
+                "id": 18531,
+                "tried": true
+            },
+            {
+                "text": "E Cu",
+                "correct": true,
+                "id": 18532,
+                "tried": true
+            }
+        ],
+        "correctAnswer": {
+            "text": "E Cu",
+            "correct": true,
+            "id": 18532,
+            "tried": true
+        },
+        "selected": null,
+        "text": " Pro v\u00fdrobu elektrod pro odporov\u00e9 sva\u0159ov\u00e1n\u00ed se pou\u017e\u00edv\u00e1:      "
+    },
+    "18533": {
+        "answers": [
+            {
+                "text": "vysok\u00fdm proudem ,kr\u00e1tk\u00fdm \u010dasem, vy\u0161\u0161\u00ed p\u0159\u00edtla\u010dnou silou",
+                "correct": true,
+                "id": 18533,
+                "tried": true
+            },
+            {
+                "text": "vysok\u00fdm proudem ,kr\u00e1tk\u00fdm \u010dasem, ni\u017e\u0161\u00ed p\u0159\u00edtla\u010dnou silou",
+                "correct": null,
+                "id": 18534,
+                "tried": false
+            },
+            {
+                "text": "vysok\u00fdm proudem,dlouh\u00fdmm \u010dasem, vy\u0161\u0161\u00ed p\u0159\u00edtla\u010dnou silou",
+                "correct": null,
+                "id": 18535,
+                "tried": false
+            },
+            {
+                "text": "ni\u017e\u0161\u00edm sva\u0159ovac\u00edm proudem ,del\u0161\u00edm \u010dasem, ni\u017e\u0161\u00ed p\u0159\u00edtla\u010dnou silou",
+                "correct": null,
+                "id": 18536,
+                "tried": false
+            }
+        ],
+        "correctAnswer": {
+            "text": "vysok\u00fdm proudem ,kr\u00e1tk\u00fdm \u010dasem, vy\u0161\u0161\u00ed p\u0159\u00edtla\u010dnou silou",
+            "correct": true,
+            "id": 18533,
+            "tried": true
+        },
+        "selected": null,
+        "text": " Tzv. tvrd\u00fd re\u017eim p\u0159i odporov\u00e9m sva\u0159ov\u00e1n\u00ed je charakterizov\u00e1n:      "
+    },
+    "18537": {
+        "answers": [
+            {
+                "text": "vysok\u00fdm proudem,dlouh\u00fdmm \u010dasem, vy\u0161\u0161\u00ed p\u0159\u00edtla\u010dnou silou",
+                "correct": null,
+                "id": 18537,
+                "tried": true
+            },
+            {
+                "text": "vysok\u00fdm proudem ,kr\u00e1tk\u00fdm \u010dasem, vy\u0161\u0161\u00ed p\u0159\u00edtla\u010dnou silou",
+                "correct": null,
+                "id": 18538,
+                "tried": true
+            },
+            {
+                "text": "ni\u017e\u0161\u00edm sva\u0159ovac\u00edm proudem ,del\u0161\u00edm \u010dasem, ni\u017e\u0161\u00ed p\u0159\u00edtla\u010dnou silou",
+                "correct": true,
+                "id": 18539,
+                "tried": true
+            },
+            {
+                "text": "vysok\u00fdm proudem ,kr\u00e1tk\u00fdm \u010dasem, ni\u017e\u0161\u00ed p\u0159\u00edtla\u010dnou silou",
+                "correct": null,
+                "id": 18540,
+                "tried": false
+            }
+        ],
+        "correctAnswer": {
+            "text": "ni\u017e\u0161\u00edm sva\u0159ovac\u00edm proudem ,del\u0161\u00edm \u010dasem, ni\u017e\u0161\u00ed p\u0159\u00edtla\u010dnou silou",
+            "correct": true,
+            "id": 18539,
+            "tried": true
+        },
+        "selected": null,
+        "text": " Tzv. m\u011bkk\u00fd re\u017eim p\u0159i odporov\u00e9m sva\u0159ov\u00e1n\u00ed je charakterizov\u00e1n:      "
+    },
+    "18541": {
+        "answers": [
+            {
+                "text": "elektrostruskov\u00e9 sva\u0159ov\u00e1n\u00ed",
+                "correct": true,
+                "id": 18541,
+                "tried": true
+            },
+            {
+                "text": "v\u00fdstupkov\u00e9 sva\u0159ov\u00e1n\u00ed",
+                "correct": null,
+                "id": 18542,
+                "tried": false
+            },
+            {
+                "text": "\u0161vov\u00e9 sva\u0159ov\u00e1n\u00ed",
+                "correct": null,
+                "id": 18543,
+                "tried": false
+            },
+            {
+                "text": "bodov\u00e9 sva\u0159ov\u00e1n\u00ed",
+                "correct": null,
+                "id": 18544,
+                "tried": false
+            }
+        ],
+        "correctAnswer": {
+            "text": "elektrostruskov\u00e9 sva\u0159ov\u00e1n\u00ed",
+            "correct": true,
+            "id": 18541,
+            "tried": true
+        },
+        "selected": null,
+        "text": " Mezi metody odporov\u00e9ho sva\u0159ov\u00e1n\u00ed nepat\u0159\u00ed:      "
+    },
+    "18545": {
+        "answers": [
+            {
+                "text": " elektrick\u00e9ho oblouku",
+                "correct": null,
+                "id": 18545,
+                "tried": true
+            },
+            {
+                "text": " generovan\u00e9 svazkem dopadaj\u00edc\u00edch elektron\u016f",
+                "correct": null,
+                "id": 18546,
+                "tried": true
+            },
+            {
+                "text": " generovan\u00e9 laserov\u00fdm svazkem",
+                "correct": null,
+                "id": 18547,
+                "tried": true
+            },
+            {
+                "text": "Jouleovo",
+                "correct": true,
+                "id": 18548,
+                "tried": true
+            }
+        ],
+        "correctAnswer": {
+            "text": "Jouleovo",
+            "correct": true,
+            "id": 18548,
+            "tried": true
+        },
+        "selected": null,
+        "text": " Odporov\u00e9 sva\u0159ov\u00e1n\u00ed vyu\u017e\u00edv\u00e1 ke sva\u0159ov\u00e1n\u00ed teplo :      "
+    }
+}
