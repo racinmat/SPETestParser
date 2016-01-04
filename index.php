@@ -2,8 +2,13 @@
 
 require_once __DIR__ . '/tests/utils.php';
 
-/** @var Question[] $allTests */
-$allTests = loadFromJson(__DIR__ . '/tests.json');
+if ($_GET['sorted']) {
+	/** @var Question[] $allTests */
+	$allTests = loadFromJson(__DIR__ . '/testsSorted.json');
+} else {
+	/** @var Question[] $allTests */
+	$allTests = loadFromJson(__DIR__ . '/tests.json');
+}
 ?>
 
 <html>
